@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "dinajpur-2022-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "জার্মেনিয়াম কেলাসের শক্তিফাঁক কত?",
+          "solutionText": "জার্মেনিয়াম কেলাসের শক্তিফাক $0.7eV$ ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.3 eV"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.7 eV"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.0 eV"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.1 eV"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোন পদার্থের তাপমাত্রা বাড়ালে রোধ কমে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "নাইক্রোম"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "কপার"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "অ্যালুমিনিয়াম"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "জার্মেনিয়াম"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কার্নো চক্রের দ্বিতীয় ধাপে \ni. চাপ হ্রাস পায় \nii. তাপমাত্রা হ্রাস পায় \niii. আয়তন হ্রাস পায় নিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও: n সংখ্যক C ধারকত্বের ধারককে V ভোল্ট উৎসের সাথে যথাক্রমে শ্রেণি ও সমান্তরালে যুক্ত করা হলো।Q. শ্রেণি ও সমান্তরালে তুল্য ধারকত্ব যথাক্রমে Cs ও Cp হলে নিচের কোনটি সঠিক?",
+          "solutionText": "${C}_{s}=\\frac{C}{n}$ এবং ${C}_{p}=nC$ , সুতরাং, $\\frac{{C}_{p}}{{C}_{s}}=\\frac{nC}{\\frac{C}{n}}={n}^{2}$ বা, ${C}_{p}={n}^{2}{C}_{s}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "${C}_{p}={n}^{2}{C}_{s}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "${C}_{p}=n{C}_{s}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "${C}_{p}=\\frac{{C}_{s}}{n}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${C}_{p}=\\frac{{C}_{s}}{{n}^{2}}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও: n সংখ্যক C ধারকত্বের ধারককে V ভোল্ট উৎসের সাথে যথাক্রমে শ্রেণি ও সমান্তরালে যুক্ত করা হলো।Q. উদ্দীপকে শ্রেণি ও সমান্তরাল তুল্যধারকের সঞ্চিত শক্তি যথাক্রমে Us ও Up হলে নিচের কোনটি সঠিক?",
+          "solutionText": "$\\begin{matrix} & {U}_{s}=\\frac{1}{2}{C}_{s}{V}^{2}\\text{ এবং }{U}_{p}=\\frac{1}{2}{C}_{p}{V}^{2}\\text{ বা, }\\frac{{U}_{p}}{{U}_{s}}=\\frac{\\frac{1}{2}{C}_{p}{V}^{2}}{\\frac{1}{2}{C}_{s}{V}^{2}}\\\\ & \\text{ বা, }\\frac{{U}_{s}}{{U}_{s}}=\\frac{{n}^{2}{C}^{2}}{C}\\text{ বা, }{U}_{p}={n}^{2}{u}_{s}\\text{ । }\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "${U}_{P}=\\frac{{U}_{s}}{n}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "${U}_{p}={U}_{s}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "${U}_{p}=n{U}_{s}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "${U}_{p}={n}^{2}{U}_{s}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1 কুরি =?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.7 x ${10}^{3}$ Bq"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.7 x ${10}^{4}$ Bq"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.7 x ${10}^{7}$ Bq"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "3.7 x ${10}^{10}$ Bq"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো সুসংগত উৎস হতে নির্গত তরঙ্গদ্বয় সমদশায় মিলিত হবে যদি তরঙ্গদ্বয়ের পথ পার্থক্য-",
+          "solutionText": "দুটি তরঙ্গ যদি সমদশায় মিলিত হয় তবে গঠনমূলক ব্যতিচার সৃষ্টি হয়। এ সময় পথ পার্থক্য হয় $\\frac{\\lambda}{2}$ এর যুগ্ম গুণিতক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{\\lambda}{2}$ এর যুগ্ম গুণিতক হয়"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\lambda}{2}$ এর অযুগ্ম গুণিতক হয়"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\lambda}{4}$ যুগ্ম গুণিতক হয়"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\lambda}{4}$ এর অযুগ্ম গুণিতক হয়"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো নির্দিষ্ট পরিবাহীর দু'প্রান্তের বিভব পার্থক্য V ভোল্ট এবং পরিবাহীতে উদ্ভূত তাপ H জুল। (R ও t ধ্রুবক) নিচের কোন লেখচিত্র সঠিক?",
+          "solutionText": "$H=VIt=\\frac{{V}^{2}t}{R}$$R$ এবং $t$ ধ্রুবক হলে, $H={V}^{2}\\times$ ধ্রুবক$∴H∝{V}^{2}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রথম"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "দ্বিতীয়"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "তৃতীয়"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "চতুর্থ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পানির প্রতিসরাঙ্ক 1.33। পানিতে সমবর্তন কোণে আলোকরশ্মি আপতিত করলে প্রতিসরণ কোণ হবে—",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "90 °"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "53 °"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "37 °"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "26 °"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড় হতে পর্দার দূরত্ব হ্রাস করা হলে-\ni. ঝালরের প্রস্থ হ্রাস পায় \nii. ডোরা ব্যবধান হ্রাস পায় \niii. ঝালরের কৌণিক বেধ হ্রাস পায় নিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি লক্ষ্য করো এবং প্রশ্নের উত্তর দাও: নিচের লেখচিত্র ফটোতড়িৎ ক্রিয়ায় কম্পাঙ্ক ও গতিশক্তির সম্পর্ক প্রকাশ করে।Q. উদ্দীপকে কার্যাপেক্ষক এর মান কত?",
+          "solutionText": "${ϕ}^{′}=h{f}_{0}=6.63\\times{10}^{-34}\\times5\\times{10}^{14}=3.3\\times{10}^{-19}\\text{ }J$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.2 x ${10}^{-19}$ J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.9 × ${10}^{-19}$ J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "3.3 x ${10}^{-19}$ J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.9 × ${10}^{-19}$ J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি লক্ষ্য করো এবং প্রশ্নের উত্তর দাও: নিচের লেখচিত্র ফটোতড়িৎ ক্রিয়ায় কম্পাঙ্ক ও গতিশক্তির সম্পর্ক প্রকাশ করে।Q. উদ্দীপকে আপতিত আলোর কম্পাঙ্ক হলো-",
+          "solutionText": "$hf={K}_{\\text{max }}+ϕ$ বা, $f=\\frac{8\\times1.6\\times{10}^{-19}+3.3\\times{10}^{-19}}{6.63\\times{10}^{-34}}=2.43\\times{10}^{15}\\text{ }Hz$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "2.43 x ${10}^{15}$ Hz"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.22 × ${10}^{15}$ Hz"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.11 x ${10}^{15}$ Hz"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.43 x ${10}^{15}$ Hz"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "${}_{3}^{7}Li + X \\to {}_{2}^{4}He + {}_{2}^{4}He$ এখানে X হলো-",
+          "solutionText": "$x$ এর পারমাণবিক সংখ্যা $=(2+2)-3=1$ এবং ভর = $(4+4)-7=1$ সুতরাং, ${}_{1}^{1}X={}_{1}^{1}H;{}_{1}^{1}H=$ প্রোটন।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "আলফা কণা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "নিউট্রন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "প্রোটন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ডিউটেরন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "আপেক্ষিকতার তত্ত্ব অনুসারে-নিচের কোনটি সঠিক?",
+          "solutionText": "$L={L}_{0}(\\sqrt{1-\\frac{{v}^{2}}{{c}^{2}}})$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "প্রথম ও দ্বিতীয় বোর কক্ষপথে ইলেকট্রনের শক্তির অনুপাত-",
+          "solutionText": "$\\begin{matrix} & {E}_{n}=\\frac{{E}_{1}}{{n}^{2}}\\text{ বা, }\\frac{{E}_{2}}{{E}_{1}}=\\frac{1}{{n}^{2}}=\\frac{1}{{2}^{2}}=\\frac{1}{4}\\\\ & ∴{E}_{1}:{E}_{2}=4:1\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1: 2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "1: 4"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2: 1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "4: 1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "5 সে.মি. ব্যাসার্ধের চার্জিত ফাঁপা গোলকের পৃষ্ঠে বিভব 10 V হলে কেন্দ্রে বিভব হবে-",
+          "solutionText": "গোলকের কেন্দ্র থেকে পৃষ্ঠ পর্যন্ত সকল বিন্দুতে বিভব সমান। গোলকের বাইরে বিভব দূরত্বের ব্যস্তানুপাতিক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0 V"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2 V"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "5 V"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "10 V"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো তেজস্ক্রিয় পদার্থের প্রারম্ভিক পরমাণু সংখ্যা N0 অর্ধায়ু 3 দিন হলে 15 দিন পর অক্ষত পরমাণু সংখ্যা-",
+          "solutionText": "$\\begin{matrix}N={N}_{0}{e}^{-\\lambdat}={N}_{0}{e}^{\\frac{-0.693}{\\frac{1}{2}}\\timest}={N}_{0}{e}^{-\\frac{0.693}{3}\\times15}={N}_{0e}\\times\\frac{1}{5\\times0.693}\\\\ =\\frac{{N}_{0}}{32}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{{N}_{0}}{32}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{N}_{0}}{16}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{N}_{0}}{10}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{N}_{0}}{8}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কমন ইমিটার বর্তনীতে VCE স্থির থাকলে $I$B বনাম $I$C লেখচিত্র নিম্নরূপ:Q. লেখচিত্রটির ঢাল প্রকাশ করে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "প্রবাহ লাভ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রবাহ বিবর্ধক গুণক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিভব লাভ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্ষমতা লাভ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উপরের বর্তনী দ্বারা নিচের কোন লজিক গেইট বাস্তবায়ন করা যায়?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "OR"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "NOT"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "AND"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "NAND"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "প্রত্যাবর্তী প্রক্রিয়ার ক্ষেত্রে-",
+          "solutionText": "প্রত্যাবর্তী প্রক্রিয়া-(i) স্বতঃস্ফূর্ত প্রক্রিয়া নয়। এটি ধীর প্রক্রিয়া।(ii) এই প্রক্রিয়ায় সিস্টেমের তাপগতীয় সাম্যাবস্থা বজায় থাকে।(iii) এ ক্রিয়া অপচয় মুক্ত। কার্যনির্বাহক বস্তু প্রাথমিক অবস্থায় ফিরে আসে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "এটি স্বতঃস্ফূর্ত প্রক্রিয়া"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "এটি ধীর প্রক্রিয়া"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপগতীয় সাম্যাবস্থা বজায় থাকে না"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "শক্তির অপচয় হয়"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তড়িৎ প্রবেশ্যতার S. $I$ একক হলো -",
+          "solutionText": "$\\begin{matrix} & F=\\frac{1}{4\\pi{ϵ}_{0}}\\frac{{q}_{1}\\cdot{q}_{2}}{{d}^{2}}\\\\ & \\text{ বা, }{ϵ}_{0}=\\frac{{q}_{1}{q}_{2}}{4\\piF{d}^{2}}\\\\ & ∴{ϵ}_{0}\\text{ এর একক }=\\frac{C\\cdotC}{N\\cdot{m}^{2}}={N}^{-1}{m}^{-2}{C}^{2}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$N{m}^{-2}C$ {-2}"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "${N}^{-1}{m}^{-2}{C}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$N{m}^{-2}{C}^{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "${N}^{-1}{m}^{-2}{C}^{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো তড়িৎ দ্বিমেরুর অক্ষের ওপর মধ্যবিন্দু হতে r দূরত্বে কোনো বিন্দুতে তড়িৎ বিভব হলো— (যেখানে P = 2lq)",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$V=\\frac{1}{4\\pi{\\epsilon}_{o}}\\frac{P}{(r-l)}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$V=\\frac{1}{4\\pi{\\epsilon}_{o}}\\frac{P}{(r+l)}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$V=\\frac{1}{4\\pi{\\epsilon}_{o}}\\frac{P}{({r}^{2}-{l}^{2})}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$V=\\frac{1}{4\\pi{\\epsilon}_{o}}\\frac{P}{({r}^{3}-{l}^{3})}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তরঙ্গমুখের উপরস্থ কণাসমূহের দশা পার্থক্য হলো-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "0 রেডিয়ান"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\pi}{4}$ রেডিয়ান"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\pi}{2}$ রেডিয়ান"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\pi$ রেডিয়ান"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও: কোনো তাপ ইঞ্জিনের তাপগ্রাহকের তাপমাত্রা 360 K এবং দক্ষতা 40 %।Q. তাপ উৎসের তাপমাত্রা হলো-",
+          "solutionText": "$\\begin{matrix} & {\\eta}^{′}=1-\\frac{{T}_{2}}{{T}_{1}}\\text{ বা, }\\frac{{T}_{2}}{{T}_{1}}=1-\\eta\\text{ বা, }{T}_{1}=\\frac{{T}_{2}}{1-\\eta}=\\frac{360}{1-0.4}\\\\ & =600\\text{ }K\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "400K"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "600K"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "720K"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "900K"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2022-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও: কোনো তাপ ইঞ্জিনের তাপগ্রাহকের তাপমাত্রা 360 K এবং দক্ষতা 40 %।Q.ইঞ্জিনের দক্ষতা দ্বিগুণ করতে হলে উৎসের তাপমাত্রা বৃদ্ধি করতে হবে-",
+          "solutionText": "$\\begin{matrix} & {\\eta}^{′}=2\\times40%=0.8=1-\\frac{{T}_{2}}{{T}_{1}^{′}} \\text{ বা, }{T}_{1}^{′}=\\frac{{T}_{2}}{1-0.8}=\\frac{360}{1-0.8}\\\\ & =1800\\text{ }K\\\\ & \\end{matrix}$উৎসের তাপমাত্রা বাড়াতে হবে, ${T}_{1}^{′}-{T}_{1}=1800-600=1200\\text{ }K$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "450 K"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "600 K"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "900 K"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "1200 K"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "457a70be7b0963bc4dee0ce0d1e5138408ee7864344137e7b1f8c123e12a5652",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

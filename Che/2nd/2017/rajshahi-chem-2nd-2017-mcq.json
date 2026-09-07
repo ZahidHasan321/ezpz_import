@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "rajshahi-2017-physics1st-q1",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাওঃA $\\underset{(X)}{-{CH}_{2}OH}⟶\\underset{(Y)}{A}-CHO\\to$ হেক্সামিনQ. X যৌগটি সনাক্তকরণের জন্য কোনটি ব্যবহৃত হয়?",
+          "solutionText": "A হল আরোমেটিক আলকোহল।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "স্যালিসাইলিক এসিড"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রাইমারি অ্যামিন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "পিকরিক এসিড"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "টলেন বিকারক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q2",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাওঃA $\\underset{(X)}{-{CH}_{2}OH}⟶\\underset{(Y)}{A}-CHO\\to$ হেক্সামিনQ. কোন গ্যাসটি Y যৌগের মধ্যে দিয়ে প্রবাহিত করলে রিউমেটিক ফিভার এর ঔষধ তৈরি হয়?",
+          "solutionText": "Y হল অ্যারোমেটিক আলডিহাইড যার সাহায্যে বাতজ্বরের ওষুধ পাওয়া যায়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "মিথেন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ইথিলিন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "অ্যামোনিয়া"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্লোরিন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q3",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "WHO এর পরিসংখ্যান অনুযায়ী পিপিএম এককে আর্সেনিকের সর্বোচ্চ মাত্রা হলো-",
+          "solutionText": "WHO এর পরিসংখ্যান অনুযায়ী পিপিএম এককে আর্সেনিকের সর্বোচ্চ মাত্রা হলো 0.05 (বাংলাদেশ)"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.01"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.04"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.05"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.06"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q4",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি $O{H}^{-}$ আয়নের অনুবন্ধী এসিড?",
+          "solutionText": "অনুবন্ধী এসিড এ একটি H বেশি থাকে"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "${H}_{3}{O}^{+}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "${H}_{2}O$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "${O}^{2-}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${O}_{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q5",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "6 মোল ${O}_{2}$ ও 14 মোল ${N}_{2}$ গ্যাস একত্রে মেশানো হলো। মেশানোর পর গ্যাস মিশ্রণের চাপ হলো 200 মিমি। অক্সিজেনের আংশিক চাপ কত?",
+          "solutionText": "মোট মোল সংখ্যা, N = 6+14=20মিশ্রণের মোট চাপ, P=200 মিমি.$∴$ অক্সিজেনের আংশিক চাপ, ${P}_{{O}_{2}}=\\frac{6}{20}\\times200=60$ মি.মি."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "50 মিমি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "55 মিমি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "60 মিমি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "65 মিমি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "2 লিটার দ্রবণে 80 গ্রাম NaOH দ্রবীভূত হলে দ্রবণের ঘনমাত্রা কত?",
+          "solutionText": "$NaOH$ এর ভর, $W=80\\text{ }g$$NaOH$ আণবিক ভর, $M=40$দ্রবণের আয়তন, $V=2\\text{ }L$ মোলার ঘনমাত্রা, $C=\\frac{W}{MV}$$=\\frac{80}{40\\times2}=1M$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "1.0M"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.0M"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.5M"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.25M"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শুষ্ক কোষের বিভবের মান কত?",
+          "solutionText": "Dry Cell Voltage 1.5 V"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "+0.34V"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "+0.76V"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "+1.00V"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "+1.5V"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তত্ত্বীয়ভাবে একটি গ্যাসের আয়তন শূন্য-\ni. -270 ডিগ্রি সেলসিয়াস\nii. -273 ডিগ্রি সেলসিয়াস\niii. 0 কেলভিন\nনিচের কোনটি সঠিক",
+          "solutionText": "-273 degree Celsius এ গ্যাসের আয়তন বা অস্তিত্ব নেই"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "5g $C{O}_{2}$ এর অণুর সংখ্যা-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$5.85\\times{10}^{21}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$6.84\\times{10}^{22}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$7.02\\times{10}^{23}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$7.17\\times{10}^{23}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সি.জি.এস পদ্ধতিতে R-এর মান-",
+          "solutionText": "গ্যাসের আয়তন ধ্রুব। এ ধ্রুবকে মোলার গ্যাস ধ্রুবক বলে। একে R দ্বারা সূচিত করা হয়। এ কে সর্বজনীন গ্যাস ধ্রুবকও বলে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "8.316 আর্গ ডিগ্রী ${}^{-1}$ মোল ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "8.316 জুল ডিগ্রী ${}^{-1}$ মোল ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "8.316 $\\times{10}^{7}$ আর্গ ডিগ্রী ${}^{-1}$ মোল ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "8.316 $\\times{10}^{-7}$ আর্গ ডিগ্রী ${}^{-1}$ মোল ${}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনটি অ্যারোমেটিক যৌগ?",
+          "solutionText": "Pyron and Furan are aromatic compounds."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "0.5 মোল ${N}_{2}$ এবং 0.3 মোল ${O}_{2}$ একত্রে মেশানো হল। ${O}_{2}$ এর মোল ভগ্নাংশ কত?",
+          "solutionText": "দ্রবণের মোট মোল সংখ্যা, $N=0.5+0.3$ $=0.8$ মোল$∴$ অক্সিজেনের মোল ভগ্নাংশ, ${x}_{{0}_{2}}=\\frac{0.3}{0.8}=0.375$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.089"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.215"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.317"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.375"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "লুকাস বিকারক ব্যবহৃত হয়-",
+          "solutionText": "গাঢ় HCl এসিডে দ্রবীভূত অনার্দ্র জিংক ক্লোরাইডের দ্রবণকে লুকাস বিকারক বলে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফেনল শনাক্তকরণে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "অ্যালকোহল শনাক্তকরণে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "অ্যালডিহাইড শনাক্তকরণে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফ্যাটি এসিড শনাক্তকরণে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাওঃঅতিরিক্ত অ্যালকোহল (C=2) গাঢ় ${H}_{2}S{O}_{4}$ এর সাথে 140-150 ডিগ্রি সেলসিয়াস তাপমাত্রায় বিক্রিয়া করে একটি যৌগ A তৈরি করে।Q. A যৌগটির কার্যকরী মূলক কোনটি?",
+          "solutionText": "A যৌগটি হল ইথার গ্রুপের"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "-CHO"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "-O-"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "-COOH"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "-C=C-"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাওঃঅতিরিক্ত অ্যালকোহল (C=2) গাঢ় ${H}_{2}S{O}_{4}$ এর সাথে 140-150 ডিগ্রি সেলসিয়াস তাপমাত্রায় বিক্রিয়া করে একটি যৌগ A তৈরি করে।Q. A যৌগটিতে কার্বনের সংযুক্তি কত?",
+          "solutionText": "$Percentage of C=\\frac{48}{48+10+16}$ × 100= 64.86%"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "60.78%"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "61.98%"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "62.75%"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "64.86%"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$X+{O}_{3}\\toCHO-CHO$কোনটি X?",
+          "solutionText": "ইথাইন হল $CH≡CH$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ইথিন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ইথাইন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিউটিন-১"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিউটিন-২"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি অ্যানোড হিসাবে কাজ করে?",
+          "solutionText": "যার জারন বিভবের মান বেশি, সেটি আনোড"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$A{g}^{+}/Ag$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$F{e}^{2+}/Fe$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$Z{n}^{2+}/Zn$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${H}^{+}/{H}_{2}(g),Pt$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$NaOH+C{l}_{2}\\toNaCl+NaOCl+{H}_{2}O$ বিক্রিয়াটি-",
+          "solutionText": "যে সকল বিক্রিয়ায় একই বিক্রিয়কের একই সাথে জারণ ও বিজারণ ঘটে তাকে ডিসপ্রোপোরশন বিক্রিয়া বলে। উক্ত বিক্রিয়ায় Cl₂ এর একই সাথে জারণ সংখ্যা 0 থেকে – 1 ও + 1 হয়েছে অর্থাৎ Cl₂ এর একই সাথে জারণ-বিজারণ হয়েছে। তাই বিক্রিয়াটি ডিসপ্রোপোরশন বিক্রিয়া।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্লোরিনেশন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "সংযোজন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ডিসপ্রোপোরশন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "সংশ্লেষণ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "যদি 5 অ্যাম্পিয়ার কারেন্ট 30 সেকেন্ড সময় ধরে একটি ইলেকট্রোডের মধ্যদিয়ে প্রবাহিত করা হয়, তবে চার্জ কত হবে?",
+          "solutionText": "তড়িৎ প্রবাহ, $I$ = 5 Aসময়, t=30 s; চার্জ$Q=It=5\\times30=150C$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "60C"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "95.52C"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "120C"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "150C"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কিটোন প্রসারণের জন্য $IR$ বর্ণালীতে তরঙ্গ সংখ্যা কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1701 সেমি ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "1725 সেমি ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1760 সেমি ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "1785 সেমি ${}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "${R}_{2}NH+HN{O}_{2}\\toX+{N}_{2}+{H}_{2}O$X-হল-",
+          "solutionText": "Nitric Acid এর সাথে ২ ডিগ্রী আমিন হলুদ তৈলাক্ত যৌগ দেয়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বর্ণহীন গ্যাস"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "হলুদ তৈলাক্ত যৌগ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "দ্রবীভূত লবণ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বর্ণহীন তরল"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোন পদ্ধতিটি পরিবেশ দূষণ মুক্ত করার উপায়?\ni. ট্যানিন\nii. ETP\niii. রিসাইক্লিংনিচের কোনটি সঠিক",
+          "solutionText": "ট্যানিন চামড়া শিল্পে ব্যবহার হয় এবং এটি পরিবেশ দূষন ঘটায়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$C{H}_{3}CN$ অণুটিতে যথাক্রমে $\\sigma$ এবং $\\pi$ বন্ধনের সংখ্যা কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "5 ও 2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "4 ও 3"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "5 ও 3"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "4 ও 2"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ন্যানো টেকনোলজির সাথে নিচের কোনটি সম্পৃক্ত?\ni. মাইক্রো অ্যানালাইসিস\nii. কণার আকার ${10}^{-9}\\text{m}$\niii. পদার্থের অপচয় রোধ\nনিচের কোনটি সঠিক",
+          "solutionText": "সঠিক উত্তর : খ) ii ও iii\nঅপশন যাচাইকরণ:i. মাইক্রো অ্যানালাইসিস: এটি মাইক্রো স্কেলে ( ${10}^{-6}\\text{ m}$ ) পদার্থের পরিমাণগত বিশ্লেষণ পদ্ধতি, যা ন্যানো টেকনোলজির সাথে সম্পৃক্ত নয়।ii. কণার আকার ${10}^{-9}\\text{m}$ : ন্যানো টেকনোলজিতে মূলত $1-100$ ন্যানোমিটার ( $\\text{nm}$ ) আকারের কণা নিয়ে কাজ করা হয়, যেখানে $1\\text{ nm}={10}^{-9}\\text{ m}$ ।iii. পদার্থের অপচয় রোধ: ন্যানো কণার আকার অত্যন্ত ক্ষুদ্র হওয়ায় এদের কার্যকর পৃষ্ঠতলের ক্ষেত্রফল অনেক বেশি থাকে। ফলে এরা সুনির্দিষ্টভাবে কাজ করে এবং রাসায়নিক বিক্রিয়ায় বা শিল্পোৎপাদনে পদার্থের অপচয় ব্যাপকভাবে রোধ করে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "rajshahi-2017-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ক্লোরালের সংকেত কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$COC{l}_{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$C{l}_{3}CN{O}_{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$C{l}_{3}CCHO$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$C{l}_{3}CCON{H}_{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b433cc7933e7c69f24265daa8770ea332413a3de1b91cc691d130a423533d2fe",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Rajshahi",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

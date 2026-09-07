@@ -2,7 +2,7 @@ $totalItems = 0
 $totalErrors = 0
 $totalWarnings = 0
 
-Get-ChildItem "Phy/1st/2025/*.json" | ForEach-Object {
+Get-ChildItem "Che/2nd/2017/*.json" | ForEach-Object {
     Write-Host "`n=== Checking $($_.Name) ==="
 
     $output = node check.cjs $_.FullName 2>&1

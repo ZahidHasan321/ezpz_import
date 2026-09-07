@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "mymensingh-2022-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি কার্নো ইঞ্জিনের পানির হিমাঙ্ক ও স্ফুটনাঙ্ক-এর মধ্যে কার্যকর দক্ষতা কত?",
+          "solutionText": "$\\eta=(1-\\frac{{T}_{2}}{{T}_{1}})\\times100%=(1-\\frac{273}{373})\\times100%=26.8%$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "100 %"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "26.8 %"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "20.6 %"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0 %"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বিশেষ আপেক্ষিক তত্ত্বানুসারে- \ni. আলোর বেগে গতিশীল কাঠামোতে সময় অসীম \nii. আলোর বেগে চলমান বস্তুর দৈর্ঘ্য শূন্য \niii. আলোর বেগে চলমান বস্তুর ভর শূন্য হয় \nQ. নিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি চার্জ নিরপেক্ষ রশ্মি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্যাথোড রশ্মি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "আলফা রশ্মি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "গামা রশ্মি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিটা রশ্মি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বুলিয়ান বীজগণিত অনুযায়ী $\\overset{―}{A+B}$ এর মান কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\overset{―}{A}.\\overset{―}{B}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\overset{―}{A}+\\overset{―}{B}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "A + B"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "A. B"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি নিউক্লিয়াসের ভরত্রুটি 0.0377 a.m.u হলে এর বন্ধন শক্তি কত?",
+          "solutionText": "$\\begin{matrix}\\DeltaE & ={mc}^{2}=0.0377amu\\times{c}^{2}\\\\ & =0.0377\\times1.66057\\times{10}^{-27}\\times{(3\\times{10}^{8})}^{2}\\text{ }J\\\\ & =5.6343\\times{10}^{-12}\\text{ }J\\\\ & =35.2\\times{10}^{6}eV\\\\ & =35.2MeV\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.51 MeV"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "35.2 MeV"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "37.7 MeV"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "931 MeV"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1 kg ইউরেনিয়াম (235U) হতে শক্তির পরিমাণ কত kWh?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "5.25 × ${10}^{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "2.29 × ${10}^{7}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.92 × ${10}^{7}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "9.32 x ${10}^{7}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "রুদ্ধতাপীয় প্রত্যাগামী প্রক্রিয়ায় কোনো সিস্টেমের যে তাপগতীয় ধর্ম ধ্রুব থাকে তাকে বলে—",
+          "solutionText": "রুদ্ধতাপীয় পরিবর্তনে এনট্রপি স্থির থাকে। এনট্রপির একক J ${K}^{-1}$ এবং মাত্রা ${ML}^{2}{\\text{ }T}^{-2}{\\theta}^{-1}$ . পরমশূন্য তাপমাত্রায় এনট্রপির মান শূন্যের দিকে অগ্রসর হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "গতিশক্তি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "অন্তঃস্থ শক্তি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপমাত্রা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "এনট্রপি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তড়িৎ প্রাবল্য ও দূরত্বের মধ্যকার সম্পর্কসূচক লেখচিত্র কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি ধারকের দুই পাত্রের মধ্যে বিভব পার্থক্য 150 V I ধারকে সঞ্চিত শক্তি 14.9 × 10-7 J। ধারকের ধারকত্ব কত?",
+          "solutionText": "$\\begin{matrix} & U=\\frac{1}{2}{eV}^{2}\\\\ & \\text{ বা, }e=\\frac{2U}{{V}^{2}}=\\frac{2\\times14.9\\times{10}^{-7}}{(150{)}^{2}}\\text{ }F=1.3\\times{10}^{-10}\\text{ }F\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.3 x ${10}^{-5}$ F"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "6.5 × ${10}^{-9}$ F"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "1.3 × ${10}^{-10}$ F"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "6.5 × ${10}^{-10}$ F"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও:$\\frac{1}{0}n+{}_{92}^{235}U\\to{}_{56}^{141}Ba+{}_{36}^{92}Kr+{3}_{0}^{1}n+$ শক্তি\nQ. বিক্রিয়াটি কোন ধরনের?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফিউশন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ফিশন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "নিউক্লীয় তাপ বিক্রিয়া"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "সংযোজন বিক্রিয়া"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও:$\\frac{1}{0}n+{}_{92}^{235}U\\to{}_{56}^{141}Ba+{}_{36}^{92}Kr+{3}_{0}^{1}n+$ শক্তি\nQ. বিক্রিয়াটিতে কী পরিমাণ শক্তি উৎপন্ন হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "132 MeV"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "182 MeV"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "192 MeV"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "200 MeV"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1 a.m.u= \ni. 931 MeV \nii. 931 x 106 ev \niii. 1.66057 × 10-27 kg নিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তাপের যান্ত্রিক সমতার একক কোনটি?",
+          "solutionText": "তাপের যান্ত্রিক সমতা, $J=\\frac{W}{Q}$\n$∴J\\text{ এর একক }=\\frac{\\text{ জুল }}{\\text{ ক্যালারি }}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "জুল-ক্যালরি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "জুল/ ক্যালরি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্যালরি/ গ্রাম"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্যালরি/ জুল"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তিনটি সিস্টেম তাপীয় সাম্যাবস্থায় থাকলে তাদের নিচের কোন রাশিটি একই হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিভব শক্তি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "অন্তঃস্থ শক্তি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভর"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "তাপমাত্রা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তড়িৎক্ষেত্রের কোনো বিন্দুর বিভব হচ্ছে—",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "অসীম দূর থেকে একক ঋণাত্মক চার্জ আনতে কৃতকাজ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঐ বিন্দুতে একক ধনাত্মক চার্জের ওপর ক্রিয়াশীল বল"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "অসীম দূর থেকে একক ধনাত্মক চার্জ আনতে কৃতকাজ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঐ বিন্দুতে একক ঋণাত্মক চার্জের ওপর ক্রিয়াশীল বল"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ভোল্ট এর তুল্য একক কোনটি?",
+          "solutionText": "$V=\\frac{W}{Q}=\\frac{J}{C}={JC}^{-1}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$J{C}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "J.C"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$N{C}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$N{m}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও:একটি প্রত্যাবর্তী কার্নো ইঞ্জিন যখন 27 °C তাপমাত্রায় তাপগ্রাহকে থাকে তখন এর কর্মদক্ষতা হয় 50 %।Q. ইঞ্জিনটির উৎসের তাপমাত্রা কত?",
+          "solutionText": "$\\eta=(1-\\frac{{T}_{2}}{{T}_{1}})\\times100%$\nবা, $0.5=1-\\frac{300}{{T}_{1}}$\nবা, $\\frac{300}{{T}_{1}}=0.5∴{T}_{1}=600\\text{ }K$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "500 K"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "550 K"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "600 K"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "650 K"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও:একটি প্রত্যাবর্তী কার্নো ইঞ্জিন যখন 27 °C তাপমাত্রায় তাপগ্রাহকে থাকে তখন এর কর্মদক্ষতা হয় 50 %।Q. ইঞ্জিনটির দক্ষতা 60 % করতে হলে- \ni. উৎসের তাপমাত্রা 750 K করতে হবে \nii. তাপগ্রাহকের তাপমাত্রা 150 K কমাতে হবে \niii. উৎসের তাপমাত্রা 150 K বাড়াতে হবে নিচের কোনটি সঠিক?",
+          "solutionText": "i) ${\\eta}^{′}=1-\\frac{{T}_{2}}{{T}_{1}^{′}}$ বা, ${T}_{1}^{′}=\\frac{{T}_{2}}{1-{\\eta}^{′}}=\\frac{273+27}{1-0.6}=750\\text{ }K$ii) ${\\eta}^{′}=1-\\frac{{T}_{2}}{{T}_{1}}$ বা, ${T}_{2}=(1-{\\eta}^{′})\\times{T}_{1}=(1-0.6)\\times600=240\\text{ }K$তাপ গ্রাহকের তাপমাত্রা কমাতে হবে $({T}_{2}-{T}_{2})=(273+27-240)K$$=60\\text{ }K$iii) উৎসের তাপমাত্রা বাড়াতে হবে $({T}_{1}-{T}_{1})=750-600=150\\text{ }K$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "${}_{20}^{40}Ca$ এবং ${}_{19}^{36}K$ হচ্ছে-",
+          "solutionText": "ভিন্ন পারমাণবিক সংখ্যার যেসব পরমাণুতে সমান সংখাক নিউট্রন থাকে তাদের আইসোটোন বলে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "আইসোবার"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "আইসোটোপ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "আইসোমার"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "আইসোটোন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পৃথিবীর ব্যাসার্ধ 6500 km। এর ধারকত্ব কত?",
+          "solutionText": "$\\begin{matrix}C & =4\\pi{ϵ}_{0}R\\\\ & =4\\times3.1416\\times8.854\\times{10}^{-12}\\times6500\\times{10}^{3}\\text{ }F\\\\ & =723\\times{10}^{-6}\\text{ }F\\\\ & =723\\muF\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "711 F"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "722 μF"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "640 μF"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "614 μF"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি চার্জিত বস্তুকে পৃথিবীর সাথে যুক্ত করলে বস্তুটিতে আধানের পরিমাণ-",
+          "solutionText": "চার্জিত বস্তুকে পৃথিবীর সাথে সংযুক্ত করলে চার্জ বস্তু থেকে পৃথিবীতে চলে যায়। ফলে বস্তুটি চার্জ শূন্য হয়ে যায়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বৃদ্ধি পাবে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "অপরিবর্তিত হবে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "হ্রাস পাবে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "শূন্য হবে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "G = গ্যালভানোমিটারের রোধ এবং S = সান্টের রোধ হলে, সান্ট ধ্রুবক হবে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{S+G}{S}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{S}{S+G}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{S+G}{G}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{G}{S+G}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও:\nএক গুচ্ছ এক্স রশ্মির প্রতিটি ফোটনের কম্পাঙ্ক 3 × 1017 Hz.Q. ফোটনটির শক্তি কত?",
+          "solutionText": "$E=hf=6.63\\times{10}^{-34}\\times3\\times{10}^{17}\\text{ }J=1.989\\times{10}^{-16}\\text{ }J$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "1.989 × ${10}^{-16}$ J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.89 × ${10}^{-16}$ J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "19.89 × ${10}^{-16}$ J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "91.98 × ${10}^{-16}$ J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও:এক গুচ্ছ এক্স রশ্মির প্রতিটি ফোটনের কম্পাঙ্ক 3 × 1017 Hz.Q. উদ্দীপকে উল্লিখিত ফোটনের- \ni. বেগ 3 × 108 m s-1\nii. তরঙ্গদৈর্ঘ্য $10\\text{\\AA}$\niii. ভরবেগ 6.63 × 10-25 kg m s-1 নিচের কোনটি সঠিক?",
+          "solutionText": "i) রশ্মির বেগ হবে আলোর বেগের সমান অর্থাৎ $3\\times{10}^{8}{\\text{ }ms}^{-1}$ ।ii) $\\lambda=\\frac{c}{f}=\\frac{3\\times{10}^{8}}{3\\times{10}^{17}}=1\\times{10}^{-9}\\text{ }m=10\\text{\\AA}$ ।iii) $p=\\frac{h}{\\lambda}=\\frac{6.63\\times{10}^{-34}}{10\\times{10}^{-10}}=6.63\\times{10}^{-25}{kgms}^{-1}$ ,"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2022-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1.8 Ω রোধের একটি অ্যামিটার 1A তড়িৎ প্রবাহ গ্রহণ করতে পারে। 10 A তড়িৎ প্রবাহমাত্রার জন্য কত রোধের সান্ট ব্যবহার করতে হবে?",
+          "solutionText": "$n=\\frac{10}{1}=10,s=\\frac{G}{n-1}=\\frac{1.8}{10-1}=0.2\\Omega$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.2 Ω"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.2 Ω"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.2 Ω"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "4.2 Ω"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "133a2ce89c40fa3ef2ccab12d7669c54e5ab5af936dedca473c7a8e3f77b30b0",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 2nd Paper",
+          "year": 2022,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

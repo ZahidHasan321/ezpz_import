@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "chittagong-2017-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনটিতে ক্লোরিনের জারণ সংখ্যা সর্বাধিক?",
+          "solutionText": "HCIO যৌগে CI এর জারণ সংখ্যা = + 1 HCIO3, যৌগে CI এর জারণ সংখ্যা = +5 HCIO₂ যৌগে CI এর জারণ সংখ্যা = + 3 এবং HCIO4, যৌগে Cl এর জারণ সংখ্যা = + 7"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$HClO$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$HCl{O}_{3}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$HCl{O}_{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$HCl{O}_{4}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কার্বনিয়াম আয়নসমূহের স্থায়ীত্বের ক্রম কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\overset{+}{C}{H}_{3}>\\overset{+}{C}{H}_{2}R>CH{R}_{2}>\\overset{+}{C}{R}_{3}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\overset{+}{C}{H}_{3}>\\overset{+}{C}H{R}_{2}>\\overset{+}{C}{H}_{2}R>\\overset{+}{C}{R}_{3}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\overset{+}{C}{H}_{3}<\\overset{+}{C}{H}_{2}R<\\overset{+}{C}H{R}_{2}<\\overset{+}{C}{R}_{3}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\overset{+}{C}{H}_{3}>\\overset{+}{C}H>\\overset{+}{C}H{R}_{2}>\\overset{+}{C}{H}_{2}R$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "4 g He গ্যাসের জন্য ভ্যান্ডার-ওয়ালস সমীকরণ-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$(P+\\frac{a}{{V}^{2}})(V-b)=RT$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$(P+\\frac{2{a}^{2}}{{V}^{2}})(V-2b)=3RT$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$(P+\\frac{4a}{{V}^{2}})(V-2b)=2RT$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$(P+\\frac{2a}{{V}^{2}})(V+2b)=2RT$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অগ্রগণ্য মূলক কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "-NH ${}_{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "-CHO"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "-COOH"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নাইলন কোন ধরনের পলিমার অণু?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "হোমো পলিমার"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "কৃত্রিম পলিমার"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রাকৃতিক পলিমার"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "অর্ধ-কৃত্রিম পলিমার"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শুষ্ক কোষের অ্যানোড কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$N{H}_{4}Cl$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$Mn{O}_{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "Zn"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "কার্বন দন্ড"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "লবণ সেতুতে উপযুক্ত তড়িৎবিশ্লেষ্য পদার্থের কোনগুলো ব্যবহৃত হয়ে থাকে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$KCl,KN{O}_{3},N{H}_{4}Cl$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$KCl,{K}_{2}S{O}_{4},N{a}_{2}S{O}_{4}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$KCl,N{H}_{4}Cl,N{a}_{2}C{O}_{3}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$KCl,N{H}_{4}Cl,NaN{O}_{3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সক্রিয়তা সিরিজে কোনটির অবস্থান উপরে?",
+          "solutionText": "সক্রিয়তা অনুসারে ক্রমটি হলো-$Ca>Cu>Ag>Pb$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "Pb"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "Cu"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "Ag"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "Ca"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাওঃ$2KMn{O}_{4}+8{H}_{2}S{O}_{4}+10FeS{O}_{4}\\to5Fe(S{O}_{4}{)}_{3}+2MnS{O}_{4}+{K}_{2}S{O}_{4}+8{H}_{2}O$Q. উদ্দীপকের বিক্রিয়ায় কত মোল ইলেকট্রন আদান প্রদান হয়েছে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "3"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "6"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "10"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাওঃ$2KMn{O}_{4}+8{H}_{2}S{O}_{4}+10FeS{O}_{4}\\to5Fe(S{O}_{4}{)}_{3}+2MnS{O}_{4}+{K}_{2}S{O}_{4}+8{H}_{2}O$Q. বিক্রিয়াটিতে ${H}_{2}S{O}_{4}$ এর ভূমিকা কোনটি?",
+          "solutionText": "সালফিউরিক এসিড মাধ্যমকে অম্লীয় করে তড়িত পরিবহনে সাহায্য করে"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "জারক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিজারক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "অম্লীয় মাধ্যম"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "নিরুদক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$C{O}_{2}$ গ্যাসের সন্ধি তাপমাত্রা কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "-240 ${}^{o}C$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "-80 ${}^{o}C$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "31.1 ${}^{o}C$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "118.8 ${}^{o}C$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "10% $N{a}_{2}C{O}_{3}$ দ্রবণের ঘনমাত্রা মোলারিটিতে কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "100M"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "10M"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.9434M"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.4717M"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অ্যালকাইন-১ শনাক্তকরণে ব্যবহৃত বিকারক কোনটি?",
+          "solutionText": "আলকাইন-১ এর সাথে বিক্রিয়ায় Cl প্রতিস্থাপন হয়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$[Cu(N{H}_{3}{)}_{2}]Cl$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$B{r}_{2}+{H}_{2}O$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$ZnC{l}_{2}+HCl$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${C}_{6}{H}_{5}MgBr$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$Pt,{H}_{2}/{H}^{+}$ ( ${E}^{o}=0.0V$ ) এর সাথে ক্যাথোড হিসাবে ব্যবহৃত হবে কোনটি?",
+          "solutionText": "যার জারন বিভব সবচেয়ে কম, সেটি ক্যাথোড"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$Z{n}^{2+}/Zn$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$M{g}^{2+}/Mg$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$C{u}^{2+}/Cu$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$F{e}^{2+}/Fe$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "লিথিয়াম আয়ন ব্যাটারি হলো-\ni. প্রাইমারি নির্দেশক কোষ\nii. রিচার্জেবল ব্যাটারি\niii. ব্যবহৃত হয় সেলফোনে, ল্যাপটপে ইত্যাদি প্রস্তুতিতে\nনিচের কোনটি সঠিক",
+          "solutionText": "প্রাথমিক কোষ হলো একটি ব্যাটারি যা একবার ব্যবহারের জন্য তৈরি করা হয় এবং বিদ্যুৎ এর মাধ্যমে রিচার্জ করা হয় না।লিথিয়াম আয়ন ব্যাটারী রিচার্জেবল"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সারাবিশ্বে সর্বাধিক ব্যবহৃত সিমেন্ট কোনটি?",
+          "solutionText": "পোর্টল্যান্ড সিমেন্ট (portland cement) আধুনিক সিমেন্টের একটি প্রকরণ। সাধারণত এই সিমেন্ট সাধারণ সকল ধরনের নির্মাণ কাজে বহুল পরিমাণে ব্যবহৃত হয়। এই কারণে একে অনেক সময় OPC (Ordinary Portland Cement) বলা হয়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্যালসিয়াম অ্যালুমিনেট সিমেন্ট"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "সালফেট রেজিস্ট্যান্স সিমেন্ট"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "পোর্টল্যান্ড সিমেন্ট"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বায়ুরোধী সিমেন্ট"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কিউরিং-এ\ni. চামড়া থেকে অতিরিক্ত পানি অপসারণ করা হয়\nii. NaCl ব্যবহৃত হয়\niii. চামড়ায় অতিরিক্ত পানি প্রবেশ করানো হয়\nনিচের কোনটি সঠিক",
+          "solutionText": "কিউরিং করলে চামড়ার Cr Bonding শক্ত হয়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ?",
+          "solutionText": "প্রাইমারি স্ট্যান্ডার্ড পদার্থ হচ্ছে এমন এক ধরনের পদার্থ যেগুলোর ঘনমাত্রা সহজে পরিবর্তন হয় না। কোনো রাসায়নিক যৌগের ঘনমাত্রা বিভিন্ন কারণে পরিবর্তন হতে পারে। যেমন বাতাসে উপস্থিত অক্সিজেন এবং কার্বন ডাই অক্সাইড এর জন্য যেকোনো রাসায়নিক যৌগের ঘনমাত্রার পরিবর্তন হতে পারে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$KMn{O}_{4}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "${H}_{2}{C}_{2}{O}_{4}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$HCl$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$N{a}_{2}{S}_{2}{O}_{3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাওঃজৈব দূষক + ${O}_{2}\\overset{Ti{O}_{2} }{\\to}X+{H}_{2}O$Q. উৎপাদিত X যৌগটি কী?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "CO"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$C{O}_{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$HC{O}_{3}^{-}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${H}_{2}C{O}_{3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাওঃজৈব দূষক + ${O}_{2}\\overset{Ti{O}_{2} }{\\to}X+{H}_{2}O$Q. X যৌগটি পানিতে যুক্ত হয়ে কোনটি তৈরি করে?",
+          "solutionText": "CO2+H20--------> H2CO3"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "${H}_{2}S{O}_{4}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "${H}_{2}C{O}_{3}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$N{a}_{2}C{O}_{3}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$HCl$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাওঃজৈব দূষক + ${O}_{2}\\overset{Ti{O}_{2} }{\\to}X+{H}_{2}O$Q. উদ্দীপকের X যৌগটি-\ni. অম্লধর্মী\nii. হাইড্রোকার্বনের দহনে উৎপন্ন হয়\niii. দহনে সাহায্য করেনিচের কোনটি সঠিক",
+          "solutionText": "CO2 দহনে সাহায্য করে না, বরং নিজেই দাহ্য"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ক্যালোমেল কোনটি?",
+          "solutionText": "গৌণ নির্দেশক তড়িৎদ্বার হিসেবে ক্যালোমেল তড়িৎদ্বার সবচেয়ে বেশি ব্যবহৃত হয়। প্রমাণ ক্যালোমেল তড়িৎদ্বারের পাশে একটি সুরু নলসহ একটি চওড়া নলে কিছু পরিমাণ পারদ নিয়ে তার উপরে কঠিন মারকিউরাস ক্লোরাইড (Hg2Cl2) লবণ বা ক্যালোমেল নেয়া হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$HgC{l}_{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$H{g}_{2}C{l}_{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$Hg{F}_{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$H{g}_{2}{I}_{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1 মোল কপারকে ক্যাথোডে জমা করতে $CuS{O}_{4}$ দ্রবণের মধ্য দিয়ে কত ফ্যারাডে বিদ্যুৎ চালনা করতে হবে?",
+          "solutionText": "CuSO4 এর Cu এর চার্জ = +2∴ আমরা জানি, + 1 চার্জ যুক্ত 1 mol ধাতুকে ক্যাথোডে জমা করতে 96500 C বা 1 F বিদ্যুতের প্রয়োজন হয়। সুতরাং 1 মোল + 2 চার্জ যুক্ত কপার ধাতুকে ক্যাথোডে জমা করতে 2 × 96500 C বা 2 F বিদ্যুতের প্রয়োজন হবে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1F"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "2F"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3F"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "4F"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শুষ্ক কোষের e.m.f কত?",
+          "solutionText": "E.M.F= Electro motive force"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.1V"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.2V"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "1.5V"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.8V"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "chittagong-2017-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সিএনজি স্টেশনে ব্যবহৃত প্রাকৃতিক গ্যাসে মিথেনের পরিমাণ কত?",
+          "solutionText": "মিথেন একটি ভালো মানের জ্বালানী"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "79%"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "88%"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "90%"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "96%"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "ed548e91aeb0e6e7e733a3113cd3c22bc2cefb9e2b2ed9b969d64a020af3b3cd",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Chittagong",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

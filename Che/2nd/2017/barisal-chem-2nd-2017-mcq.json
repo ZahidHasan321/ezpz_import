@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "barisal-2017-physics1st-q1",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "জিপসামের সংকেত কোনটি?",
+          "solutionText": "জিপসাম  সিমেন্ট শিল্পে সিমেন্টকে দ্রুত জমাট হতে প্রতিরোধ করে"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$CaO.2{H}_{2}O$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$3CaO.{H}_{2}O$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$CaS{O}_{4}.2{H}_{2}O$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$CaS{O}_{4}.3{H}_{2}O$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q2",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1 ppm বলতে বুঝায়-",
+          "solutionText": "ppm=parts-per-million (10−6)"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 mg L"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 mg L ${}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 mg ${}^{-1}$ L ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "1 mg L ${}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q3",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$B{r}_{2}\\toBr{O}_{3}^{-}$এ বিক্রিয়ায় Br এর জারণ সংখ্যার পরিবর্তন হয়-",
+          "solutionText": "Br₂-এ Br এর জারণ মান = 0BrO3¯ এ Br এর জারণ মান = +5∴ Br এর জারণ মানের পরিবর্তন 0 থেকে + 5"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "0 থেকে +5"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0 থেকে -3"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "+1 থেকে +5"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "-1 থেকে +5"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q4",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিম্নোক্ত যৌগগুলোর কার্বন-কার্বন বন্ধন দৈর্ঘ্যের বৃদ্ধির ক্রম-",
+          "solutionText": "কার্বন-কার্বন একক বন্ধনের দৈর্ঘ্য = 0.154 nmকার্বন-কার্বন দ্বি বন্ধনের দৈর্ঘ্য = 0.134 nmকার্বন-কার্বন ত্রি বন্ধনের দৈর্ঘ্য = 0.120 nmZ হলো একক বন্ধন যুক্ত কার্বন যৌগX হলো দ্বি বন্ধন যুক্ত কার্বন যৌগY হলো ত্রি বন্ধন যুক্ত কার্বন যৌগসুতরাং, কার্বন-কার্বন বন্ধন দৈর্ঘ্যের বৃদ্ধির ক্রমটি হলো- Y<X<Z।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "X $<$ Y $<$ Z"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "Y $<$ Z $<$ X"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "X $<$ Z $<$ Y"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "Y $<$ X $<$ Z"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q5",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোন চিত্রগুলো সঠিক?",
+          "solutionText": "বয়েলের সূত্রানুসারে, PV=k, তাই, P কখনো V এর Proportional হতে পারে না"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q6",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক হতে নিম্নোক্ত ও পরবর্তী নং প্রশ্নের উত্তর দাওঃ$F{e}^{2+}+C{r}_{2}{O}_{7}^{2-}+{H}^{+}\\toA+C{r}^{3+}{H}_{2}O$Q. উদ্দীপকের বিক্রিয়ায়-\ni. $C{r}_{2}{O}_{7}^{2-}$ বিজারিত হয়েছে\nii. A জারক\niii. ${H}^{+}$ বিজারকনিচের কোনটি সঠিক",
+          "solutionText": "Fe2+ হল বিজারক, কারন এর জারন ঘটেছে"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q7",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক হতে নিম্নোক্ত ও পরবর্তী নং প্রশ্নের উত্তর দাওঃ$F{e}^{2+}+C{r}_{2}{O}_{7}^{2-}+{H}^{+}\\toA+C{r}^{3+}{H}_{2}O$Q. উদ্দীপকের 20 mL 0.05M জারক দ্রবণকে বিজারিত করতে কত mL ডেসিমোলার বিজারক দ্রবণ প্রয়োজন হবে?",
+          "solutionText": "বিক্রিয়ায় জারক $-{Cr}_{2}{O}_{7}^{-}$ \" বিজারক $-{Fe}^{2+}$বিক্রিয়ার সমতাকৃত রূপ হলো-$6{Fe}^{2+}+{Cr}_{2}{O}_{7}^{-}+14{H}^{+}\\to6{Fe}^{3+}+2{Cr}^{3+}+7{H}_{2}O$দেওয়া আছে,জারকের আয়তন, V1 = 20 mL জারকের ঘনমাত্রা, S₁ = 0.05 M বিজারকের ঘনমাত্রা, S2 = 0.1 M বিজারকের আয়তন, V2=?বিক্রিয়া হতে, $6{\\text{ }S}_{1}{\\text{ }V}_{1}={S}_{2}{\\text{ }V}_{2}$বা, $\\begin{matrix}{V}_{2} & =\\frac{6\\times{S}_{1}\\times{V}_{1}}{{S}_{2}}\\\\ & =\\frac{6\\times0.05\\times20}{0.1}=60\\text{ }mL\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "20"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "40"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "60"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "80"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "${C}_{n}{H}_{n}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "${C}_{n}{H}_{2n}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "${C}_{n}{H}_{2n-2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "${C}_{n}{H}_{2n+2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বায়ুমণ্ডলের শীতলতম অঞ্চল কোনটি?",
+          "solutionText": "মেসোস্ফিয়ার হল পৃথিবীর প্রতিরক্ষামূলক স্তর কারণ এটি বেশিরভাগ উল্কা এবং গ্রহাণুকে পৃথিবীর পৃষ্ঠে পৌঁছানোর আগেই ধ্বংস করে। এটি সবার বায়ুমণ্ডলের শীতলতম স্তর।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "মেসোস্ফিয়ার"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "আয়নোস্ফিয়ার"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ট্রপোস্ফিয়ার"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "স্ট্রাটোস্ফিয়ার"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ওজন স্তরকে ক্ষয় করে-\ni. $S{O}_{2}$\nii. NO\niii. CFCনিচের কোনটি সঠিক",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিম্নের কোনটি সমগোত্রীয় শ্রেণি?",
+          "solutionText": "কারন, সবগুলোই হল অ্যালকিন শ্রেনীর অর্ন্তভূক্ত"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ইথেন, মিথেন, প্রোপিন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ইথিন, প্রোপিন, বিউটেন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ইথেন, প্রোপেন, বিউটেন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "১-হেক্সিন, ২-হেক্সিন, ৩-হেক্সিন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "Redox বিক্রিয়াসমূহ-\ni. $CaC{O}_{3}\\overset{△ }{\\to}CaO+C{O}_{2}$\nii. ${H}_{2}+{O}_{2}\\to{H}_{2}O$\niii. $NaOH+HCl\\toNaCl+{H}_{2}O$নিচের কোনটি সঠিক?",
+          "solutionText": "(i) & (iii) নং বিক্রিয়ায় কোন মৌলেরই বিক্রিয়ক ও উতপাদের মধ্যে জারন মানের কোন পরির্বতন হয়নি"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "প্রাইমারি নির্দেশক তড়িৎদ্বার কোনটি?",
+          "solutionText": "প্রাইমারী নির্দেশক তড়িতদ্বারের বিভব সরাসরি নির্নয় করা যায়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্যালোমেল তড়িৎদ্বার"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "হাইড্রোজেন তড়িৎদ্বার"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "সিলভার-সিলভার ক্লোরাইড তড়িৎদ্বার"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্লাটিনাম তড়িৎদ্বার"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অ্যানিলিনে সিগমা বন্ধন সংখ্যা কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "6"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "8"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "10"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "14"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সবচেয়ে তীব্র এসিডের pKa মান-",
+          "solutionText": "যে এসিড যত বেশি তীব্র, তার Pka এর মান তত কম"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "4"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক হতে প্রশ্নের উত্তর দাওঃQ. উদ্দীপকের বিক্রিয়ায় X যৌগটির বৈশিষ্ট্যসমূহ-\ni. মৃদু অম্লধর্মী\nii. প্রতিটি কার্বন sp সংকরিত\niii. সংযোজন বিক্রিয়া দেয়নিচের কোনটি সঠিক",
+          "solutionText": "X হল = $CH≡CH$ , যা অম্লধর্মী, সংযোজন বিক্রিয়া দেয় এবং প্রতিটি কার্বন sp সংকরিত"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক হতে প্রশ্নের উত্তর দাওঃQ. উদ্দীপকের বিক্রিয়ায়-\ni. A অ্যারোমেটিক যৌগ\nii. B অ্যারোমেটিক যৌগ নয়\niii. B অপেক্ষা A কম সক্রিয়নিচের কোনটি সঠিক",
+          "solutionText": "A হল ইথাইন এবং B হল বেনজিন"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক হতে প্রশ্নের উত্তর দাওঃএকটি গ্যালভানিক কোষের নিম্নরূপ দুটি অর্ধকোষ রয়েছে-$C{l}_{2}(g)+2{e}^{-}\\to2C{l}^{-}(aq)$ ${E}^{o}=+1.36V$$C{u}^{2+}(aq)+2{e}^{-}\\toCu(s)$ ${E}^{o}=+0.34V$Q. উদ্দীপকের কোষটির ${E}_{cell}^{o}$ কত volt?",
+          "solutionText": "Eo Cell= 1.36-.34"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.7"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "1.02"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "-1.02"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "-1.7"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক হতে প্রশ্নের উত্তর দাওঃএকটি গ্যালভানিক কোষের নিম্নরূপ দুটি অর্ধকোষ রয়েছে-$C{l}_{2}(g)+2{e}^{-}\\to2C{l}^{-}(aq)$ ${E}^{o}=+1.36V$$C{u}^{2+}(aq)+2{e}^{-}\\toCu(s)$ ${E}^{o}=+0.34V$Q. উদ্দীপকের কোষটির সঠিক কোষ সংকেত কোনটি?",
+          "solutionText": "সঠিক কোষ সংকেতে প্রথমে জারন এবং তারপরে বিজারন দেখানো হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$Cu(s)/C{u}^{+}(aq)||C{l}_{2}(g)/2C{l}^{-}(aq)$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$Pt(s),Cu(s)/C{u}^{2+}(aq)||C{l}_{2}(g)/2C{l}^{-}(aq),Pt(s)$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$Cu(s)/C{u}^{2+}(aq)||C{l}_{2}(g)/2C{l}^{-}(aq),Pt(s)$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$Cu(s)/C{u}^{2+}(aq)||2C{l}^{-}(aq)/C{l}_{2}(g),Pt(s)$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1F বিদ্যুৎ চালনা করলে নিম্নের কোন ধাতুর আয়নটি ক্যাথোডে অধিক সঞ্চিত হবে?",
+          "solutionText": "K এর ১ মোল জমা করতে শুধু ১ ফ্যারাডে বিদ্যুৎ দরকার। কারন, k এর চার্জ হল +১"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "Zn"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "Al"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "K"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "Ca"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ন্যানো কণার বৈশিষ্ট্য-\ni. শূন্যমাত্রিক\nii. অদানাদার\niii. ছড়িয়ে পড়ার প্রবণতা অধিক\nনিচের কোনটি সঠিক",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনটি কাচের প্রধান উপাদান নয়?",
+          "solutionText": "কাচ হল সোডিয়াম ক্যালসিয়াম দ্বিসিলিকেট এর মিশ্রন।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$Si{O}_{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$A{l}_{2}{O}_{3}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$CaO$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$N{a}_{2}C{O}_{3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ফুয়েল সেলের অ্যানোড হলো-\ni. হাইড্রোজেন গ্যাস\nii. মিথানল গ্যাস\niii. অক্সিজেন গ্যাস\nনিচের কোনটি সঠিক",
+          "solutionText": "সঠিক উত্তর : ক) i ও ii\nবিশ্লেষণ : ফুয়েল সেলে জ্বালানি হিসেবে হাইড্রোজেন গ্যাস (যেমন: হাইড্রোজেন-অক্সিজেন ফুয়েল সেলে) বা মিথানল (যেমন: মিথানল-অক্সিজেন ফুয়েল সেলে) অ্যানোডে জারিত হয়। অন্যদিকে, অক্সিজেন গ্যাস সাধারণত ক্যাথোড প্রান্তে বিজারিত হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1 মোল গ্যাসের গতিশক্তি কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{3}{2}\\frac{RT}{NA}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{3}{2}nRT$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{3}{2}R$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{3}{2}RT$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনটি বিজারক?",
+          "solutionText": "বিজারক হলো একটি উপাদান বা যৌগ যা রেডক্স বিক্রিয়ায় ইলেকট্রন গ্রহণকারী পরমাণুর জন্য একটি ইলেকট্রন ত্যাগ করে। রেডক্স বিক্রিয়ায় ইলেকট্রন হারানোর সময় বিজারকটি অক্সিজেন দ্বারা জারিত হয়। এভাবে অক্সিডাইজড করা হয়। এজেন্ট হ্রাস করা \"হ্রাস\" (অথবা, অক্সিডাইজড এজেন্ট দ্বারা অক্সিডাইজড করা হয়) অক্সিডাইজিং এজেন্ট।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$KMn{O}_{4}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "${I}_{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "${H}_{2}S$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$HN{O}_{3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "602e63ce9ef1f05323b248625e65d42e2ee0789437039f28a1a0e5fda1388959",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "jessore-2017-physics1st-q1",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কার্বন ডাইঅক্সাইডের দুটি প্রধান sink বা গ্রাহক হচ্ছে-",
+          "solutionText": "Sink= যারা অধিক পরিমানে CO2 গ্রহন করতে পারে"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "উদ্ভিদ এবং বাতাস"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "সমুদ্র এবং উদ্ভিদ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "বনভূমি এবং মাটি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "উদ্ভিদ এবং জীবাশ্ম জ্বালানি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "Liquid Petroleum Gas এ কোন গ্যাসসমূহের মিশ্রণ প্রধাণত বিদ্যমান?",
+          "solutionText": "LPG গ্যাস রান্নার কাজে ব্যবহার করা হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রোপাইলিন ও বিউটাইলিন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "প্রোপেন ও বিউটেন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রোপেন ও প্রোপাইলিন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রোপেন ও ইথেন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "আদর্শ গ্যাসসমূহের জন্য কোনটি সঠিক?\ni.গ্যাস অণুসমূহের মধ্যে আকর্ষণ বল থাকে না\nii. $\\text{NTP}$ তে এক মোল গ্যাসের আয়তন $22.4$ লিটার\niii. পাত্রের আয়তনের তুলনায় গ্যাস অণুসমূহের আয়তন অতিশয় নগণ্য\nনিচের কোনটি সঠিক",
+          "solutionText": "সঠিক উত্তর: ঘ) i, ii ও iii\nঅপশন যাচাইকরণ :i সঠিক: গ্যাসের গতীয় তত্ত্বের স্বীকার্য অনুযায়ী, আদর্শ গ্যাসের অণুগুলোর মধ্যে কোনো আন্তঃআণবিক আকর্ষণ বা বিকর্ষণ বল থাকে না।ii সঠিক: প্রমাণ অবস্থায় ( $NTP/STP$ -তে ${0}^{\\circ}\\text{C}$ ও $1\\text{ atm}$ চাপে) ১ মোল আদর্শ গ্যাসের আয়তন নির্দিষ্ট, যা $22.4\\text{ L}$ ।iii সঠিক: গতীয় তত্ত্ব মতে, গ্যাস পাত্রের মোট আয়তনের তুলনায় আদর্শ গ্যাসের অণুগুলোর নিজস্ব আয়তন বিন্দু সমতুল্য বা নগণ্য।\nতিনটি শর্তই আদর্শ গ্যাসের জন্য প্রযোজ্য।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ইথানোয়িক অ্যানহাইড্রাইড এর সঠিক সংকেত কোনটি?",
+          "solutionText": "অ্যানহাইড্রাইড হল এসিড শ্রেনীর জাতক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$C{H}_{3}-CO-C{H}_{2}-CO-C{H}_{3}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$C{H}_{3}-COO-COO-C{H}_{3}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$C{H}_{3}-COO-CO-C{H}_{3}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$C{H}_{3}-C{H}_{2}-O-C{H}_{2}2-C{H}_{3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "জৈব যৌগের অণুসমূহ কোন ধরনের বন্ধন দ্বারা গঠিত?",
+          "solutionText": "জৈবযৌগের অণুসমূহ সমযোজী ধরনের বন্ধন দ্বারা গঠিত, ফলে দুর্বল বন্ধন তৈরি হয়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "আয়নিক বন্ধন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "সমযোজী বন্ধন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ধাতব বন্ধন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভ্যানডারওয়াল বল"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অ্যালডিহাইড মূলক শনাক্তকরণে কোন কোন পরীক্ষা করা হয়?",
+          "solutionText": "ফেহ্‌লিং দ্রবণ হচ্ছে একটি রাসায়নিক বিকারক যা পানিতে দ্রবণীয় শর্করা এবং কিটোন কার্যকরী মূলকের মধ্যে পার্থক্য শনাক্তকরণে, এবং টলেন বিকারক পরীক্ষার সম্পূরক হিসেবে বিজারক শর্করা ও অবিজারক শর্করা'র পরীক্ষণের কাজে ব্যবহৃত হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "আয়োডোফর্ম পরীক্ষা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফেহলিং দ্রবণ ও আয়োডোফর্ম পরীক্ষা"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ফেহলিং দ্রবণ ও টলেন বিকারক পরীক্ষা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "টলেন বিকারক ও লুকাস বিকারক পরীক্ষা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোন তাপমাত্রা ও চাপে গ্লিসারিন অণু ভেঙে যাবে না?",
+          "solutionText": "সঠিক উত্তর : ক) ৫০ মিমি এবং ${\\text{২১০}}^{\\circ}C$\nতথ্য : স্বাভাবিক চাপে $(\\text{৭৬০}$ মিমি মার্কারি) গ্লিসারিনের স্ফুটনাঙ্ক ${\\text{২৯০}}^{\\circ}C$ , কিন্তু এই তাপমাত্রায় পৌঁছানোর পূর্বেই গ্লিসারিন অণু ভেঙে বা বিয়োজিত হয়ে যায়। তাই নিম্নচাপ পাতন প্রক্রিয়ায় চাপ কমিয়ে $\\text{৫০}$ মিমি মার্কারি করা হলে, গ্লিসারিন না ভেঙে ${\\text{২১০}}^{\\circ}C$ তাপমাত্রায় ফুটতে শুরু করে (যার ফলে একে অক্ষত অবস্থায় পাতন করা সম্ভব হয়)।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\text{৫০}$ মিমি এবং ${\\text{২১০}}^{\\circ}C$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\text{৭৬০}$ মিমি এবং ${\\text{২৯০}}^{\\circ}C$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\text{১}$ বায়ুচাপ এবং ${\\text{৩১০}}^{\\circ}C$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\text{২}$ বায়ুচাপ এবং ${\\text{১৮০}}^{\\circ}C$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিম্নের উল্লেখিত কোন যৌগে $s{p}^{2}$ সংকরণ ঘটে?",
+          "solutionText": "কার্বন কার্বন দ্বি বন্ধন এর কারনে"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$C{H}_{3}-C{H}_{3}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$C{H}_{3}-C=CH$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$C{H}_{3}-C{H}_{2}-C{H}_{2}-OH$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$C{H}_{2}=C{H}_{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি পরীক্ষা নলে সামান্য পরিমাণ জৈব তরলে $KI$ দ্রবণে দ্রবীভূত ${I}_{2}$ দ্রবণ এবং NaOH দ্রবণ যোগ করে গরম করার ফলে হলুদ অধঃক্ষেপ পাওয়া গেল। এই পরীক্ষাটির নাম এবং কোন মূলকের উপস্থিতি নির্দেশ করে?",
+          "solutionText": "যেসব যৌগে CH3-CO মূলক থাকে, তারা আয়োডোফর্ম পরীক্ষা  দেয়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্যানিজারো বিক্রিয়া ও বেলজালডিহাইড"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফেহলিং দ্রবণ পরীক্ষা ও অ্যালডিহাইড মূলক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "আয়োডোফর্ম পরীক্ষা ও 2-কিটোন মূলক"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "লিটমাস পরীক্ষা ও কার্বক্সিল মূলক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ফেনলের সাথে ব্রোমিন পানি মেশানোর সাথে সাথে কোন ধরনের অধঃক্ষেপ পড়ে?",
+          "solutionText": "2,4,6-Tribromophenol"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "২, ৪, ৬ ট্রাইব্রোমোফেনলের হালকা হলুদ অধঃক্ষেপ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ডাই ফেরিক হেক্সাফিনেট এর বেগুনী রঙ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "সোডিয়াম ফেনক্সাইড এর সাদা দানা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বর্ণহীন বেনজিন ডায়াজোনিয়াম সালফেট লবণ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বিশ্রীগন্ধযুক্ত অ্যাক্রোলিন উৎপন্ন করতে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "গ্লিসারিনকে $KHS{O}_{4}/{P}_{2}{O}_{5}$ সহ উত্তপ্ত করতে হয়"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ইথান্যালকে $Cu(OH{)}_{2}$ যোগে উত্তপ্ত করতে হয়"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "অ্যালাইল অ্যালকোহলকে ক্লোরিনের সাথে উত্তপ্ত করতে হয়"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "তেল বা চর্বির আর্দ্র বিশ্লেষণের মাধ্যমে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "প্রাইমারি অ্যামিন সনাক্তকরণে কোন ধরনের পরীক্ষা করা হয়ে থাকে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "লিবারম্যান পরীক্ষা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "কোরার্টারনারি অ্যামোনিয়াম লবণ গঠনের মাধ্যমে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "লুকাস বিকারক পরীক্ষা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "কার্বিল অ্যামিন ও নাইট্রাস এসিডের সাথে পরীক্ষা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ক্রোমাটোগ্রাফির ক্ষেত্রে কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "একাধিক সচল দশা বর্তমান থাকতে হবে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "স্থির দশা থাকার প্রয়োজন নেই"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "২টি সচল দশা ও ৩টি স্থির দশা থাকতে হবে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "কমপক্ষে ১টি সচল দশা ও ১টি স্থির দশা থাকতে হবে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ক্যাটেনেশন ধর্ম প্রদর্শন করে কোন মৌল?",
+          "solutionText": "ক্যাটেনেশন: একই মৌলের পরমাণুসমূহের মধ্যে বন্ধন সৃষ্টির মাধ্যমে বিভিন্ন দৈর্ঘ্যের শিকল গঠনের ধর্মকে ক্যাটেনেশন বলা হয়। ক্যাটেনেশন ধর্ম দ্বারা কার্বন পরমাণুসমূহ নিজেদের মধ্যে একক বন্ধন, দ্বিবন্ধন বা ত্রিবন্ধন দ্বারা বিভিন্ন দৈর্ঘ্যের কার্বন পরমাণু শিকল ও বলয় গঠন করে বিভিন্ন জৈব যৌগ সৃষ্টি করতে পারে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্লোরিন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "নাইটোজেন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "কার্বন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "অক্সিজেন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সবচেয়ে শক্তিশালী বিজারক কোনটি?",
+          "solutionText": "যার জারন বিভবের মান সবচেয়ে বেশি।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "Fe"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "Al"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "Li"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "Zn"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ন্যানো প্রযুক্তির উপকারসমূহ নিম্নরূপঃ\ni. পদার্থের ভঙ্গুরতা বৃদ্ধি পায়\nii. পদার্থ সমূহের স্থায়িত্ব ও শক্তি বৃদ্ধি পায়\niii. পদার্থ সমূহের ওজন বৃদ্ধি পায়\nনিচের কোনটি সঠিক",
+          "solutionText": "ন্যানো প্রযুক্তি ব্যবহারে ভঙ্গুরতা হ্রাস পায়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "আজকাল স্যালিসাইটিক এসিড প্রস্তুতির জন্য ফেনলকে কাঁচামাল হিসাবে ব্যবহার করা হয়। এ পদ্ধতিটি আমাদের নিকট কি নামে পরিচিত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "রাইমার টাইম্যান বিক্রিয়া"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফ্রিডেল ক্রাফট বিক্রিয়া"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "উইলিয়ামসনস বিক্রিয়া"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "কোব-স্মীত বিক্রিয়া"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শক্তশালী এসিড ও দূর্বল ক্ষরের মধ্যকার টাইট্রেশনের সময় নির্দেশক হিসাবে যেটি ব্যবহৃত হয়-",
+          "solutionText": "মিথাইল অরেঞ্জ শক্তিশালী এসিড মাধ্যমে নিজের বর্ন পরিবর্তন করে"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "থাইমল ব্লু"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফেনলফথ্যালিন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "মিথাইল অরেঞ্জ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফেনলফথ্যালিন ও মিথাইল রেড"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সবুজ ভিট্রিয়ল এর সঠিক সংকেত কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "আয়রন (ii) সালফেট ও আয়রন সালফাইড এর মিশ্রণ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "কপার (ii) সালফেট এর সাথে পাঁচ অণু পানি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "কোবাল্ট (ii) সালফেট এর সাথে সাত অণু পানি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "আয়রন (ii) সালফেট এর সাথে সাত অণু পানি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "0.001(M) HCl এসিড দ্রবণের pH এর মান কত?",
+          "solutionText": "দেয়া আছে, $[{H}^{+}]=0.001M$$\\begin{matrix}∴pH & =-\\log⁡[{H}^{+}]\\\\ & =-\\log⁡(0.001)\\\\ & =3\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.97"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.07"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "3"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক অনুসারে প্রশ্নের উত্তর দাওঃQ. যৌগটির নাম কি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1, 1-ডাইমিথাইল-3-n-প্রোপাইলপেন্টেন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2-মিথাইল-4-n-প্রোপাইলহেক্সেন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "4-ইথাইল-6-মিথাইলহেপ্টেন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "2-মিথাইল-4-ইথাইলহেপ্টেন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক অনুসারে প্রশ্নের উত্তর দাওঃQ. যৌগটিতে কতটি সেকেন্ডারি কার্বন আছে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "3"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "4"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "5"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপক অনুসারে প্রশ্নের উত্তর দাওঃQ. যৌগটি-\ni. প্রতিস্থাপন বিক্রিয়া দেয় \nii. বেয়ার পরীক্ষা দেয় \niii. এর একটি কাইরাল কার্বন আছেনিচের কোনটি সঠিক",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কুকিং লিকার হিসাবে ব্যবহৃত হয়-",
+          "solutionText": "পেপার শিল্পে কুকিং লিকার ব্যবহার হয়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$NaOH,N{a}_{2}S$ ও $N{a}_{2}C{O}_{3}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$NaHS{O}_{4},N{A}_{2}C{O}_{3}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "${K}_{2}S{O}_{4},N{a}_{2}s,NaOH$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${H}_{2}S{O}_{3},N{a}_{2}C{O}_{3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$10%$ ${Na}_{2}{CO}_{3}$  দ্রবণের সঠিক ঘনমাত্রা কোনটি?",
+          "solutionText": "সঠিক উত্তর : গ) $0.9430\\text{ M}$\nগাণিতিক সমাধান :${Na}_{2}{CO}_{3}$ এর আণবিক ভর, $M=(23\\times2)+12+(16\\times3)=106\\text{ g/mol}$$10%$ দ্রবণ বলতে বোঝায়, শতকরা মাত্রা $x=10$ঘনমাত্রা,$S=\\frac{10x}{M}$$S=\\frac{10\\times10}{106}$$S=\\frac{100}{106}$$S\\approx0.943\\text{ M}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$0.00943\\text{ M}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$0.0943\\text{ M}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$0.9430\\text{ M}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$9.4310\\text{ M}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "c1e27086d7859ebbbb7867341e041e4ee23a20269717ce3609fd984ff18979f2",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Chemistry 2nd Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

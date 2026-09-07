@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "mymensingh-2025-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "${i}^{-47}$ এর আর্গুমেন্ট কত?",
+          "solutionText": "${I}^{-47}=\\frac{1}{{I}^{-47}}=\\frac{1}{{({i}^{2})}^{23}i}=\\frac{1}{-i}=\\frac{i}{-i,i}=\\frac{i}{-{i}^{2}}=i$ . \n$∴$ আর্গুমেন্ট $={\\tan}^{-1}⁡(\\frac{1}{0})={\\tan}^{-1}⁡(\\tan⁡\\frac{\\pi}{2})=\\frac{\\pi}{2}$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{\\pi}{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$-\\frac{\\pi}{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{3\\pi}{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$-\\frac{3\\pi}{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$|x-2iy|=\\sqrt{3}$ দ্বারা নির্দেশিত সঞ্চারপথ কোনটি?",
+          "solutionText": "$|x-2iy|=\\sqrt{3}$বা, $|x-i2y|=\\sqrt{3}$ বা, $\\sqrt{{x}^{2}+(-2y{)}^{2}}=\\sqrt{3}$ বা, ${x}^{2}+4{y}^{2}=3$ [বর্গ করে ]$∴\\frac{{x}^{2}}{(\\sqrt{3}{)}^{2}}+\\frac{{y}^{2}}{{(\\frac{\\sqrt{3}}{2})}^{2}}=1$ যা উপবৃত্তের সমীকরণ নির্দেশ করে"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বৃত্ত"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "পরাবৃত্ত"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "উপবৃত্ত"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "অধিবৃত্ত"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$z=\\frac{\\sqrt{3}-i}{i}$ হলে $\\overline{z}$ কোনটি?",
+          "solutionText": "সঠিক উত্তর: খ) $-1+\\sqrt{3}i$\nগাণিতিক সমাধান :দেওয়া আছে,\n$z=\\frac{\\sqrt{3}-i}{i}$\n$z=\\frac{(\\sqrt{3}-i)i}{{i}^{2}}$ [লব ও হরকে $i$ দ্বারা গুণ করে]\n$=\\frac{\\sqrt{3}i-{i}^{2}}{-1}$ [যেহেতু ${i}^{2}=-1$ ]\n$=\\frac{\\sqrt{3}i-(-1)}{-1}$\n$=\\frac{1+\\sqrt{3}i}{-1}$\n$=-1-\\sqrt{3}i$\nঅতএব, $z$ এর অনুবন্ধী জটিল সংখ্যা $\\overline{z}=-1+\\sqrt{3}i$ ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$-1-\\sqrt{3}i$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$-1+\\sqrt{3}i$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1-\\sqrt{3}i$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1+\\sqrt{3}i$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$p$ ও $q$ এককের দুটি কাল্পনিক ঘনমূল হলে- \ni. $p=\\overline{q}$\nii. $p=\\frac{1}{q}$\niii. $p+q=-1$\nনিচের কোনটি সঠিক?",
+          "solutionText": "ধরি, এককের কাল্পনিক ঘনমূল, $p=\\omega=\\frac{-1}{2}+i\\frac{\\sqrt{3}}{2}$এবং $q={\\omega}^{2}=-\\frac{1}{2}-i\\frac{\\sqrt{3}}{2}=p$(i) $\\overset{―}{q}=-\\frac{1}{2}+i\\frac{\\sqrt{3}}{2}=p∴p=\\overset{―}{q}$(ii) আমরা জানি. ${\\omega}^{3}=1$ বা. $\\omega\\cdot{\\omega}^{2}=1$ বা, $p\\cdotq=1∴p=\\frac{1}{q}$(iii) আমরা জানি, $1+\\omega+{\\omega}^{2}=0$ বা, $\\omega+{\\omega}^{2}=-1 ∴p+q=-1∴$ (i), (ii) ও (iii) সঠিক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\frac{1}{x}-\\frac{1}{x-p}=\\frac{1}{q}$ সমীকরণের মূলদ্বয় $\\alpha,\\beta$ হলে $\\alpha+\\beta=$ কত?",
+          "solutionText": "$\\frac{1}{x}-\\frac{1}{x-p}=\\frac{1}{q}$ বা, $\\frac{x-p-x}{x(x-p)}=\\frac{1}{q}$ বা. $\\frac{p}{{x}^{2}-px}=\\frac{1}{q}$ বা, ${x}^{2}-px=pq$ \n$∴{x}^{2}-px-pq=0$ সমীকরণটির মূলদ্বয় \n$\\alpha,\\beta$ হলে, $\\alpha+\\beta=p$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$P$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$-p$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$pq$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$-pq$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে নিম্নোক্ত প্রশ্নের উত্তর দাও $4{x}^{2}-kx+1=0$ \nQ. উদ্দীপকের সমীকরণের একটি মূল অপরটির চারগুণ হলে k এর মান কত?",
+          "solutionText": "$a{x}^{2}+bx+c=0$ সমীকরণের একটি মূল অপরটির $m$ গুণ হলে, $\\frac{(m+1{)}^{2}}{m}=\\frac{{b}^{2}}{ac}$ অর্থাৎ $\\frac{(4+1{)}^{2}}{4}=\\frac{(-k{)}^{2}}{4\\times1}$বা, $\\frac{25}{4}=\\frac{{k}^{2}}{4}$ বা, ${k}^{2}=25∴k=\\pm5$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$5$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "-5"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\pm5$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\pm\\frac{1}{5}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে নিম্নোক্ত প্রশ্নের উত্তর দাও $4{x}^{2}-kx+1=0$ \nQ. $k=2$ হলে সমীকরণের-\ni. পৃথায়ক 0\nii. মূলদ্বয়ের গুণফল $+\\frac{1}{4}$\niii. একটি মূল $\\frac{1}{2}$\nনিচের কোনটি সঠিক?",
+          "solutionText": "$k=2$ হলে প্রদত্ত সমীকরণ, $4{x}^{2}-2x+1=0$(i) পৃথায়ক $=(-2{)}^{2}-4\\times4\\times1=4-16=-12$(ii) $4{x}^{2}-2x+1=0$ $∴x=\\frac{-(-2)\\pm\\sqrt{-12}}{2\\times4}$ [(i) নং হতে] $=\\frac{2\\pm\\sqrt{-4\\times3}}{8}=\\frac{2\\pm2i\\sqrt{3}}{8}=\\frac{1}{4}\\pmi\\frac{\\sqrt{3}}{4}$ $∴$ মূলদ্বয়ের গুণফল $=(\\frac{1}{4}+i\\frac{\\sqrt{3}}{4})(\\frac{1}{4}-i\\frac{\\sqrt{3}}{4})$ $={(\\frac{1}{4})}^{2}-{(i\\frac{\\sqrt{3}}{4})}^{2}=\\frac{1}{16}+\\frac{3}{16}=\\frac{1+3}{16}=\\frac{4}{16}=\\frac{1}{4}$ (iii) একটি মূল $\\frac{1}{4}+i\\frac{\\sqrt{3}}{4}$ বা, $\\frac{1}{4}-i\\frac{\\sqrt{3}}{4}$\nসঠিক উত্তর (ii).যদি $k=4$ হয়, (i) পৃথায়ক $=(-4{)}^{2}-4\\times4\\times1=0$(ii) $4{x}^{2}-4x+1=0$বা, $(2x{)}^{2}-2\\cdot2x\\cdot1+(1{)}^{2}=0$ বা, $(2x-1{)}^{2}=0$$∴x=\\frac{1}{2},\\frac{1}{2}$ মূলদ্বয়ের গুণফল $=\\frac{1}{4}$$∴$ (iii) একটি মূল $\\frac{1}{2}∴$ (i), (ii), (iii) সঠিক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii."
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "iii."
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii."
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$2{x}^{3}-7{x}^{2}+10x+7=0$ এর একটি মূল $2+i\\sqrt{3}$ হলে বাস্তব মূলটি কত?",
+          "solutionText": "একটি মূল $(2+i\\sqrt{3})$ হলে অপর জটিল $=2-i\\sqrt{3}$ ধরি, বাস্তব মূল $=r$$∴(2+i\\sqrt{3})(2-i\\sqrt{3})\\cdotr=\\frac{-7}{2}$বা, $\\{(2{)}^{2}-(i\\sqrt{3}{)}^{2}\\}r=\\frac{-7}{2}$বা, $(4+3)r=\\frac{-7}{2}$ বা, $7r=-\\frac{7}{2}∴r=-\\frac{1}{2}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{4}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$-\\frac{1}{4}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$-\\frac{1}{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$2{x}^{2}+3x+1$ রাশিটির সর্বনিম্ন মান কত?",
+          "solutionText": "$\\begin{matrix} & 2{x}^{2}+3x+1\\\\ & =2\\{{x}^{2}+2\\cdot\\frac{3}{4}\\cdotx+{(\\frac{3}{4})}^{2}\\}-\\frac{9}{8}+1=2{(x+\\frac{3}{4})}^{2}-\\frac{1}{8}\\end{matrix}$ $∴$ রাশিটিতে $x$ এর মান যাই বসাই রাশিটির মান $-\\frac{1}{8}$ এর কম হবে না। অতএব, রাশিটির সর্বনিম্ন মান $-\\frac{1}{8}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{8}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$-\\frac{1}{8}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{17}{8}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$-\\frac{17}{8}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পরাবৃত্ত ও অক্ষরেখার ছেদবিন্দুকে বলা হয়-",
+          "solutionText": "পরাবৃত্ত ও অক্ষরেখার ছেদবিন্দুকে পরাবৃত্তের শীর্ষবিন্দু বলা হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "শীর্ষবিন্দু"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "কেন্দ্র"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "উপকেন্দ্র"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "নিয়ামকের পাদবিন্দু"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "${x}^{2}+4x+2y=0$ পরাবৃত্তের-\ni. শীর্ষবিন্দু $(-2,2)$\nii. উপকেন্দ্র $(-2,\\frac{3}{2})$\niii. উপকেন্দ্রিক লম্বের দৈর্ঘ্য $2$ \nনিচের কোনটি সঠিক?",
+          "solutionText": "${x}^{2}+4x+2y=0$ বা, ${x}^{2}+2\\cdotx\\cdot2+{2}^{2}=-2y+{2}^{2}$ বা, $(x+2{)}^{2}=-2(y-2)$ $∴(x+2{)}^{2}=4\\times(-\\frac{1}{2})\\times(y-2)$ বা, $x+2=0$ $∴x=-2$ $Y=0$ বা, $y-2=0$ $∴y=2$ \n$∴$ শীর্ষবিন্দু $(-2,2)$ (ii) উপকেন্দ্র : $X=0$ বা, $x+2=0∴x=-2$ (iii) উপকেন্দ্রিক লম্বের দৈর্ঘ্য $=|4a|=|4\\times-\\frac{1}{2}|=2$ একক $∴$ (i), (ii) ও (iii) সঠিক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$25{x}^{2}+36{y}^{2}=900$ উপবৃত্তের স্পর্শক $y=2x+c$ হলে $c$ এর মান কত?",
+          "solutionText": "$25{x}^{2}+36{y}^{2}=900$ বা, $\\frac{{x}^{2}}{36}+\\frac{{y}^{2}}{25}=1$ বা, $\\frac{{x}^{2}}{{6}^{2}}+\\frac{{y}^{2}}{{5}^{2}}=1$ $y=2x+c$ রেখাটি উপবৃত্তকে স্পর্শ করলে, $\\begin{matrix} & {c}^{2}={a}^{2}{x}^{2}+{b}^{2}={6}^{2}\\cdot{2}^{2}+{5}^{2}=169\\\\ ∴ & c\\pm13.\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\pm6$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\pm\\sqrt{97}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\pm13$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\pm15$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$4{x}^{2}-9{y}^{2}-8x+18y-41=0$ উপবৃত্তের বৃহৎ অক্ষের দৈর্ঘ্য কত?",
+          "solutionText": "প্রশ্নটি অসঙ্গতিপূর্ণ। প্রদত্ত কনিকটি একটি অধিবৃত্ত।$4{x}^{2}-9{y}^{2}-8x+18y-{41}^{′}=0$বা, $\\{(2x{)}^{2}-2\\cdot2x\\cdot2+{2}^{2}\\}-\\{(3y{)}^{2}-2\\cdot3y\\cdot3+{3}^{2}\\}-41-{2}^{2}+{3}^{2}=0$বা, $(2x-2{)}^{2}-(3y-3{)}^{2}=36$বা, $4(x-1{)}^{2}-9(y-1{)}^{2}=36$বা, $\\frac{(x-1{)}^{2}}{9}-\\frac{(y-1{)}^{2}}{4}=1∴\\frac{(x-1{)}^{2}}{{3}^{2}}-\\frac{(y-1{)}^{2}}{{2}^{2}}=1$$∴$ অধিবৃত্তটির আড় অক্ষের দৈর্ঘ্য $=|2a|$ একক $=2\\times3$ একক $=6$ একক"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "3"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "4"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "6"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "${\\tan}^{-1}⁡x$ ফাংশনের রেঞ্জ কত?",
+          "solutionText": "${\\tan}^{-1}⁡x$ এর রেঞ্জ : $(-\\frac{\\pi}{2},\\frac{\\pi}{2})$$\\tan⁡x$ এর রেঞ্জ সকল বাস্তব সংখ্যা বলে ${\\tan}^{-1}⁡x$ এর ডোমেন হয় R যা সকল বাস্তব সংখ্যা। অপরদিকে ${\\tan}^{1}⁡x$ এর রেঞ্জ $-\\frac{\\pi}{2}$ এবং $\\frac{\\pi}{2}$ এর মাঝে সীমাবদ্ধ ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$(-\\frac{\\pi}{2},\\frac{\\pi}{2})$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$[-\\frac{\\pi}{2},\\frac{\\pi}{2}]$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$(-1,1)$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$[-1,1]$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$f(x)=\\sin⁡x$ এবং $n∈Z$ হলে-\ni. $x=n\\pi$ যখন $f(x)=0$\nii. $x=n\\pi+\\frac{\\pi}{2}$ যখন $f(\\frac{\\pi}{2}-x)=0$\niii. $x=(4n-1)\\frac{\\pi}{2}$ যখন $f(x)=-1$ \nনিচের কোনটি সঠিক?",
+          "solutionText": "(i) $f(x)=0$ বা, $\\sin⁡x=0∴x=n\\pi$(ii) $f(\\frac{\\pi}{2}-x)=0$বা, $\\sin⁡(\\frac{\\pi}{2}-x)=0$ বা, $\\cos⁡x=0 ∴x=n\\pi+\\frac{\\pi}{2}$(iii) $f(x)=-1$ বা, $\\sin⁡x=-1$ বা, $x=2n\\pi-\\frac{\\pi}{2}∴x=(4n-1)\\frac{\\pi}{2}$$∴$ (i), (ii) ও (iii) সঠিক ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\sin⁡(3{\\sin}^{-1}⁡x)$ এর মান কত?",
+          "solutionText": "ধরি, $\\theta={\\sin}^{-1}⁡x ∴x=\\sin⁡\\theta$এখন, $\\sin⁡3\\theta=3\\sin⁡\\theta-4{\\sin}^{3}⁡\\theta∴\\sin⁡(3{\\sin}^{-1}⁡x)=3x-4{x}^{3}$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$3x-4{x}^{3}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$4{x}^{3}-3x$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$4x-3{x}^{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$3{x}^{2}-4x$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\cot⁡({\\sin}^{-1}⁡x)$ এর মান কোনটি?",
+          "solutionText": "ধরি, $\\theta={\\sin}^{-1}⁡x ∴x=\\sin⁡\\theta$আমরা জানি, ${\\sin}^{2}⁡\\theta+{\\cos}^{2}⁡\\theta=1$ বা, ${\\cos}^{2}⁡\\theta=1-{\\sin}^{2}⁡\\theta=1-{x}^{2}$$∴\\cos⁡\\theta=\\sqrt{1-{x}^{2}}$এখন, $\\cot⁡\\theta=\\frac{\\cos⁡\\theta}{\\sin⁡\\theta}$ বা, $\\cot⁡({\\sin}^{-1}⁡x)=\\frac{\\sqrt{1-{x}^{2}}}{x}$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\sqrt{1+{x}^{2}}}{x}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{x}{\\sqrt{1+{x}^{2}}}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{\\sqrt{1-{x}^{2}}}{x}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{x}{\\sqrt{1-{x}^{2}}}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে নিম্নোক্ত প্রশ্নের উত্তর দাও কোনো বিন্দুতে P মানের দুটি সমান বল 60° কোণে ক্রিয়া করে।\nQ. বলদ্বয়ের লব্ধি P বলের সাথে কত কোণ উৎপন্ন করে?",
+          "solutionText": "লব্ধি, $R=\\sqrt{{P}^{2}+{P}^{2}+2\\cdotP\\cdotP\\cdot\\cos⁡{60}^{\\circ}}=\\sqrt{2{P}^{2}+2{P}^{2}\\times\\frac{1}{2}}=\\sqrt{3{P}^{2}}=P\\sqrt{3}$ লব্ধি R ও P বলের মধ্যবর্তী কোণ, $\\theta$ হলে, \n$\\begin{matrix} & \\tan⁡\\theta=\\frac{P\\sin⁡{60}^{\\circ}}{P+P\\cos⁡{60}^{\\circ}}=\\frac{P\\times\\frac{\\sqrt{3}}{2}}{P+P\\times\\frac{1}{2}}=\\frac{P\\times\\frac{\\sqrt{3}}{2}}{P(1+\\frac{1}{2})}=\\frac{\\frac{\\sqrt{3}}{2}}{\\frac{3}{2}}=\\frac{\\sqrt{3}}{3}=\\frac{1}{\\sqrt{3}}\\\\ & ∴\\theta={\\tan}^{-1}⁡(\\frac{1}{\\sqrt{3}})={30}^{\\circ}.\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "${0}^{\\circ}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "${15}^{\\circ}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "${30}^{\\circ}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${45}^{\\circ}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকের আলোকে নিম্নোক্ত প্রশ্নের উত্তর দাও কোনো বিন্দুতে P মানের দুটি সমান বল 60° কোণে ক্রিয়া করে।\nQ. একই বিন্দুতে ক্রিয়ারত $T$ বলের সাহায্যে উদ্দীপকের বলদ্বয়কে ভারসাম্যে রাখলে নিচের কোনটি সঠিক?",
+          "solutionText": "${T}^{2}={P}^{2}+{P}^{2}+2\\cdotP\\cdotP\\cdot\\cos⁡{60}^{\\circ}$বা, ${T}^{2}=2{P}^{2}+2{P}^{2}\\times\\frac{1}{2}$বা, ${T}^{2}=2{P}^{2}+{P}^{2}=3{P}^{2}$বা, $T=\\sqrt{3{P}^{2}} ∴\\text{ }T=\\sqrt{3}P$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$T=P$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$T=\\frac{P}{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$T=\\frac{P}{\\sqrt{3}}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$T=\\sqrt{3}P$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "15N ও 10N দুইটি সদৃশ সমান্তরাল বল 5m লম্বা হালকা রডের দুইপ্রান্তে কার্যকর হলে বৃহত্তম বল থেকে লব্ধি কত দূরে ক্রিয়া করবে?",
+          "solutionText": "এখানে, $15x=10(5-x)$বা, $15x=50-10x$বা, $15x+10x=50$বা, $25x=50∴x=2$ মিটার।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1m"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "2m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3m"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.5m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো বিন্দুতে 120° কোণে ক্রিয়াশীল 7N ও P মানের দুইটি বলের লব্ধি 7N বলের সাথে সমকোণ উৎপন্ন করলে P এর মান কত?",
+          "solutionText": "বলদ্বয়ের অন্তর্গত কোণ $\\alpha$ হলে,$\\tan⁡{90}^{\\circ}=\\frac{p\\sin⁡\\alpha}{7+p\\cos⁡\\alpha}$ বা. $\\frac{1}{0}=\\frac{p\\sin⁡{120}^{\\circ}}{7+p\\cos⁡{120}^{\\circ}}$ বা. $7+P\\cos⁡{120}^{\\circ}=0$ বা. $P\\cos⁡{120}^{\\circ}=-7$বা, $P\\times-\\frac{1}{2}=-7$ বা, $P=-7\\times\\frac{-2}{1}$$∴P=14\\text{ }N.$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "12N"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "14N"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "18N"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2IN"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি বস্তুকণা স্থিরাবস্থা থেকে প্রথম সেকেন্ডে 18m দূরত্ব অতিক্রম করলে এর ত্বরণ-",
+          "solutionText": "${S}_{t}=u+\\frac{1}{{2}^{a}}(2t-1)$ বা, $18=0+\\frac{1}{2}\\timesa\\times(2\\times1-1)$বা, $18=\\frac{1}{2}\\timesa\\times1$ বা, $a=18\\times2=36\\text{ }m{\\text{ }s}^{-2}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$8{\\text{ }ms}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$12{\\text{ }ms}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$36{\\text{ }ms}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$42{\\text{ }ms}^{-2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "49 মিটার উঁচু দালানের ছাদ হতে একখন্ড পাথর ছেড়ে দিলে ভূমিতে পড়তে কত সময় লাগবে?",
+          "solutionText": "h উচ্চতা হতে পতনশীল বস্তুকণার পতনকাল \n$=\\sqrt{\\frac{2h}{g}}=\\sqrt{\\frac{2\\times49}{9.8}}=\\sqrt{\\frac{98}{9.8}}=\\sqrt{10}\\text{ }s$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\sqrt{5}\\text{ }s$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\sqrt{10}\\text{ }s$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "10 s"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "15 s"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$v$ বেগে আনুভূমিকের সাথে $\\text{\\boldsymbol}\\alpha$ কোণে প্রক্ষিপ্ত বস্তুকণার সর্বোচ্চ উচ্চতা ---",
+          "solutionText": "প্রশ্নটি অসঙ্গতিপূর্ণ। বেগ v এর পাবিবর্তে 'u' হলে, u বেগে আনুভূমিকের সাথে $\\alpha$ কোণে প্রক্ষিপ্ত বস্তুকণার বৃহত্তম উচ্চতা, $H=\\frac{{u}^{2}{\\sin}^{2}⁡\\alpha}{2\\text{ }g}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{u}^{2}\\sin⁡2\\alpha}{2g}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{u}^{2}{\\cos}^{2}⁡\\alpha}{2g}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{u}^{2}\\sin⁡2\\alpha}{g}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{u}^{2}{\\sin}^{2}⁡\\alpha}{2g}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2025-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ভূমির সাথে 30° কোণে 30m/s বেগে কিক করা ফুটবলের 1 s পরে বেগ কত হবে?",
+          "solutionText": "আনুভূমিক উপাংশে কোনো ত্বরণ থাকে না বলে বেগ ধ্রুব থাকে।$∴$ আনুভূমিক উপাংশে বেগ, ${u}_{x}={u}_{0}\\cos⁡\\theta=30\\times\\cos⁡{30}^{\\circ}$$=30\\times\\frac{\\sqrt{3}}{2}=15\\sqrt{3}\\text{ }m{\\text{ }s}^{-1}$উল্লম্ব উপাংশে অভিকর্ষজ ত্বরণ ক্রিয়া করে।$∴$ উল্লম্ব উপাংশে বেগ, ${u}_{y}={u}_{0}\\sin⁡\\theta-gt$$=30\\sin⁡{30}^{\\circ}-9.8\\times1=30\\times\\frac{1}{2}-9.8=5.2\\text{ }m{\\text{ }s}^{-1}$$∴1s$ পরে বেগ, $v=\\sqrt{{({u}_{x})}^{2}+{({u}_{y})}^{2}}$$=\\sqrt{(15\\sqrt{3}{)}^{2}+(5\\cdot2{)}^{2}}=\\sqrt{675+27\\cdot04}=\\sqrt{702\\cdot04}$$∴v=26.5\\text{ }m{\\text{ }s}^{-1}$ (প্রায়)।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$26.5{\\text{ }ms}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$28.5{\\text{ }ms}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$30{\\text{ }ms}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$32{\\text{ }ms}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "d8c127d2b33a11080d535c6546a72edf3a70db36527a92bd9155d4f42722ec71",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Higher Math 2nd Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "2nd",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}
