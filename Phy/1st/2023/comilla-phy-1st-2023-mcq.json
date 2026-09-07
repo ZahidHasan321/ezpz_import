@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "comilla-2023-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি সরল ছন্দিত স্পন্দন ?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "সূর্যের চারদিকে পৃথিবীর গতি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘড়ির কাটার শীর্ষ বিন্দুর গতি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "কম্পনশীল সুর শলাকার বাহুর গতি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "যে কোনো বিস্তারে সরল দোলকের গভি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "স্থিতিস্থাপক সীমা নিচের কোন রাশি দ্বারা পরিমাপ করা হয় ?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "স্থিতিস্থাপক বিভব শক্তি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "সম্প্রসারণে কৃত কাজ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "প্রযুক্ত বল"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "আকার বিকৃতি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "স্প্রিংজনিত স্পন্দনের ক্ষেত্রে কোন বস্তুর দোলনকাল নির্ভর করে-\ni. স্প্রিং ধ্রুবকের উপর\nii. অভিকর্ষজ ত্বরণের উপর\niii. বস্তুর ভরের উপরনিচের কোনটি সঠিক",
+          "solutionText": "আমরা জানি,\nস্প্রিং-ভর ব্যবস্থার দোলনকালের ( $T$ ) সূত্রটি হলো:\n$T=2\\pi\\sqrt{\\frac{m}{k}}$\nএখানে,\n$m$ = বস্তুর ভর (বিবৃতি : iii)\n$k$ = স্প্রিং ধ্রুবক (বিবৃতি : i)\nসূত্র অনুযায়ী, স্প্রিংজনিত স্পন্দনের দোলনকাল শুধুমাত্র বস্তুর ভর এবং স্প্রিং ধ্রুবকের ওপর নির্ভর করে।এই সূত্রে অভিকর্ষজ ত্বরণের ( $g$ ) - (বিবৃতি : ii) কোনো উল্লেখ নেই, তাই এটি অভিকর্ষজ ত্বরণের ওপর নির্ভর করে না।সুতরাং, সঠিক উত্তর i ও iii।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$|\\vec{A}|$ =2, $|\\vec{B}|$ =4, এবং $\\vec{A}$ , $\\vec{B}$ = 4 হলে, $\\vec{A}$ ও $\\vec{B}$ এর মধ্যবর্তী কোণ-",
+          "solutionText": "$\\vec{A}\\cdot\\vec{B}=|\\vec{A}||\\vec{B}|\\cos⁡\\theta$\nবা, $4=2\\times4\\cos⁡\\theta$ বা, $\\cos⁡\\theta=\\frac{1}{2}=\\cos⁡{60}^{\\circ}$\n$∴\\theta={60}^{\\circ}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "30°"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "60°"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "90°"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "120°"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি তাপমাত্রা ও চাপের সাথে গ্যাসের ঘনত্বের সম্পর্ক নির্দেশ করে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{\\rhoT}{P}$ = ধ্রুবক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{PT}{\\rho}$ = ধ্রুবক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\rhoP}{T}$ = ধ্রুবক"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\eho PT = ধ্রুবক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোন সম্পর্কটি সঠিক নয়-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{L}=\\vec{\\tau}\\times\\vec{P}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\underset{\\tau}{\\to}=\\underset{\\tau}{\\to}\\times\\underset{F}{\\to}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\vec{L}=\\frac{d\\vec{\\tau}}{dt}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{F}=\\frac{d\\vec{\\tau}}{dt}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ফোটন কণার বিনিময়ের মাধ্যমে কোন বল কার্যকর হয় ?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "মহাকর্ষ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "তাড়িতচুম্বক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "সবল নিউক্লিয়"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "দুর্বল নিউক্লিয়"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\vec{A}=-5\\vec{j}$ হলে $\\vec{A}$ এর দিক কোন অক্ষ বরাবর?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "+X অক্ষ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "+Y অক্ষ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "-Y অক্ষ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "-Z অক্ষ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোন স্প্রিংকে 2 cm প্রসারিত করলে সঞ্চিত বিভবশক্তি U । এটিকে 10 cm প্রসারিত করলে সঞ্চিত বিভবশক্তি কত?",
+          "solutionText": "$\\frac{{U}_{2}}{{U}_{1}}=\\frac{\\frac{1}{2}{kx}_{2}{}^{2}}{\\frac{1}{2}{kx}_{1}{}^{2}}={(\\frac{{x}_{2}}{{x}_{1}})}^{2}={(\\frac{10}{2})}^{2}=25$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{U}{25}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{U}{5}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "5U"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "25U"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পৃথিবীর অভ্যন্তরে কেন্দ্র হতে কোনো বিন্দুর দূরত্ব d বনাম অভিকর্ষজ ত্বরণ ‘g’ এর লেখচিত্র-",
+          "solutionText": "পৃথিবীর কেন্দ্র হতে যত পৃষ্ঠের দিকে যাওয়া যায় অভিকর্ষজ ত্বরণ $g$ -এর মান তত বাড়ে। 'ক' নং লেখচিত্র হতে দেখা যায়, কেন্দ্র হতে যত উপরের দিকে যায় g-এর মান তত বাড়ে।\n${g}^{′}=g(1-\\frac{h}{R})$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো তারের দৈর্ঘ্য বরাবর বল প্রয়োগ করলে তারটির দৈর্ঘ্য দ্বিগুণ করা হল। তারটির বিকৃতি -",
+          "solutionText": "বিকৃতি = $\\frac{দৈর্ঘ্যপরিবর্তন}{আদিদৈর্ঘ্য}$ $=\\frac{2\\text{ }L-L}{L}=1$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.25"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.5"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "T1 > T2 > T3 হলে বয়েলের সূত্রানুসারে নিচের কোন লেখচিত্রটি সঠিক ?",
+          "solutionText": "$V$ বনাম $\\frac{1}{p}$ লেখচিত্র আঁকলে তা মূলবিন্দুগামী সরলরেখা হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পীড়নের মাত্রা-",
+          "solutionText": "পীড়নের মাত্রা = $\\frac{বলেরমাত্রা}{ক্ষেত্রফলেরমাত্রা}$ = $\\frac{{MLT}^{-2}}{{\\text{ }L}^{2}}={ML}^{-1}{\\text{ }T}^{-2}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML T ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML T ${}^{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ML ${}^{-1}{T}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML ${}^{-2}{T}^{-2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$|\\hat{a}+\\hat{b}|=\\sqrt{3}$ হলে $\\hat{a}$ ও $\\hat{b}$ এর মধ্যবর্তী কোণ-",
+          "solutionText": "$\\begin{matrix} & |\\vec{a}|=1,|b|=1,|a+b|=\\sqrt{3}\\text{ হলে, }(\\sqrt{3}{)}^{2}=(a{)}^{2}+|\\hat{b}{|}^{2}+2|\\hat{a}||b|\\cos⁡\\theta\\\\ & \\text{ বা, }3=1+1+2.1.1\\cos⁡\\theta\\text{ বা, }\\cos⁡\\theta=\\frac{1}{2}∴\\theta={60}^{\\circ}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "30°"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "45°"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "60°"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "75°"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অসংরক্ষণশীল বলের ক্রিয়ায়-",
+          "solutionText": "অসংরক্ষণশীল বলের ক্ষেত্রে যান্ত্রিক শক্তির নিত্যতা সংরক্ষতি হয় না। ঘর্ষণ বল, সান্দ্র বল, বায়ুর বাধা বল ইত্যাদি অসংরক্ষণশীল বল।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "পূর্ণচক্রের কাজের পরিমাণ শূন্য"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "কৃত কাজ বস্তুর গতিপথের উপর নির্ভরশীল"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "সম্পাদিত কাজ পুনরুদ্ধার করা সম্ভব"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "যান্ত্রিক শক্তির নিত্যতা সংরক্ষিত হয় না"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো বস্তুর উপর প্রযুক্ত বলসমূহের লব্ধি শুন্য হলে-\ni.বস্তুর বেগ ধ্রুব \nii.বস্তুর ত্বরণ শূন্য \niii. বস্তুর ভরবেগ ধ্রুব \nনিচের কোনটি সঠিক ?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সরল ছন্দিত স্পন্দন সম্পন্ন কণার সর্বোচ্চ বেগ ও সর্বোচ্চ ত্বরণ যথাক্রমে 16ms-1 ও 24ms-2 হলে কৌনিক কম্পাঙ্ক-",
+          "solutionText": "$\\begin{matrix} & {v}_{max}=\\omegaA=16,|{a}_{max}|={\\omega}^{2}\\text{ }A=24\\\\ & \\text{ এখন, }\\frac{{\\omega}^{2}\\text{ }A}{\\omegaA}=\\frac{24}{16}\\text{ বা, }\\omega=\\frac{3}{2}{rads}^{-1}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{3}{2}rad{s}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{2}{3}rad{s}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{4\\pi}{3}rad{s}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{3\\pi}{4}rad{s}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "মহাকর্ষীয় প্রাবল্য ও মহাকর্ষীয় বিভবের মধ্যে সম্পর্ক-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$E=\\frac{dv}{dr}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$E=-\\frac{dv}{dr}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$V=-\\frac{dE}{dr}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$V=\\frac{dE}{dr}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো আবদ্ধ গ্যাসের চাপ p, আয়তন V ও গতিশক্তি E এর মধ্যে সম্পর্ক-",
+          "solutionText": "এক মোল আদর্শ গ্যাসের ক্ষেত্র, PV =RT গতিশক্তি, $E=\\frac{3}{2}RT=\\frac{3}{2}PV$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$E=\\frac{2}{3}$ PV"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$E=\\frac{3}{2}$ PV"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$E=\\frac{5}{2}$ PV"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$E=\\frac{7}{2}$ PV"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\vec{P}$ ও $\\vec{Q}$ দুটি ভেক্টর-\ni. $|\\vec{P}|>|\\vec{Q}|$ হলে লব্ধি $\\vec{P}$ এর নিকটবর্তী\nii. $|\\vec{P}|=|\\vec{Q}|$ লব্ধি ভেক্টরদ্বয়ের মধ্যবর্তী কোণকে সমদ্ধিখণ্ডিত করে\niii. $|\\vec{P}|>|\\vec{Q}|$ হলে লব্ধি $\\vec{Q}$ এর নিকটবর্তী\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "গ্যালিলিও সূত্র প্রযোজ্য হয়-",
+          "solutionText": "স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তুর ক্ষেত্রে গ্যালিলিও এর সূত্র প্রযোজ্য হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "সমতলে গতিশীল বস্তুর ক্ষেত্রে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বস্তু ও তলের মধ্যে ঘর্ষণ থাকলে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "বিনা বাধায় পড়ন্ত বস্তুর ক্ষেত্রে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বাতাসের বাধা থাকলে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি গাড়ি 400m ব্যাসার্ধের একটি সমতল বৃত্তাকার পথে 40 ms-1 বেগে চলছে। গাড়ির ভর 1100 kg হলে ঘর্ষণ বল -",
+          "solutionText": "$\\begin{matrix} & {v}^{2}=\\murg=\\frac{{f}_{k}}{W}rg\\\\ & \\text{ বা, }{f}_{k}=\\frac{{v}^{2}W}{rg}=\\frac{{v}^{2}mg}{rg}=\\frac{{40}^{2}\\times1100}{400}\\text{ }N=4400\\text{ }N\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "4400 N"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "440N"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "110N"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "11N"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাওঅক্সিজেন গ্যাসের তাপমাত্রা 0°C হতে বৃদ্ধি করে 27° C করা হল।\nQ. প্রাথমিক অবস্থায় অক্সিজেন গ্যাসের অণুগুলোর মূল গড় বর্গবেগ-",
+          "solutionText": "$\\begin{matrix}\\sqrt{{\\overline{c}}^{-2}} & =\\sqrt{\\frac{3RT}{M}}\\\\ & =\\sqrt{\\frac{3\\times8.314\\times(273+0)}{32\\times{10}^{-3}}}\\text{ }m{\\text{ }s}^{-1}=461.287\\text{ }m{\\text{ }s}^{-1}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "14.639 ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "20.629 ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "461.287 ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "652.359 ms ${}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাওঅক্সিজেন গ্যাসের তাপমাত্রা 0°C হতে বৃদ্ধি করে 27° C করা হল।\nQ. পরিবর্তিত ও প্রাথমিক গতিশক্তির অনুপাত-",
+          "solutionText": "গ্যাসের অণুর গড় গতিশক্তি পরম তাপমাত্রার সমানুপাতিক,\n${E}_{2}=\\frac{{KT}_{2}}{{E}_{1}}=\\frac{{T}_{2}}{{KT}_{1}}=\\frac{273+27}{{\\text{ }T}_{1}}=\\frac{300}{273}$\n$∴{E}_{2}:{E}_{1}=100:91$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 : 27"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "27 : 1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "91 : 100"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "100 : 91"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2023-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কিলোওয়াট-ঘন্টা নিচের কোন রাশির একক ?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্ষমতা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "শক্তি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "বল"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বলের ঘাত"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "060fc6b7ed3817059e7b1af7d2d09ffd703cf69305c2d37cb1e2de96d30e82a5",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

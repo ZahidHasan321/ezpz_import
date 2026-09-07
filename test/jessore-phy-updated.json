@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "jessore-2017-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অভিকর্ষজ ত্বরণের মানের পরিবর্তন ঘটে-\ni. উচ্চতার জন্য \nii. পৃথিবীর কক্ষপথে ঘূর্ণনের জন্য\niii. পৃথিবীর নিজ অক্ষে ঘূর্ণনের জন্য\nনিচের কোনটি সঠিক?",
+          "solutionText": "পরীক্ষায় দ্রুত মনে রাখার জন্য শুধু এই ৪টি কারণ মুখস্থ রাখুন, যার জন্য $g$ -এর মান পরিবর্তিত হয়:\n১. উচ্চতা (উপরে গেলে $g$ কমে)\n২. গভীরতা (নিচে খনিতে গেলেও $g$ কমে)\n৩. পৃথিবীর আকৃতি (পৃথিবী সম্পূর্ণ গোল নয়, তাই মেরুতে $g$ বেশি, বিষুবীয় অঞ্চলে কম)\n৪. নিজ অক্ষে ঘূর্ণন বা আহ্নিক গতি (এর কারণেও বিষুবীয় অঞ্চলে $g$ কমে যায়)"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোন বস্তুর ভর (100kg ± 2 %) এবং আয়তন (10m3 ± 3%)।নির্দেশনার আলোকে প্রশ্নের উত্তর দাও:\nQ. ঐ বস্তুর ঘনত্বের শতকরা ত্রুটি কত?",
+          "solutionText": "সঠিক উত্তর হলো 5%।সমাধান ও ব্যাখ্যা: দুটি রাশির ভাগফল বা গুণফলের ক্ষেত্রে তাদের আপেক্ষিক বা শতকরা ত্রুটিগুলো যোগ হয়।আমরা জানি, ঘনত্বের সমীকরণ হলো: $\\text{ঘনত্ব }(\\rho)=\\frac{\\text{ভর }(m)}{\\text{আয়তন }(V)}$যেহেতু ঘনত্ব বের করতে ভরকে আয়তন দ্বারা ভাগ করতে হয়, তাই ঘনত্বের শতকরা ত্রুটি হবে ভর ও আয়তনের শতকরা ত্রুটির সমষ্টি।দেওয়া আছে:ভরের শতকরা ত্রুটি = $2%$আয়তনের শতকরা ত্রুটি = $3%$সুতরাং, ঘনত্বের শতকরা ত্রুটি:ঘনত্বের শতকরা ত্রুটি = ভরের শতকরা ত্রুটি + আয়তনের শতকরা ত্রুটিঘনত্বের শতকরা ত্রুটি $=2%+3%=5%$তাই ঐ বস্তুর ঘনত্বের শতকরা ত্রুটি ৫%।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "10"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "5"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.5"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোন বস্তুর ভর $(100kg\\pm2$ এবং আয়তন $(10m3\\pm3$ ।নির্দেশনার আলোকে প্রশ্নের উত্তর দাও:\nQ. ঐ বস্তুটির ঘনত্বের পরম ত্রুটির সঠিক মান কোনটি?",
+          "solutionText": "সঠিক উত্তর: গ) $0.5{\\text{ kg m}}^{-3}$\nআমরা জানি, ঘনত্ব, $\\rho=\\frac{M}{V}$এখানে,বস্তুর ভর, $M=100\\text{ kg}$আয়তন, $V=10{\\text{ m}}^{3}$তাহলে পরিমাপকৃত ঘনত্ব, $\\rho=\\frac{100}{10}=10{\\text{ kg m}}^{-3}$ভাগের ক্ষেত্রে মোট শতকরা ত্রুটি হলো রাশিগুলোর শতকরা ত্রুটির যোগফলের সমান।অতএব, ঘনত্বের শতকরা ত্রুটি $=2%+3%=5%$এখন, পরম ত্রুটি ( $\\Delta\\rho$ ) হবে মূল ঘনত্বের ৫%:$\\Delta\\rho=10\\times5%$$\\Delta\\rho=10\\times\\frac{5}{100}$$\\Delta\\rho=0.5{\\text{ kg m}}^{-3}$তাই পরম ত্রুটির সঠিক মান $0.5{\\text{ kg m}}^{-3}$ ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$5.5{\\text{ kg m}}^{-3}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$0.5{\\text{ g m}}^{-3}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$0.5{\\text{ kg m}}^{-3}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$5{\\text{ kg m}}^{-3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শিশির হচ্ছে-",
+          "solutionText": "শিশির হল কোনো শীতল বস্তুর উপর জলীয় বাষ্প জমা হয়ে সৃষ্ট বিন্দু। অর্থাৎ পানির ফোঁটা ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "পানির ফোঁটা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপমাত্রা"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "আর্দ্রতা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি বস্তুকে আনুভূমিকের সাথে 60° কোণে 10ms-1 বেগে নিক্ষেপ করা হলো।\nতথ্যের আলোকে প্রশ্নের উত্তর দাও: \nQ. নিক্ষিপ্ত বস্তুর আনুভূমিক বেগ কত?",
+          "solutionText": "${v}_{x}={v}_{0}\\cos⁡\\theta=10{\\text{ }ms}^{-1}\\times\\cos⁡{60}^{\\circ}=5\\text{ }m{\\text{ }s}^{-1}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "3ms-1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "4ms-1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "5ms-1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "6ms-1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি বস্তুকে আনুভূমিকের সাথে 60° কোণে 10ms-1 বেগে নিক্ষেপ করা হলো।\nতথ্যের আলোকে প্রশ্নের উত্তর দাও: \nQ. সর্বোচ্চ উচ্চতায় বিভব শক্তি ও গতিশক্তির অনুপাত কত?",
+          "solutionText": "$\\begin{matrix}{E}_{k}=\\frac{1}{2}m{v}^{2}\\\\ =\\frac{1}{2}m{(5)}^{2}=\\frac{25}{2}m\\end{matrix}$\nএখন, $\\begin{matrix}{E}_{p}=mgh=mg\\frac{{v}_{0}^{2}{\\sin}^{2}⁡\\alpha}{2g}\\\\ =m\\times\\frac{{10}^{2}\\times{\\sin}^{2}⁡{60}^{\\circ}}{2}\\\\ =\\frac{75}{2}m\\end{matrix}$\nঅর্থাৎ, Ep : Ek = 3 : 1"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 : 2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 : 1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3 : 2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "3 : 1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনটি পদার্থের সাধারণ ধর্ম?",
+          "solutionText": "স্থিতিস্থাপকতা পদার্থ তথা বস্তুর একটি ভৌত ধর্ম। বল প্রয়োগের কারণে বিকৃত হয়ে যাওয়া কোন বস্তুর বল সরিয়ে নেয়ার পর আদি অবস্থায় ফিরে যেতে পারার সক্ষমতা তথা ধর্মকে পদার্থবিজ্ঞানের ভাষায় স্থিতিস্থাপকতা ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "পৃষ্ঠশক্তি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "সান্দ্রতা"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "স্থিতিস্থাপকতা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "পৃষ্ঠটান"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "R ও 4R ব্যাসার্ধবিশিষ্ট বৃত্তাকার কক্ষপথে প্রদক্ষিণরত দুটি কৃত্রিম উপগ্রহের পর্যায়কালের অনুপাত হবে-",
+          "solutionText": "$\\begin{matrix}{T}_{1}^{2}= & {kR}^{3}\\\\ {\\text{ }T}_{2}^{2}= & k(4R{)}^{3}=64{kR}^{3}\\\\ & \\frac{{T}_{1}^{2}}{{\\text{ }T}_{2}^{2}}=\\frac{{kR}^{3}}{64{kR}^{3}}=\\frac{1}{64}\\\\ ∴ & \\frac{{T}_{1}}{{\\text{ }T}_{2}}=\\frac{1}{8} ∴{T}_{1}:{T}_{2}=1:8.\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "8 : 1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "4 : 1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1: 4"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "1: ৪"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ক্রিয়া ও প্রতিক্রিয়া বল যথাক্রমে $\\vec{{F}_{1}}⁡ও-\\vec{{F}_{2}}$ হলে-\ni. $\\vec{{F}_{1}}=-\\vec{{F}_{2}}$\nii. $|\\vec{{F}_{1}|}=|\\vec{{F}_{2}|}$\niii. $\\vec{{F}_{1}}.\\vec{{F}_{2}}={F}_{1}{F}_{2}$\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "'PV' রাশিটি গ্যাসের ক্ষেত্রে নির্দেশ করে-",
+          "solutionText": "গ্যাসের ক্ষেত্রে, P হল গ্যাসের চাপ আর V হল গ্যাসের আয়তন ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "শক্তি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্ষমতা"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভরবেগ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "জড়তা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "চিত্রের আলোকে প্রশ্নের উত্তর দাও:চিত্রে, সরু ও সুষম রডটির ভর ও দৈর্ঘ্য যথাক্রমে M ও L।\nQ. রডটির ক্ষুদ্র অংশ dx- এর ভর কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML-1x"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "MLx-1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ML -1dx"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "MLdx"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "চিত্রের আলোকে প্রশ্নের উত্তর দাও:চিত্রে, সরু ও সুষম রডটির ভর ও দৈর্ঘ্য যথাক্রমে M ও L।\nQ. PQ ঘূর্ণন অক্ষের সাপেক্ষে রডটির জড়তার ভ্রামকের সমাকলিত রূপ কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{M}{L}{\\int}_{0}^{L}{x}^{2}dx$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{M}{L}{\\int}_{0}^{L}xdx$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{M}{L}{\\int}_{0}^{L}{x}^{-1}dx$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{M}{L}{\\int}_{L}^{0}{x}^{-2}dx$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বল ও সরণের মধ্যবর্তী কোণের কোন মানের জন্য বলের দ্বারা কাজ সম্পন্ন হবে?",
+          "solutionText": "W = Fs cos θ এখানে θ এর মান 600 হলে ধনাত্বক মান আসে কিন্তু 1200 ,1800,2100 হলে cos θ এর মান ঋনাত্বক আসে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "60°"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "120°"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "180°"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "210°"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি পাখা প্রতি মিনিটে 30 বার ঘুরছে। এর কৌণিক বেগ কত?",
+          "solutionText": "$\\omega=\\frac{2\\piN}{t}=\\frac{2\\pi\\times30}{60}=\\pi{rads}^{-1}$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "πrads-1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2πrads-1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "15πrads-1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "60πrads-1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো কণার স্পন্দন গতির সমীকরণ\nx = 10 sin(6πt + 3π)। কণাটির কম্পাঙ্ক\nকত?",
+          "solutionText": "$\\omega=6\\pi$ বা, $2\\pif=6\\pi$ বা, $f=\\frac{6\\pi}{2\\pi}=3\\text{ }Hz$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.5Hz"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "3Hz"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "6Hz"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "10Hz"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তরলের মধ্যে পড়ন্ত কোনো বস্তুর অন্ত্যবেগ বনাম সময় লেখচিত্র অঙ্কন করা হয়েছে। \nকোন লেখচিত্রটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: \nপ্রশ্ন: $O$ ও $P$ বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত?",
+          "solutionText": "সঠিক উত্তর : গ) $\\frac{5\\pi}{2}$ \nগাণিতিক সমাধান :এখানে,$O$ বিন্দু (শুরু): এটি তরঙ্গের উৎপত্তিস্থল, তাই এখানে দশা = $0$১ম পূর্ণ স্পন্দন: $O$ থেকে শুরু হয়ে তরঙ্গটি যখন একটি সম্পূর্ণ চূড়া ও খাঁজ শেষ করে আবার সাম্যাবস্থায় আসে, তখন তার দশা হয় = $2\\pi$\n$P$ বিন্দু (২য় চূড়া): ১ম পূর্ণ স্পন্দনের পর তরঙ্গটি আবারও সাম্যাবস্থা থেকে উঠে $P$ বিন্দুতে (চূড়ায়) পৌঁছায়। এটি হলো একটি পূর্ণ তরঙ্গের চার ভাগের এক ভাগ (এক-চতুর্থাংশ), যার জন্য দশা বাড়ে = $\\frac{\\pi}{2}$\nমোট দশা পার্থক্য: $2\\pi+\\frac{\\pi}{2}=\\frac{5\\pi}{2}$ রেডিয়ান"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\pi}{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{3\\pi}{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{5\\pi}{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{7\\pi}{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: \nQ. চিত্রে P বিন্দুর সাপেক্ষে A ও C বিন্দুর পথ পার্থক্যের অনুপাত কোনটি?",
+          "solutionText": "$\\frac{PA}{PC}=\\frac{\\frac{4\\lambda}{4}}{\\frac{2\\lambda}{4}}=\\frac{4\\lambda}{4}\\times\\frac{4}{2\\lambda}=2:1$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "3 : 4"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "3: 2"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "2: 1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "4 : 3"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো দোলক ঘড়ির পর্যায়কাল গ্রীষ্মকালে 2.002sec হয়। ঘড়িটি ঘণ্টায় কত সেকেন্ড স্লো হবে?",
+          "solutionText": "ঘণ্টায় কত সেকেন্ড স্লো চলবে, $\\frac{{T}_{2}}{{T}_{1}}=\\frac{3600}{3600-x}$ যেখানে x হল কত সেকেন্ড।\n$\\frac{2.002}{2}=\\frac{3600}{3600-x}= x =3.6 sec.$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.5s"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "3.6s"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "4.5s"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "6.6s"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "লেভেল ত্রুটি কোন যন্ত্রের পরিমাপের জন্য প্রযোজ্য?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ধ্ৰুগজ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "মিটার স্কেল"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "উদস্থিতি নিক্তি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "স্ফেরোমিটার"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "স্রোতযুক্ত নদীতে সর্বনিম্ন সময়ে ওপারে যেতে স্রোতের সাথে কিভাবে নৌকা চালনা করতে হবে?",
+          "solutionText": "সর্বনিম্ন সময়ে নদী পারাপারের ক্ষেত্রে ওপর প্রান্তের সাথে লম্বভাবে যাত্রা করতে হবে ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "45°"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "60°"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "90°"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "120°"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পরিমাপের যথার্থতা কার সাথে সম্পর্কিত? \ni. ত্রুটির \nii. যন্ত্রের\niii. ভুলের\nনিচের কোনটি সঠিক?",
+          "solutionText": "সঠিক উত্তর: ঘ) i, ii ও iii\ni. ত্রুটি: পরিমাপের মান প্রকৃত মান থেকে কতটা দূরে, তা ত্রুটির মাধ্যমেই নির্ণয় করা হয়। ত্রুটি যত কম, পরিমাপ তত যথার্থ।ii. যন্ত্র: যন্ত্রের সূক্ষ্মতা, যান্ত্রিক ত্রুটি বা ক্যালিব্রেশনের অভাব পরিমাপের মানকে প্রভাবিত করে, যা সরাসরি যথার্থতার সাথে সম্পর্কিত।iii. ভুল: পরিমাপকারীর ব্যক্তিগত ভুল বা পর্যবেক্ষণে ত্রুটি থাকলে পরিমাপের মান প্রকৃত মান থেকে সরে যায়, যা যথার্থতা কমিয়ে দেয়।অর্থাৎ, এই তিনটি উপাদানই পরিমাপের যথার্থতাকে নিয়ন্ত্রণ করে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "চিত্রের এর আলোকে প্রশ্নের উত্তর দাও: \nচিত্রে কর্ণদ্বয় হচ্ছে $\\vec{AB}=\\hat{i}$ ও $\\vec{BD}=\\hat{j}$ .\nQ. $\\vec{AB}$ ভেক্টরের সঠিক রূপ কোনটি?",
+          "solutionText": "ধরি,\nকর্ণদ্বয়ের ছেদবিন্দু (বা কেন্দ্র) হলো $O$ । রম্বসের কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করে।\nকর্ণদ্বয়ের ছেদবিন্দু (বা কেন্দ্র) হলো $O$ । রম্বসের কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করে।\nযেহেতু সম্পূর্ণ কর্ণ $\\vec{AC}=\\hat{i}$ ,\nতাই কেন্দ্র থেকে $A$ বিন্দুর দিকের ভেক্টর (যা $C$ এর বিপরীত দিকে):\n$\\vec{OA}=-\\frac{1}{2}\\hat{i}$যেহেতু সম্পূর্ণ কর্ণ $\\vec{BD}=\\hat{j}$ ,তাই কেন্দ্র থেকে $B$ বিন্দুর দিকের ভেক্টর (যা $D$ এর বিপরীত দিকে):$\\vec{OB}=-\\frac{1}{2}\\hat{j}$\nএখন,$\\vec{AB}=\\vec{OB}-\\vec{OA}$\nবা, $\\vec{AB}=(-\\frac{1}{2}\\hat{j})-(-\\frac{1}{2}\\hat{i})$ (মান বসিয়ে)\nবা, $\\vec{AB}=-\\frac{1}{2}\\hat{j}+\\frac{1}{2}\\hat{i}$\nবা, $\\vec{AB}=\\frac{1}{2}(\\hat{i}-\\hat{j})$\nবা, $\\vec{AB}=\\frac{\\hat{i}-\\hat{j}}{2}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\hat{i}+\\hat{j}}{4}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{\\hat{i}-\\hat{j}}{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\hat{i}+\\hat{i}}{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\hat{j}-\\hat{i}}{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "চিত্রের এর আলোকে প্রশ্নের উত্তর দাও:\nচিত্রে কর্ণদ্বয় হচ্ছে $\\vec{AC}=\\hat{i}$ ও $\\vec{BD}=\\hat{j}$ .\nQ. $ABCD$ সামান্তরিকটির ক্ষেত্রফল কত?",
+          "solutionText": "দেওয়া আছে,\nসামান্তরিকের কর্ণদ্বয়, $\\vec{{d}_{1}}=\\hat{i}$ এবং $\\vec{{d}_{2}}=\\hat{j}$\nআমরা জানি,\nসামান্তরিকের ক্ষেত্রফল, $A=\\frac{1}{2}|\\vec{{d}_{1}}\\times\\vec{{d}_{2}}|$\nএখন, $A=\\frac{1}{2}|\\hat{i}\\times\\hat{j}|$\n$A=\\frac{1}{2}|\\hat{k}|$\n$A=\\frac{1}{2}\\times1=0.5$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$0.5$ একক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1.0$ একক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1.5$ একক"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$2.0$ একক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2017-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনটি বলের ঘাতের মাত্রা সমীকরণ?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML-1T-2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "MLT-1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "MLT-2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML-1T-2"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "4654fb3447783ed56e2742e2b04b00e58d837a511c9d8f0263ee5f1a43bd7cc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

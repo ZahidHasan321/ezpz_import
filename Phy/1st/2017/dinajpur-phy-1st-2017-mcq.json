@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "dinajpur-2017-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি কণার উপর $\\vec{F}=(2\\hat{i}+2\\hat{j}+\\hat{k})N$ বল প্রয়োগে কণাটির সরণ $\\vec{r}=(6\\hat{i}-3\\hat{j}-$ $2\\hat{k})m$ হয়। প্রয়োগকৃত বল কর্তৃক সম্পাদিত কাজের\nপরিমাণ হবে-",
+          "solutionText": "$\\begin{matrix}W=\\vec{F}\\cdot\\vec{r} & =(2\\hat{i}+2\\hat{j}+\\hat{k})\\cdot(6\\hat{i}-3\\hat{j}-2\\hat{k})\\\\ & =12-6-2\\\\ & =4\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "20 জুল"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "4 জুল"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "(8î - 2ĵ - k) জুল"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$(-4\\hat{i}+5\\hat{j}+3\\hat{k})$ জুল"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পৃথিবীর নিজ অক্ষে ঘূর্ণনের জন্য “আইফেল টাওয়ারের কৌণিক বেগ হবে-",
+          "solutionText": "সঠিক উত্তর: $4.167\\times{10}^{-3}{\\text{ deg s}}^{-1}$পৃথিবীর পৃষ্ঠে অবস্থিত যেকোনো বস্তুর (যেমন আইফেল টাওয়ার) কৌণিক বেগ পৃথিবীর নিজ অক্ষের চারদিকে ঘূর্ণনের কৌণিক বেগের সমান।দেওয়া আছে,পৃথিবীর ঘূর্ণন কাল বা পর্যায়কাল, $T=24\\text{ hour}=(24\\times3600)\\text{ s}=86400\\text{ s}$কেন্দ্রে উৎপন্ন কোণ, $\\theta={360}^{\\circ}$ (একবার পূর্ণ ঘূর্ণনের জন্য)সূত্র ও মান বসিয়ে পাই-$\\omega=\\frac{\\theta}{T}$$\\omega=\\frac{360}{86400}$$\\omega \\approx 0.0041667 \\text{ deg s}^{-1} \\approx 4.167 \\times 10^{-3} \\text{ deg s}^{-1}$\nরেডিয়ান এককে মানটি হতো প্রায় $7.27\\times{10}^{-5}{\\text{ rad s}}^{-1}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1.99\\times{10}^{-7}{\\text{ rad s}}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$7.26\\times{10}^{-3}{\\text{ deg s}}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$4.167\\times{10}^{-3}{\\text{ deg s}}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$4.167 \\times 10^{-3} \\text{ rad s}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও: \nসরল ছন্দিত গতিসম্পন্ন কণার সমীকরণ y = $10\\sin⁡(\\frac{\\pit}{T}+\\frac{\\pi}{4})$ যার পর্যায় কাল 5 sec।\nQ. 1.25 sec এ কণাটির সরণ কত একক হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "6 একক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "10 একক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "12 একক"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "18 একক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও: \nসরল ছন্দিত গতিসম্পন্ন কণার সমীকরণ y = $10\\sin⁡(\\frac{\\pit}{T}+\\frac{\\pi}{4})$ যার পর্যায় কাল 5 sec।\nQ. কণাটির-\ni. আদি দশা $\\frac{\\pi}{4}$\nii. কম্পাংক 0.1Hz\niii. বিস্তার 7 একক\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অসম্পৃক্ত বাষ্প চাপকে f এবং সম্পৃক্ত বাষ্প চাপকে F দ্বারা সূচিত করলে নিচের কোনটি সঠিক?",
+          "solutionText": "কোনো নির্দিষ্ট তাপমাত্রায় কোনো আবদ্ধ স্থানের বাষ্প সর্বাধিক যে চাপ দিতে পারে তাকে সম্পৃক্তবাষ্প চাপ বলে। আবার কোনো নির্দিষ্ট তাপমাত্রায় কোনো আবদ্ধ স্থানের বাষ্পচাপ যদি সর্বোচ্চ বাষ্পচাপের চেয়ে কম হয় তাহলে সেই চাপকে অসম্পৃক্ত বাষ্পচাপ বলে। অর্থাৎ f < F"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "f > F"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "f ≥ F"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "f < F"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "f ≤ F"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নির্দিষ্ট তাপমাত্রার সকল গ্যাস অণুর জন্য\nকোন রাশিটি ধুবক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভর"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভরবেগ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "আয়তন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "গতিশক্তি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "স্থিরাবস্থা থেকে কোনো বস্তু কণা সুষম ত্বরণে আনুভূমিক সরলরেখা বরাবর যাত্রা শুরু করল। চতুর্থ ও তৃতীয় সেকেন্ডে অতিক্রান্ত দূরত্বের অনুপাত হবে-",
+          "solutionText": "চতুর্থ সেকেন্ডে অতিক্রান্ত দুরত্ব, S4th= $u + \\frac{1}{2}\\timesa(2\\times4-1) =0+\\frac{1}{2}a(8-1)=\\frac{7}{2}a$তৃতীয় সেকেন্ডে অতিক্রান্ত দুরত্ব , S3th == $u + \\frac{1}{2}\\timesa(2\\times3-1) =0+\\frac{1}{2}a(6-1)=\\frac{5}{2}a$অর্থাৎ, S4th : S3th = $\\frac{7}{5}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{4}{3}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{26}{9}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{7}{5}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সরল দোলকের জন্য L বনাম T2 লেখচিত্রের প্রকৃতি নিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বৃত্তাকার পথে সমান সময়ে সমান কৌণিক দূরত্ব\nঅতিক্রমকারী কোনো কণার রৈখিক বেগের-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "শুধু মানের পরিবর্তন হবে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ধ্রুবক হবে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "শুধু দিকের পরিবর্তন হবে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "মান ও দিক উভয়ই পরিবর্তন হবে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কৌণিক ভরবেগ হলো-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ব্যাসার্ধ ভেক্টর ও রৈখিক ভরবেগের ভেক্টর গুণনের সমান"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "জড়তার ভ্রামক ও রৈখিক বেগের গুণনের সমান"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "রৈখিক ভরবেগ ও কৌনিক ভরবেগের ভেক্টর গুণনের সমান"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "রৈখিক বেগ ও ব্যাসার্ধ ভেক্টরের গুণনের সমান"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কৌণিক ভরবেগের পরিবর্তনের হার-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বলের সমান"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "কৌণিক ত্বরণের সমান"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "টর্কের সমান"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "জড়তার ভ্রামকের সমান"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও: \nA ও B শলাকা দুটিকে একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 5 টি বীট উৎপন্ন হয়। B এর কম্পাংক 430 Hz |\nQ. যদি A এর ভর কমানো হয় তাহলে বীট সংখ্যা কমে যায়। A এর কম্পাংক হলো—",
+          "solutionText": "$\\begin{matrix} & {f}_{B}=430\\text{ }Hz\\\\ & ∴{f}_{A}={f}_{B}\\pmN\\end{matrix}$\nযেহেতু ভর কমালে বীট কমে সেহেতু,\n${f}_{A}={f}_{B}-N=430-5=425\\text{ }Hz$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "420 Hz"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "425 Hz"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "435 Hz"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "440 Hz"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও: \nA ও B শলাকা দুটিকে একত্রে শব্দায়িত করলে প্রতি সেকেন্ডে 5 টি বীট উৎপন্ন হয়। B এর কম্পাংক 430 Hz |\nQ. A এর ভর কমালে বীট সংখ্যা অপরিবর্তিত থাকে। A এর কম্পাংক হবে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "440 Hz"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "435 Hz"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "430 Hz"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "425 Hz"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "যে সমস্ত তরল দ্বারা কাঁচ ভিজে না তাদের\nস্পর্শ কোণ হবে-",
+          "solutionText": "যেসব তরল পদার্থ কাচ ভিজায় না তাদের ক্ষেত্রে স্পর্শ কোণ 90 ডিগ্রি এর চেয়ে বড়। অর্থাৎ, স্থূলকোণ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "সূক্ষ্মকোণ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "স্থূলকোণ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "শূন্য"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "সমকোণ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও:\nQ. AB অংশের ত্বরণ-",
+          "solutionText": "$a=\\frac{30{\\text{ }ms}^{-1}-20{\\text{ }ms}^{-1}}{5\\text{ }s}=2{\\text{ }ms}^{-2}$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "2 ms-2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "5 ms-2"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "8 ms-2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "10 ms-"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও:\nQ. 5sec এ অতিক্রান্ত দূরত্ব-",
+          "solutionText": "$\\begin{matrix}S=ut+\\frac{1}{2}{at}^{2} & =20{\\text{ }ms}^{-1}\\times5\\text{ }s+\\frac{1}{2}\\times2{\\text{ }ms}^{-2}\\times(5\\text{ }s{)}^{2}\\\\ & =125\\text{ }m\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "50 m"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "100 m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "125 m"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "150 m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পয়েস (Poise) কিসের একক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ইয়ং এর গুণাংক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "পৃষ্ঠটান"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "সান্দ্রতা গুণাংক"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "সংনম্যতা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো তরলের ভিতর দিয়ে পড়ন্ত বস্তুর ক্ষেত্রে বেগ বনাম সময় লেখচিত্র কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "A"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "B"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "C"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "D"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি গোলকের ব্যাসার্ধ R = (10 ± 0.1) cm হলে এর আয়তনের শতকরা ত্রুটি কত?",
+          "solutionText": "এখানে, $R=10;\\DeltaR=0.1$\n∴ আয়তনের শতকরা ত্রুটি, $\\begin{matrix}\\frac{3\\DeltaR}{R}\\times100% & =\\frac{3\\times0.1}{10}\\times100%\\\\ & =3%\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 %"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2 %"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "3 %"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "4 %"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "মৌলিক রাশি হলো—\ni. তড়িৎ প্রবাহমাত্রা\nii. পদার্থের পরিমাণ\niii. দীপন তীব্রতা\nনিচের কোনটি সঠিক?",
+          "solutionText": "মৌলিক রাশি হল ৭ টি । ভর, দৈর্ঘ্য, সময়, তাপমাত্রা, তড়িৎ প্রবাহ, দীপন তীব্রতা, পদার্থের পরিমাণ ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$Y-$ অক্ষের সাথে $\\vec{r}=4\\hat{i}-4\\hat{k}$ ভেক্টরের উৎপন্ন কোণ হবে-",
+          "solutionText": "প্রদত্ত ভেক্টর: $\\vec{r}=4\\hat{i}-4\\hat{k}$বা, $\\vec{r}=4\\hat{i}+0\\hat{j}-4\\hat{k}$আমরা জানি,কোনো ভেক্টর $\\vec{r}$ এবং $Y$ -অক্ষের মধ্যবর্তী কোণ $\\theta$ হলে:$\\cos⁡\\theta=\\frac{{R}_{y}}{|\\vec{r}|}$ [(যেখানে ${R}_{y}$ হলো $Y$ -অক্ষ বরাবর ভেক্টরটির উপাংশ)]এখানে $Y$ -অক্ষের উপাংশ, ${R}_{y}=0$ ।সুতরাং, মান বসিয়ে পাই:বা, $\\cos⁡\\theta=\\frac{0}{\\sqrt{{4}^{2}+{0}^{2}+(-4{)}^{2}}}$বা, $\\cos⁡\\theta=0$বা, $\\theta={\\cos}^{-1}⁡(0)$বা, $\\theta={90}^{\\circ}$\nসহজ কথায়:যেহেতু ভেক্টরটিতে $\\hat{j}$ -এর কোনো উপাংশ নেই,তাই ভেক্টরটি সম্পূর্ণরূপে $XZ$ তলে অবস্থিত। আর $XZ$ তল সর্বদা $Y$ -অক্ষের সাথে লম্ব বা ${90}^{\\circ}$ কোণে থাকে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\theta={0}^{\\circ}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\theta={45}^{\\circ}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\theta={90}^{\\circ}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\theta={180}^{\\circ}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$|\\vec{A}+\\vec{B}|=|\\vec{A}-\\vec{B}|$ হলে $\\vec{A}⁡ও\\vec{B}$ এর\nমধ্যবর্তী কোণ হবে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0 °"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "60 °"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "90 °"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "180 °"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পৃথিবীর ঘূর্ণন বদ্ধ হলে বিষুব রেখায় g এর মান-",
+          "solutionText": "বিষুব রেখায় R এর মান কম তাই g এর মান বেশি ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "বৃদ্ধি পাবে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "হ্রাস পাবে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "একই থাকবে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "শুণ্য হবে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি আদর্শ দৃঢ় বস্তুর জন্য ইয়ং এর গুনাংক",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$∞$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "-1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "dinajpur-2017-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো বল কর্তৃক কৃত কাজ\ni. বল এবং সরণের ডটগুণন\nii. ভর X ত্বরণ\niii. গতিশক্তির পরিবর্তনের সমান\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8d6dc7e7a83d794804b3f70be76acc593da51dd0542d9c62f58b19b4d493c2c",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dinajpur",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

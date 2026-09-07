@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "barisal-2017-physics1st-q1",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বলের ঘাতের একক নিম্নের কোন রাশির\nএককের অনুরূপ?",
+          "solutionText": "বলের ঘাত হচ্ছে ভরবেগের পরিবর্তনের সমান। অর্থাৎ, J = Ft = m(v-u)"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বল"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ভরবেগ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "কাজ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "টর্ক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ভূমির সাথে 30 ° কোণে আনত 5m দীর্ঘ\nএকটি ঢালুপথে 100gm ভরবিশিষ্ট একটি বস্তু\nযে গতিশক্তি প্রাপ্ত হবে-",
+          "solutionText": "$\\begin{matrix}{E}_{k} & =mgs\\sin⁡{30}^{\\circ}\\\\ & =0.1\\text{ }kg\\times9.8{\\text{ }ms}^{-2}\\times5\\text{ }m\\times\\sin⁡{30}^{\\circ}=2.45\\text{ }J\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.49J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.848J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.225J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "2.45J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অসংরক্ষণশীল বলের বৈশিষ্ট্য নয় কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "কৃত কাজ শূন্য"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "পথের ওপর নির্ভর করে না"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "যান্ত্রিক শক্তির নিত্যতার সূত্র খাটে না"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "কৃতকাজ পুনরুদ্ধার সম্ভব"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কেপলারের ৩ য় সূত্রের নাম কোনটি?",
+          "solutionText": "কেপলারের ৩ য় সূত্রটি হল পর্যায়কালের।সূত্রটি হল-'' প্রতিটি গ্রহের পর্যায়কালের বর্গ সূর্য হতে তার গড় দুরত্বের ঘনফলের সমানুপাতিক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "কক্ষপথের সূত্র"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক্ষেত্রফলের সূত্র"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "পর্যায়কালের সূত্র"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "হারমোনিক সূত্র"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো বস্তুকে মুক্তিবেগের কতগুণ বেগে নিক্ষেপ করলে কৃত্রিম উপগ্রহে পরিণত হবে?",
+          "solutionText": "যদি ${V}^{2}=\\frac{{V}_{e}^{2}}{2}$ অর্থাৎ উৎক্ষেপন বেগ 7.88 m/s হয়, তবে সেটি বৃত্তাকার পথে পৃথিবীকে প্রদক্ষিণ করবে মানে কৃত্রিম উপগ্রহে পরিণত হবে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{1}{\\sqrt{2}}ve$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{2}ve$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\sqrt{2}ve$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2 ve"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সান্দ্রতা গুণাঙ্কের মাত্রা কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "[ML-1T-1]"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "[ML-1T-2]"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "[ML2T-2]"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "[ML2T-3]"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সরল ছন্দিত স্পন্দনের বৈশিষ্ট্য নয় কোনটি?",
+          "solutionText": "সরল ছন্দিত স্পন্দনের সাম্যবিন্দুতে কোন কণার বেগ হয় সর্বোচ্চ, তাই গতিশক্তি ও হবে সর্বোচ্চ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "কণার সরণ সাইনের বা কোসাইনের অপেক্ষক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বলের দিক সাম্যবিন্দু অভিমুখী"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "সাম্যবিন্দুতে গতিশক্তি সবচেয়ে কম"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ত্বরণের মান সরণের বিপরীতমুখী"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "100gm ভরের একটি বস্তু পানির মধ্যে\nপড়ায় তার উপর ক্রিয়ারত প্লবতা 0.981N\nহলে সান্দ্র বল হবে",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "9.81N"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.981N"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "0N"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.962N"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": ".MJXc-display {display: inline;}\n12 স্বাধীনতা মাত্রা সম্পন্ন কোনো অণুর মোট শক্তি হবে-",
+          "solutionText": "12 স্বাধীনতা মাত্রা সম্পন্ন কোনো অণুর মোট শক্তি $E=12\\times\\frac{1}{2}\\timeskT E=6 KT$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{2}KT$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{3}{2}KT$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "6 KT"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "12 KT"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিম্নের কোনটি ত্রয়ী হবে?",
+          "solutionText": "৩টি শব্দের কম্পাংকের অনুপাত 4:5:6 হলে তাদেরকে একসাথে ত্রয়ী বলে।$\\frac{80}{20} : \\frac{100}{20} : \\frac{120}{20} =4 : 5 : 6$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "120: 240: 360"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "80: 100: 120"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "100: 150: 125"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "180: 240: 300"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "স্থির PV তাপমাত্রায় P বনাম Pv লেখচিত্র কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "A"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "B"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "C"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "D"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও:একটি সরল দোলকের সুতার দৈর্ঘ্য 79.2 cm এবং ববের ব্যাসার্ধ 0.8 cm। (অভিকর্ষজ ত্বরণ 9.8ms-2)\nQ. উক্ত দোলকটির দোলনকাল কত?",
+          "solutionText": "$\\begin{matrix} & L=l+r=79.2+0.8\\text{ }cm=80\\text{ }cm=0.8\\text{ }m\\\\ & \\text{ }T=2\\pi\\sqrt{\\frac{L}{g}}=2\\pi\\sqrt{\\frac{0.8}{9.8}}=1.7952\\text{ }s.\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.5077 s"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.5129 s"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.8976 s"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "1.7952 s"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও:একটি সরল দোলকের সুতার দৈর্ঘ্য 79.2 cm এবং ববের ব্যাসার্ধ 0.8 cm। (অভিকর্ষজ ত্বরণ 9.8ms-2)\nQ. উক্ত দোলককে সেকেন্ড দোলকে পরিণত করলে\ni. দোলকটি দ্রুত চলবে\nii. দোলনকাল 2 sec হবে\niii. সুতার দৈর্ঘ্য 19.29 cm বৃদ্ধি করতে হবে\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তরলের পৃষ্ঠ টান নির্ভর করে\ni. কৈশিক নলের ব্যাসার্ধ\nii. সংশক্তি বল\niii. তরলের ঘনত্ব\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শব্দ তরঙ্গের ক্ষেত্রে নিম্নের কোন ঘটনাটি ঘটে না?",
+          "solutionText": "শব্দ তরঙ্গের ক্ষেত্রে প্রতিফলন,প্রতিসরণ এবং ব্যতিচার ঘটে কিন্তু সমবর্তন ঘটে না।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রতিফলন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রতিসরণ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ব্যতিচার"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "সমবর্তন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি তরঙ্গ 200 টি পূর্ণ কম্পন সম্পন্ন করে 8m দূরত্ব 0.25s এ অতিক্রম করলে তরঙ্গ দৈর্ঘ্য হবে-",
+          "solutionText": "$\\lambda=\\frac{8\\text{ }m}{200}=\\frac{1}{25}\\text{ }m=\\frac{1\\times100}{25}\\text{ }cm=4\\text{ }cm$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "8 cm"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "4 cm"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "32 cm"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "25 cm"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তীব্রতা লেভেল 1 dB পরিবর্তিত হলে শব্দের তীব্রতার পরিবর্তন কত হবে?",
+          "solutionText": "$△\\beta=10 \\log \\frac{{I}_{2}}{{I}_{1}} 1=10 \\log \\frac{{I}_{2}}{{I}_{1}} {I}_{2}=1.26 {I}_{1}$এখন, $△{I}_{2}=(1.26-1)\\times100% = 26%$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "10 %"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "26 %"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "50 %"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "100 %"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সবল নিউক্লিয় বল কোন কণার বিনিময়ে\nউৎপন্ন হয়?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ্রাভিটন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বোসন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ফোটন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "মেসন"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো গোলকের ব্যাসার্ধের প্রকৃত মান 3cm এবং পরিমাপ্য মান 2.98 cm। গোলকটির আয়তন পরিমাপে শতকরা ত্রুটি কত?",
+          "solutionText": "শতকরা ত্রুটি $=\\frac{3\\DeltaR}{R}\\times100%=\\frac{3(3-2.98)}{3}\\times100%=2%$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.02 %"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.066 %"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.66 %"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "2 %"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": ".MJXc-display {display: inline;}\n$\\vec{A}=(px+y)\\hat{i}+(y-2z)\\hat{j}+(x+3z)\\hat{k}$ ভেক্টরটি সলিনয়ডাল হবে যদি p =",
+          "solutionText": "$\\vec{∇}\\cdot\\vec{A}=0$\nবা, $(\\frac{\\delta}{\\deltax}\\hat{i}+\\frac{\\delta}{\\deltay}\\hat{j}+\\frac{\\delta}{dz}\\hat{k})\\cdot[(px+y)\\hat{i}$ $+(y-2z)\\hat{j}+(x+3z)\\hat{k}]=0$বা, $\\frac{\\delta}{\\deltax}(px+y)+\\frac{\\delta}{\\deltay}(y-2z)+\\frac{\\delta}{dz}(x+3z)=0$বা, $P+1+3=0$ বা, $P=-4$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "4"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "-4"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": ".MJXc-display {display: inline;}\n$(\\hat{i}\\times\\hat{k})\\times(\\hat{j}\\times\\hat{k})=$",
+          "solutionText": "$(\\hat{i}\\times\\hat{k})\\times(\\hat{j}\\times\\hat{k})=-\\hat{j}\\times\\hat{i}=\\hat{k}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\hat{0}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\hat{i}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\hat{j}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\hat{k}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একই পাদবিন্দু বিশিষ্ট ভেক্টরসমূহকে কি বলে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "সমতলীয় ভেক্টর উটার"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "সমরেখ ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "সম-প্রারম্ভিক ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "সীমাবদ্ধ ভেক্টর"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সমমানের দুটি বলের লন্ধির মান তাদের যে কোনো একটির অর্ধেক হলে বল দুটির মধ্যবর্তী কোণ কত?",
+          "solutionText": "${(\\frac{P}{2})}^{2}={P}^{2}+{P}^{2}+\\text{ 2.P.P. }\\cos⁡\\alpha$\nবা, $\\frac{{P}^{2}}{4}=2{P}^{2}+2{P}^{2}\\cos⁡\\alpha$বা, ${P}^{2}=8{P}^{2}+8{P}^{2}\\cos⁡\\alpha$বা, ${P}^{2}=8{P}^{2}(1+\\cos⁡\\alpha)$বা, $1+\\cos⁡\\alpha=\\frac{{P}^{2}}{8{P}^{2}}$বা, $\\cos⁡\\alpha=\\frac{1}{8}-1$दा, $\\cos⁡\\alpha=-\\frac{7}{8}$$∴ \\alpha={\\cos}^{-1}⁡(-\\frac{7}{8})={151.04}^{\\circ}$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "28.90°"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "41.40°"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "138.6°"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "151.04°"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি রাইফেল $300m{s}^{-1}$ নিক্ষেপণ বেগে এবং 40 ° ও 50 ° নিক্ষেপণ কোণে গুলি ছুড়তে পারে। গুলি দুটির ক্ষেত্রে-\ni. বিচরণকাল অসমান হবে\nii. পাল্লা সমান হবে\niii. তাদের নিজ নিজ বেগের অনুভূমিক উপাংশের পরিবর্তন হবে না\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2017-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি বস্তুর বেগ $\\text{vt}=(6{\\text{t}}^{2}+2\\text{t}){\\text{ms}}^{-1}$ হলে $2s$ পর বস্তুটির সরণ কত?",
+          "solutionText": "আমরা জানি, সরণ $s=\\intv dt$\nশর্তমতে,\n$t=0$ থেকে $t=2$ সীমার মধ্যে সমাকলন করে পাই:\nবা, $s={\\int}_{0}^{2}(6{t}^{2}+2t) dt$\nবা, $s={[\\frac{6{t}^{3}}{3}+\\frac{2{t}^{2}}{2}]}_{0}^{2}$$বা,$ s = \\left[ 2t^3 + t^2 \\right]_{0}^{2} $বা,$ s = \\{2(2)^3 + (2)^2\\} - \\{0\\} $বা,$ s = 16 + 4 $বা,$ s = 20 \\text{ m}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$20\\text{m}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$26\\text{m}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$28\\text{m}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$56\\text{m}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "e0e01038ed858c5b7bf130a331f529e95b40d4eafae7bc7816454c0e15612d50",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

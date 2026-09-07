@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "barisal-2021-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি নাল ভেক্টরের মান কত হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "-1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\pm1$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "0"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\hat{i}\\times\\hat{j}=?$",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\hat{k}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\hat{j}\\times\\hat{k}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\hat{i}\\times\\hat{k}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$|\\vec{A}+\\vec{B}|=|\\vec{A}-\\vec{B}|$ হলে $\\vec{A}$ ও $\\vec{B}$ এর মধ্যবর্তী কোণ হবে-",
+          "solutionText": "$\\begin{matrix} & |\\vec{A}+\\vec{B}=|\\vec{A}-\\vec{B}∣\\text{ হলে, }\\\\ & \\sqrt{{A}^{2}+{B}^{2}+2AB\\cos⁡\\theta}=\\sqrt{{A}^{2}+{B}^{2}+2AB\\cos⁡({180}^{\\circ}-\\theta)}\\\\ & \\text{ বা, }{A}^{2}+{B}^{2}+2AB\\cos⁡\\theta={A}^{2}+{B}^{2}-2AB\\cos⁡\\theta\\\\ & \\text{ বা, }4AB\\cos⁡\\theta=0\\text{ বা, }\\cos⁡\\theta=0\\text{ বা, }\\theta={90}^{\\circ}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0⁰"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "30 °"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "90 °"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "180 °"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কৌণিক ভরবেগের একক-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$kg {m}^{2} {s}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$kg {m}^{2} {s}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$kg {m}^{2} {s}^{-3}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$kg m {s}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি চাকার জড়তার ভ্রামক $5\\times{10}^{-3}{\\text{ kg m}}^{2}$ এবং এটি প্রতি সেকেন্ডে $20$ বার আবর্তন করছে। চাকাটিকে $20$ সেকেন্ডে থামানো হলে ইহার কৌণিক ত্বরণ হবে-",
+          "solutionText": "দেওয়া আছে,\nআদি কম্পাঙ্ক ( $f$ ) = $20\\text{ Hz}$ (প্রতি সেকেন্ডে ২০ বার)সময় ( $t$ ) = $20\\text{ s}$শেষ কৌণিক বেগ ( ${\\omega}_{f}$ ) = $0\\text{ rad/s}$ (যেহেতু চাকাটি থেমে যাচ্ছে)\nআমরা জানি,কৌণিক বেগ $\\omega=2\\pif$\nবা, ${\\omega}_{i}=2\\times\\pi\\times20$\nবা, ${\\omega}_{i}=40\\pi\\text{ rad/s}$\nকৌণিক গতির সমীকরণ থেকে পাই-\n${\\omega}_{f}={\\omega}_{i}+\\alphat$\nবা, $0=40\\pi+\\alpha\\times20$\nবা, $20\\alpha=-40\\pi$\nবা, $\\alpha=-\\frac{40\\pi}{20}$\nবা, $\\alpha=-2\\pi{\\text{ rad/s}}^{2}$\n$∴$ $\\alpha=-2\\pi{\\text{ rad/s}}^{2}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\pi rad {s}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$-2\\pi rad {s}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$4\\pi rad {s}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$8\\pi rad {s}^{-2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ব্যাংকিং কোণ পরিমাপ করা হয় কোনটির সাপেক্ষে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "অনুভূমিক দিকের সাপেক্ষে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "উল্লম্ব দিকের সাপেক্ষে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "বৃত্তের কেন্দ্র হতে বাইরের দিকের সাপেক্ষে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বৃত্তের কেন্দ্রের দিকের সাপেক্ষে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বিভবশক্তির মাত্রা কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$M{L}^{2}{T}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$M{L}^{2}{T}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$ML{T}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$M{L}^{2}{T}^{-3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ভর এবং বেগ উভয়কে বৃদ্ধি করে যথাক্রমে তিনগুণ করা হলে গতিশক্তির বৃদ্ধির পরিমাণ কতগুণ হবে?",
+          "solutionText": "গতিশক্তি ${E}_{{k}_{1}}=\\frac{1}{2}{m}_{1}{v}^{2}$ পরিবর্তিত ভর ${m}_{2}=3{\\text{ }m}_{1}$ এবং\nবেগ ${v}_{2}=3{v}_{1}$\n$\\begin{matrix} & ∴{E}_{{k}_{2}}=\\frac{1}{2}{m}_{2}{v}_{2}{}^{2}=\\frac{1}{2}3{m}_{1}{(3{v}_{1})}^{2}=\\frac{1}{2}\\times{m}_{1}\\times{v}_{1}{}^{2}\\times27\\\\ & \\text{ বা, }{E}_{{k}_{2}}={E}_{{k}_{1}}\\times27\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "27"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "21"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "18"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "8"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "85 % দক্ষতা সম্পন্ন 2.5 kW ক্ষমতার একটি মোটরচালিত পাম্প দ্বারা একটি কূপ হতে গড়ে 6.30m উচ্চতায় পানি উঠানো হয়। প্রতি মিনিটে মোটরটি কত কিলোগ্রাম পানি উঠাতে পারবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "2075"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "2065"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2045"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2025"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "দশা বলতে বুঝায়-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বেগ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ত্বরণ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "অবস্থান"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "সবগুলো"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সরল ছন্দিত স্পন্দন গতির ত্বরণ ও সরণের সম্পর্কটি হলো-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "সমমুখী"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "বিপরীত মুখী"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "স্থির"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ব্যস্তানুপাতিক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "t = 0 সময়ে সরল দোলনগতিসম্পন্ন কোনো বস্তুর দশাকে বলা হয়-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "কৌণিক দশা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "রৈখিক দশা"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "আদি দশা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাৎক্ষণিক দশা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড়ে প্রশ্নের উত্তর দাও: 0.01 kg ভরের একটি বস্তুকণা সরলরেখা বরাবর সরল দোলনগতি অর্জন করে। এর দোলনকাল 2 sec, বিস্তার 0.1 m এবং সরণ 0.02m. \nQ. বল ধ্রুবকের মান কত?",
+          "solutionText": "সরল দোলনগতির ক্ষেত্রে, $T=2\\pi\\sqrt{\\frac{m}{k}}$ বা, $k=\\frac{4{\\pi}^{2}\\text{ }m}{{\\text{ }T}^{2}}$ \n$∴k=\\frac{4{\\pi}^{2}\\times0.01}{(2{)}^{2}}=0.098{Nm}^{-1}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$0.0314 N{m}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$0.09865;N{m}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$0.02465 N{m}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$0.3944 N{m}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড়ে প্রশ্নের উত্তর দাও: 0.01 kg ভরের একটি বস্তুকণা সরলরেখা বরাবর সরল দোলনগতি অর্জন করে। এর দোলনকাল 2 sec, বিস্তার 0.1 m এবং সরণ 0.02m. \nQ. উদ্দীপকে উল্লিখিত সরণকালে গতিশক্তি বিভবশক্তির কতগুণ?",
+          "solutionText": "গতিশক্তি $K=\\frac{1}{2}\\text{ }m{\\omega}^{2}{(\\sqrt{{A}^{2}-{x}^{2}})}^{2}$ , বিভবশক্তি $U=\\frac{1}{2}m{\\omega}^{2}{x}^{2}$\n$\\frac{K}{U}=\\frac{{A}^{2}-{x}^{2}}{{x}^{2}}=\\frac{(0.1{)}^{2}-(0.02{)}^{2}}{(0.02{)}^{2}}=24\\text{ বা, }K=24\\timesU$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.42"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.4"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "4.2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "24"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শিশিরাঙ্ক বলতে বুঝা যায়-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "তাপমাত্রা"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "আপেক্ষিক আর্দ্রতা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "পরম আর্দ্রতা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "গ্যাস কর্তৃক প্রদত্ত চাপ নির্ভর করে গ্যাসের- \ni. ঘনত্বের উপর \nii. আণবিক বেগের উপর \niii. প্রকৃতির উপর \nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "30 ° C তাপমাত্রায় একটি গ্যাসকে স্থির চাপে উত্তপ্ত করা হলে আয়তন তিনগুণ হয়। গ্যাসটির চূড়ান্ত তাপমাত্রা কত হবে?",
+          "solutionText": "চার্লসের সূত্রানুসারে: $\\frac{{T}_{2}}{{T}_{1}}=\\frac{{V}_{2}}{{V}_{1}}$ বা, ${T}_{2}=\\frac{{V}_{2}}{{V}_{1}}\\times{T}_{1}$ বা, ${T}_{2}=\\frac{3\\text{ }V}{\\text{ }V}\\times(273+30)=909\\text{ }K={636}^{\\circ}C$ ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "+ 909 ° C"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "+ 636 ° C"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "+ 276 °"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "-170 ° C"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বায়ুর আপেক্ষিক আর্দ্রতা কম হলে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বাষ্পায়ন ধীর গতিতে হবে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বৃষ্টি হওয়ার সম্ভাবনা আছে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "বাষ্পায়ন দ্রুত গতিতে হবে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "দিনটি কষ্টদায়ক হবে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিম্নের কোনটি মৌলিক এককের উদাহরণ?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "সরণের একক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বেগের একক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ত্বরণের একক"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বলের একক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "দুটি ভেক্টর রাশির স্কেলার গুণফল √18 এবং ভেক্টর গুণফল √6। ভেক্টরদ্বয়ের মধ্যবর্তী কোণ-",
+          "solutionText": "$\\begin{matrix} & AB\\cos⁡\\theta=\\sqrt{18}\\text{ এবং }AB\\sin⁡\\theta=\\sqrt{6}\\text{ হলে,, }\\frac{AB\\sin⁡\\theta}{AB\\cos⁡\\theta}=\\frac{\\sqrt{6}}{\\sqrt{18}}\\\\ & \\text{ বা, }\\tan⁡\\theta=\\frac{1}{\\sqrt{3}}=\\tan⁡{30}^{\\circ}\\text{ বা, }\\theta={30}^{\\circ}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "120 °"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "90 °"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "60 °"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "30 °"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটির দিক নির্দিষ্ট নয়?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "সমান ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিপরীত ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "সমান্তরাল ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "শূন্য ভেক্টর"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সাঁতার কাটার ভিত্তি হলো নিউটনের-",
+          "solutionText": "সঠিক উত্তর হলো: ৩য় সূত্র।\nব্যাখ্যা:সাঁতার কাটার ভিত্তি হলো নিউটনের গতির তৃতীয় সূত্র। এই সূত্র অনুযায়ী, \"প্রত্যেক ক্রিয়ারই একটি সমান ও বিপরীতমুখী প্রতিক্রিয়া আছে।\"\nযখন কেউ সাঁতার কাটে, তখন সে তার হাত ও পা দিয়ে পানিকে পেছনের দিকে ধাক্কা দেয় (এটি হলো ক্রিয়া বল)। এর ফলে পানিও সাঁতারুর শরীরকে সমান ও বিপরীতমুখী বল প্রয়োগ করে সামনের দিকে ধাক্কা দেয় (এটি হলো প্রতিক্রিয়া বল)। পানির এই প্রতিক্রিয়া বলের কারণেই সাঁতারু সামনের দিকে এগিয়ে যেতে পারে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "১ ম সূত্র"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "২ য় সূত্র"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "৩ য় সূত্র"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "৪ র্থ সূত্র"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1kg-watt ঘণ্টা সমান—",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1000 J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "3600 J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "600 J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "3600000 J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$K$ বল ধ্রুবকের একটি স্প্রিং এ $T$ পরিমাণ টান প্রয়োগ করা হলো। ফলে দৈর্ঘ্য বৃদ্ধি হয় $x$ পরিমাণ। এ অবস্থায় স্প্রিংটিতে সঞ্চিত বিভবশক্তি হবে—",
+          "solutionText": "হুকের সূত্র অনুযায়ী, স্প্রিং-এর ওপর প্রয়োগকৃত বল (এখানে টান, $T$ ) এবং স্প্রিংয়ের দৈর্ঘ্য বৃদ্ধির ( $x$ ) মধ্যকার সম্পর্কটি হলো:\n$T=kx$\nবা, $x=\\frac{T}{k}$\nআমরা জানি,\nকোনো স্প্রিং-এ সঞ্চিত বিভবশক্তি, ${E}_{p}=\\frac{1}{2}k{x}^{2}$\nবা, ${E}_{p}=\\frac{1}{2}k{(\\frac{T}{k})}^{2}$ ( $x$ -এর মান বসিয়ে)\nবা, ${E}_{p}=\\frac{1}{2}k(\\frac{{T}^{2}}{{k}^{2}})$\nবা, ${E}_{p}=\\frac{{T}^{2}}{2k}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{2{T}^{2}}{k}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{{T}^{2}}{2k}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{T}^{2}}{2x}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{2k}{{T}^{2}}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "barisal-2021-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "আয়তন স্থির রেখে গ্যাসের তাপমাত্রা বৃদ্ধি করা হলে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "চাপ হ্রাস পাবে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "চাপ বৃদ্ধি পাবে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "চাপ ধ্রুব থাকবে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "কোনোটিই নয়"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "12c1869886092bf1c659c2be38cb3a486c7f862bc497f2ffb70fed30cf418860",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Barisal",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2021,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "mymensingh-2023-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "মহাকর্ষীয় ধ্রুবকের মাত্রা কোনটি?",
+          "solutionText": "$\\begin{matrix} & F=\\frac{G{M}_{1}{M}_{2}}{{r}^{2}}\\\\ & [G]=\\frac{[F][{r}^{2}]}{[{m}_{1}][{m}_{2}]}=[\\frac{{MLT}^{-2}\\times{L}^{2}}{{M}^{2}}]=[{M}^{-1}{\\text{ }L}^{3}{\\text{ }T}^{-2}]\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "[M ${}^{-1}{L}^{3}{T}^{-2}$ ]"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "[M ${}^{-1}{L}^{-3}{T}^{-1}$ ]"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "[M ${}^{-1}{L}^{-2}{T}^{-3}$ ]"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "[M ${}^{-1}{L}^{-3}{T}^{-2}$ ]"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পার্কিং কক্ষপথ হলো-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ্রহের চলার পথ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ভূ-স্থির উপগ্রহের কক্ষপথ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "পোলার উপগ্রহের কক্ষপথ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "পৃথিবীর কক্ষপথ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সংনম্যতা হলো—\ni. স্কেলার রাশি\nii. আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত\niii. আয়তন গুণাংকের বিপরীত রাশি\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "তারের দৈর্ঘ্য বিকৃতি 0.02, পার্শ্ব বিকৃতি 0.002 হলে, পরসনের অনুপাত কত?",
+          "solutionText": "পয়সনের অনুপাত, $\\sigma=\\frac{\\text{ পার্শ্ব বিকৃতি }}{\\text{ দৈর্ঘ্য বিকৃতি }}=\\frac{0.002}{0.02}=0.1$ ."
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.00004"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.04"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.0"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি সরল দোলকের বিস্তার ও কম্পাংক যথাক্রমে 0.01m এবং 12Hz । 0.005m সরণের ক্ষেত্রে দোলকটির বেগ কত হবে?",
+          "solutionText": "$\\begin{matrix}v=\\omega\\sqrt{{A}^{2}-{x}^{2}}=2\\pif\\sqrt{{A}^{2}-{x}^{2}} & =2\\pi\\times12\\sqrt{(0.01{)}^{2}-(0.005{)}^{2}}\\\\ & =0.653{\\text{ }ms}^{-1}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.030ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.06ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.12ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.653ms ${}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\vec{A}=5j$ এবং $\\vec{B}$ ভেক্টর $\\vec{A}$ ভেক্টরের বিপ্রতীপ হলে—",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{B}=\\frac{1}{5}i$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\vec{B}=\\frac{1}{5}j$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{B}=5j$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{B}=5i$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "এক অশ্ব ক্ষমতা কত ওয়াটের সমান?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "746"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "550"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "946"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "750"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "মহাকর্ষীয় বিভব-\ni. স্কেলার রাশি \nii. এর সর্বোচ্চ মান অসীম \niii. এর মান মহাকর্ষীয় ক্ষেত্রের যে কোনো বিন্দুতে ঋণাত্মক হতে পারে\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "27°C তাপমাত্রায় 2gm নাইট্রোজেনের মোট গতিশক্তি কত?",
+          "solutionText": "$E=\\frac{3}{2}n\\cdotR.T=\\frac{3}{2}\\times\\frac{2}{28}\\times8.314\\times(27+273)J=267\\text{ }J$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.267 J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.67J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "26.7 J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "267 J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "আদর্শ গ্যাসের ক্ষেত্রে চাপের সমীকরণ কোনটি?\ni. PV = $\\frac{1}{3}$ mNC−2\nii.P= $\\frac{1}{3}$ pC−2\niii.P = $\\frac{2}{3}$ RT\nনিচের কোনটি সঠিক?",
+          "solutionText": "আদর্শ গ্যাসে সূত্র , $PV=\\frac{1}{3}{mNC}_{rms}{}^{2}$\nবা, $P=\\frac{1}{3}(\\frac{M}{V}){C}_{ms}{}^{2}=\\frac{1}{3},P{C}_{rms}{}^{2}$\nআবার, $PV={nRT}^{n}$\nসুতরাং, সঠিক উত্তর নেই।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "কোনোটিই নয়"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সরল দোলকের সাম্যাবস্থায় সর্বোচ্চ হয়-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ত্বরণ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "সরণ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "বেগ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রত্যায়নী বল"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "SI পদ্ধতিতে আয়তন গুণাংকের একক-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "Nm ${}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "Nm"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "Nm ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "N ${}^{-1}$ m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1,000 kg ভরের একটি গাড়ী 300N ঘর্ষণ বলযুক্ত সোজা রাস্তায় 4m-2 সমত্বরণে চলে। গাড়ীর ইঞ্জিন কর্তৃক প্রযুক্ত বল-",
+          "solutionText": "$F=Fs+Ma=300+1000\\times4=4300\\text{ }N$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "3,700 N"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "4,300 N"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "4,000 N"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "10,100 N"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "R ও 2R ব্যাসার্ধবিশিষ্ট বৃত্তাকার কক্ষপথে প্রদক্ষিণরত দুটি কৃত্রিম উপগ্রহের পর্যায়কালের অনুপাত হবে—",
+          "solutionText": "$\\frac{{F}_{1}^{2}}{{\\text{ }T}_{2}{}^{2}}=\\frac{{r}^{3}}{{r}_{2}{}^{3}}$ বা, $\\frac{{T}_{1}}{{\\text{ }T}_{2}}=\\sqrt{\\frac{{R}^{3}}{(2R{)}^{3}}}$ বা; ${T}_{1}:{T}_{2}=1:2\\sqrt{2}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "1 : 2 $\\sqrt{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2 $\\sqrt{2}$ : 1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 : 8"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "8 : 1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের তথ্যটি পড়ে নিচের প্রশ্নের উত্তর দাও $\\vec{A}+\\vec{B}=12\\hat{i}-4\\hat{j}+8\\hat{k}$$\\vec{A}-\\vec{B}=-6\\hat{i}+12\\hat{j}+10\\hat{k}$\nQ. $\\vec{B}$ ভেক্টরটি হবে-",
+          "solutionText": "$2\\vec{B}=18\\hat{i}-16\\hat{j}-2\\hat{k};\\vec{B}=9i-8\\hat{j}-\\hat{k}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$6\\hat{i}-8\\hat{j}+9\\hat{k}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$9\\hat{i}+8\\hat{j}-2\\hat{k}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$9\\hat{i}-8\\hat{j}-\\hat{k}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$6\\hat{i}+8\\hat{j}+18\\hat{k}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের তথ্যটি পড়ে নিচের প্রশ্নের উত্তর দাও $\\vec{A}+\\vec{B}=12\\hat{i}-4\\hat{j}+8\\hat{k}$$\\vec{A}-\\vec{B}=-6\\hat{i}+12\\hat{j}+10\\hat{k}$\n$\\vec{A}.\\vec{B}$ এর মান কত?",
+          "solutionText": "$\\begin{matrix} & 2\\vec{A}=6\\hat{i}+8\\hat{j}+18\\hat{k};\\\\ & \\text{ বা, }\\vec{A}=3\\hat{i}+4\\hat{j}+9\\hat{k};\\vec{A}\\cdot\\vec{B}=9\\times3+(-8)\\times4+(-1)\\times9=-14\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "16"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "14"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "-12"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "-14"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি সরল ছন্দিত কণার গতির সমীকরণ, x = 10 sin(6 $\\pi$ t + 2 $\\pi$ ) ।কণাটির কম্পাংক কত?",
+          "solutionText": "$\\begin{matrix} & x=10\\sin⁡(6\\pit+2\\pi)\\\\ & ∴\\omega=6\\pi\\\\ & \\text{ বা, }2\\pif=6\\pi \\text{ বা, }f=3\\text{ }Hz\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1.5 Hz"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "3 Hz"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "6 Hz"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "40 Hz"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের অনুচ্ছেদটি পড়ে নিম্নোক্ত প্রশ্নের উত্তর দাও\n3kg ভরের একটি বন্দুক থেকে 5gm ভরের একটি বুলেট 150ms-1 বেগে বের হয়ে গেল। বুলেটটি বের হওয়ার সময় একটি বল পেছনের দিকে ধাক্কা দিল। \nQ. বন্দুকের আদি ভরবেগ কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.75kgms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "-0.75kgms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3kgms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "0 kgms ${}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের অনুচ্ছেদটি পড়ে নিম্নোক্ত প্রশ্নের উত্তর দাও:3kg ভরের একটি বন্দুক থেকে 5gm ভরের একটি বুলেট 150ms-1 বেগে বের হয়ে গেল। বুলেটটি বের হওয়ার সময় একটি বল পেছনের দিকে ধাক্কা দিল। \nQ. বন্দুকটি কত বেগে পেছনে সরে আসবে?",
+          "solutionText": "$MV+mv=0$ বা, $v=-\\frac{0.005\\times150}{3}=-0.25{\\text{ }ms}^{-1}$ সুতরাং, পশ্চাৎবেগ $v=0.25{\\text{ }ms}^{-1}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0 ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.25 ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.5 ms ${}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "150 ms ${}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি অসংরক্ষণশীল বল?\ni. মহাকর্ষীয় বল \nii. সান্দ্র বল \niii. ঘর্ষণ বল \nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নির্দিষ্ট স্তরের আদর্শ গ্যাসের জন্য গতিশক্তি (E) vs তাপমাত্রা (T) লেখচিত্র কীরূপ হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "A"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "B"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "C"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "D"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সেকেন্ড দোলকের কম্পাঙ্ক-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.5 Hz"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 Hz"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2 Hz"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "4 Hz"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি 1.5m দীর্ঘ ও 2kg ভরের রডকে আনুভূমিক হতে উল্লম্ব অবস্থায় নিতে কাজের পরিমাণ কত?",
+          "solutionText": "$W=mg\\frac{h}{2}=2\\times9.8\\times\\frac{1.5}{2}=14.7\\text{ }J\\approx14\\text{ }J$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "14J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "29J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "44J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\hat{i}\\times(\\hat{i}\\times\\hat{j})$ = ?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\hat{i}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\hat{j}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\hat{k}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\hat{-j}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "mymensingh-2023-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "আনুভূমিকের সাথে ${30}^{\\circ}$ কোণে আনত রাস্তার উপরের দিকে চলমান $100\\text{gm}$ ভরের একটি বস্তু $5\\text{m}$ পথ চলতে কত শক্তি প্রয়োজন হবে?",
+          "solutionText": "দেওয়া আছে,বস্তুর ভর, $m=100\\text{ gm}=\\frac{100}{1000}\\text{ kg}=0.1\\text{ kg}$আনত তলের কোণ, $\\theta={30}^{\\circ}$আনত তল বরাবর অতিক্রান্ত দূরত্ব, $s=5\\text{ m}$অভিকর্ষজ ত্বরণ, $g=9.8{\\text{ m/s}}^{2}$বস্তুটিকে আনত তল বেয়ে উপরের দিকে তুলতে হলে অভিকর্ষ বলের যে উপাংশটি নিচের দিকে কাজ করছে,তার ঠিক সমান ও বিপরীতমুখী বল প্রয়োগ করতে হবে।আনত তল বরাবর বস্তুটির ওজনের উপাংশ (প্রয়োজনীয় বল),$F=mg\\sin⁡\\theta$আমরা জানি,প্রয়োজনীয় শক্তি বা কৃতকাজ ( $W$ ) হলো বল এবং দূরত্বের গুণফল-$W=F\\timess$বা, $W=(mg\\sin⁡\\theta)\\timess$বা, $W=0.1\\times9.8\\times\\sin⁡({30}^{\\circ})\\times5$বা, $W=0.98\\times0.5\\times5$বা, $W=0.98\\times2.5$বা, $W=2.45\\text{ J}$বস্তুটিকে $5\\text{ m}$ পথ অতিক্রম করতে $2.45\\text{ J}$ (জুল) শক্তি প্রয়োজন হবে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$0.048J$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$0.439J$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1.225J$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$2.45J$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "96bfdcb8a2ea4bf35891613b3a7c029a700ac79ff0f538e10cbff75933c5ccd8",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Mymensingh",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2023,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

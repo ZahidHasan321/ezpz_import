@@ -1,0 +1,150 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "dhaka-2024-phy1-p4-q17",
+      "curriculum": { "path": "hsc/physics/1st/chapter-2" },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "en": {
+          "questionText": "In the figure, two forces of $3\\ \\text{N}$ and $4\\ \\text{N}$ act at right angles. What is the magnitude of the resultant?",
+          "solutionText": "$R = \\sqrt{3^2 + 4^2} = \\mathbf{5\\ \\text{N}}$"
+        },
+        "bn": {
+          "questionText": "চিত্রে $3\\ \\text{N}$ ও $4\\ \\text{N}$ মানের দুটি বল পরস্পর লম্বভাবে ক্রিয়া করছে। লব্ধির মান কত?",
+          "solutionText": "$R = \\sqrt{3^2 + 4^2} = \\mathbf{5\\ \\text{N}}$"
+        }
+      },
+      "choices": [
+        { "ordinal": 1, "key": "ক", "isCorrect": false, "body": { "en": "$1\\ \\text{N}$", "bn": "$1\\ \\text{N}$" } },
+        { "ordinal": 2, "key": "খ", "isCorrect": true,  "body": { "en": "$5\\ \\text{N}$", "bn": "$5\\ \\text{N}$" } },
+        { "ordinal": 3, "key": "গ", "isCorrect": false, "body": { "en": "$7\\ \\text{N}$", "bn": "$7\\ \\text{N}$" } },
+        { "ordinal": 4, "key": "ঘ", "isCorrect": false, "body": { "en": "$12\\ \\text{N}$", "bn": "$12\\ \\text{N}$" } },
+        { "ordinal": 5, "key": "ঙ", "isCorrect": false, "body": { "en": "$25\\ \\text{N}$", "bn": "$25\\ \\text{N}$" } }
+      ],
+      "assets": [
+        {
+          "sha256": "3b1f0c9d5a7e2b48c6d0f1a93e5c7b28d4a6f80c2e91b3d57a0c8e4f6b2d1a93",
+          "role": "stem",
+          "page": 4,
+          "bbox": [72, 310, 288, 470]
+        }
+      ],
+      "provenance": {
+        "sourceDocumentSha256": "9f2c4a1e7b8d3056c1e9a4f7b2d5083c6a1e4f9b7d2c5083a6e1f4b9d7c2508a",
+        "page": 4,
+        "bbox": [60, 280, 540, 520],
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dhaka",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2024,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        },
+        {
+          "source_type": "admission_exam",
+          "exam_category_code": "medical",
+          "organization": "Centralized Medical and Dental Admission Authority",
+          "exam_name": "Medical Admission Test",
+          "year": 2023,
+          "session": "23-24",
+          "paper": null,
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "58"
+        }
+      ]
+    },
+    {
+      "clientId": "dhaka-2024-phy1-p9-q3",
+      "curriculum": { "path": "hsc/physics/1st/chapter-4" },
+      "questionNumber": "3",
+      "formatCode": "cq",
+      "translations": {
+        "bn": {
+          "questionText": "$2\\ \\text{kg}$ ভরের একটি বস্তুর উপর $10\\ \\text{N}$ বল প্রয়োগ করা হলো।",
+          "solutionText": null
+        }
+      },
+      "parts": [
+        { "ordinal": 1, "key": "ক", "label": "জ্ঞান", "prompt": { "bn": "নিউটনের দ্বিতীয় সূত্রটি লেখ।" }, "solution": { "bn": "বস্তুর ভরবেগের পরিবর্তনের হার প্রযুক্ত বলের সমানুপাতিক।" } },
+        { "ordinal": 2, "key": "খ", "label": "অনুধাবন", "prompt": { "bn": "ঘর্ষণ বল কেন সর্বদা গতির বিপরীতে ক্রিয়া করে?" }, "solution": { "bn": "ঘর্ষণ বল আপেক্ষিক গতিকে বাধা দেয়, তাই গতির বিপরীতে ক্রিয়া করে।" } },
+        { "ordinal": 3, "key": "গ", "label": "প্রয়োগ", "prompt": { "bn": "বস্তুর ত্বরণ নির্ণয় কর।" }, "solution": { "bn": "$$a = \\frac{F}{m} = \\frac{10}{2} = \\mathbf{5\\ \\text{m s}^{-2}}$$" } },
+        { "ordinal": 4, "key": "ঘ", "label": "উচ্চতর দক্ষতা", "prompt": { "bn": "বল দ্বিগুণ করলে ৫ সেকেন্ড পর বেগ কত হবে? গাণিতিকভাবে বিশ্লেষণ কর।" } }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9f2c4a1e7b8d3056c1e9a4f7b2d5083c6a1e4f9b7d2c5083a6e1f4b9d7c2508a",
+        "page": 9,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Dhaka",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2024,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "buet-2022-p2-q11",
+      "curriculum": { "path": "hsc/math/1st/chapter-9" },
+      "questionNumber": "11",
+      "formatCode": "numeric",
+      "translations": {
+        "en": {
+          "questionText": "If $y = x^3 - 3x$, find the value of $\\frac{dy}{dx}$ at $x = 2$.",
+          "solutionText": "$9$"
+        }
+      },
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "1c8d2e4f6a0b3c5d7e9f1a2b4c6d8e0f2a4b6c8d0e2f4a6b8c0d2e4f6a8b0c2d",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "claude-opus-5",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 0.97
+      },
+      "sources": [
+        {
+          "source_type": "admission_exam",
+          "exam_category_code": "engineering",
+          "organization": "BUET",
+          "exam_name": "Undergraduate Admission Test",
+          "year": 2022,
+          "session": "2022-23",
+          "paper": null,
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    }
+  ]
+}

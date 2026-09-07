@@ -1,0 +1,1733 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "jessore-2019-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সুষম বৃত্তাকার গতির বৈশিষ্ট্য-\ni. সমকৌণিক বেগ বিদ্যমান\nii. কৌণিক ত্বরণ শূন্য\niii. কেন্দ্রমুখী ত্বরণ থাকে না\nনিচের কোনটি সঠিক?",
+          "solutionText": "সুষম বৃত্তাকার বেগে ঘূর্ণনশীল বস্তুর সমকৌণিক বেগ w ,কেন্দ্রমুখী ত্বরণ ac থাকে কিন্তু কৌণিক ত্বরণ শূন্য হয় ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি পর্যবেক্ষণমূলক ত্রুটি?",
+          "solutionText": "পর্যবেক্ষণমূলক ত্রুটি গুলো হল, ব্যাক্তিগত ত্রুটি, প্রান্তদাগ ত্রুটি, লম্বন ত্রুটি, সূচক ত্রুটি, পরিবেশগত ত্রুটি ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "লম্বন ত্রুটি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "পিছট ত্রুটি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "লেভেল ত্রুটি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "এলোমেলো ত্রুটি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো সরল ছন্দিত স্পন্দনরত বস্তুকণার\nবিস্তার A ও সরণ x হলে ত্বরণ সর্বনিম্ন হবে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "x = A অবস্থানে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "x = $\\frac{A}{2}$ অবস্থানে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "x = $\\frac{A}{4}$ অবস্থানে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "x = 0 অবস্থানে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "L বাহুবিশিষ্ট বর্গাকার ফ্রেম তরলে নিমজ্জিত\nকরে তোলা হলো। এর এক বাহু x দূরত্ব\nসরাতে কৃত কাজ কত? \n[যেখানে T পৃষ্ঠটান নির্দেশ করে]",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "W = 2LT"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "W = T"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "W = 2LTx"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "W = LTx"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "গড় বেগের বর্গমূল মান ও পরম তাপমাত্রার মধ্যে সম্পর্ক কোনটি?",
+          "solutionText": "গড় বেগের বর্গমূল এর মান পরম তাপমাত্রার সাথে বর্গমূলের সমানুপাতিক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "Cr.m.s ∝ T"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "Cr.m.s ∝ $\\sqrt{T}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "Cr.m.s ∝ $\\sqrt{\\frac{1}{T}}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "Cr.m.s ∝ $\\frac{1}{\\sqrt{T}}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিম্নের কোনটি শক্তির একক নয়?",
+          "solutionText": "Kgms-1 হচ্ছে ভরবেগের একক । তাই এটি শক্তির একক নয় ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "kW-h"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "N-m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "kgms-1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "W-s"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও: AB দণ্ডটি XY অক্ষের সাপেক্ষে ঘূর্ণনশীল। দণ্ডের মোট দৈর্ঘ্য 2m এবং মোট ভর 2kg |\nQ. চিত্র-ক এর জড়তার ভ্রামক I1 এবং চিত্র-খ এর জড়তার ভ্রামক I2, হলে, কোনটি সঠিক?",
+          "solutionText": "$\\begin{matrix} & \\frac{{I}_{1}}{{I}_{2}}=\\frac{\\frac{1}{3}{ML}^{2}}{\\frac{1}{12}{ML}^{2}}=\\frac{1}{3}\\times\\frac{12}{1}=\\frac{4}{1}\\\\ & ∴{I}_{1}:{I}_{2}=4:1\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "I1 : I2 = 1 : 1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "I1 : I2 = 1 : 2"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "I1 : I2 = 4 : 1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "I1 : I2 = 1 : 4"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও: AB দণ্ডটি XY অক্ষের সাপেক্ষে ঘূর্ণনশীল। দণ্ডের মোট দৈর্ঘ্য 2m এবং মোট ভর 2kg |\nQ. চিত্র-খ এ চক্রগতির ব্যাসার্ধের মান-",
+          "solutionText": "$K=\\frac{L}{2\\sqrt{3}}=\\frac{2m}{2\\sqrt{3}}=\\frac{1}{\\sqrt{3}}m$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{1}{\\sqrt{3}}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{2}{\\sqrt{3}}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{\\sqrt{1}2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\sqrt{\\frac{3}{4}}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শব্দের উৎস হতে শ্রোতার দূরত্ব দ্বিগুণ হলে শব্দের তীব্রতার ক্ষেত্রে কোনটি সঠিক?",
+          "solutionText": "শব্দের তীব্রতা $I=\\frac{p}{{\\pir}^{2}} I∞ \\frac{1}{{r}^{2}}$ তাই দুরত্ব ২ গুন করলে তীব্রতা ৪ গুন হ্রাস পাবে ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "দ্বিগুণ বৃদ্ধি পায়"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "চারগুণ বৃদ্ধি পায়"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "দ্বিগুণ হ্রাস পায়"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "চারগুণ হ্রাস পায়"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "Lm দৈর্ঘ্যের টানা তারের ভর Mkg হলে\nকম্পাঙ্ক f হবে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "f ∝ $\\sqrt{\\frac{L}{M}}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "f ∝ $\\sqrt{ML}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "f ∝ $\\sqrt{\\frac{M}{L}}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "f ∝ $\\sqrt{\\frac{1}{ML}}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো তারকে কেটে সমান দুই টুকরা করা হল। এতে তারের অসহ ভার হবে-",
+          "solutionText": "সর্বাপেক্ষা কম যে ভারের বা ওজনের ক্রিয়ার ফলে কোন বস্তু ছিঁড়ে বা ভেঙ্গে যায়, তাকে ঐ বস্তুর অসহ ভার বা অসহ ওজন বা অসহ বল বলে। কোন তারকে কেটে সমান দুই টুকরা করলে এতে অসিহ ভরের কোন পরিবর্তন হবে না ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "পূর্বের অর্ধেক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "পূর্বের সমান"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "পূর্বের দ্বিগুণ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "পূর্বের এক-চতুর্থাংশ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "η সান্দ্রতা গুণাঙ্কবিশিষ্ট মাধ্যমে R ব্যাসার্ধ একটি গোলাকার বল v প্রান্তিক বেগে পড়লে ক্রিয়াশীল সান্দ্র বল F হবে-",
+          "solutionText": "সান্দ্র বল, $F = 6\\pi\\etaRv$ তাই বলের সাথে প্রান্তিক বেগ এবং ব্যাসার্ধ দুটোই সমানুপাতিক ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "F ∝ R এবং F ∝ $\\frac{1}{v}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "F ∝ R এবং F ∝ v"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "F ∝ $\\frac{1}{R}$ এবং F ∝ $\\frac{1}{v}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "F ∝ $\\frac{1}{R}$ এবং F ∝ v"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "5kg ভর সম্পন্ন একটি বস্তুর উপর একটি বল $\\vec{F}=(10\\hat{i}+3\\hat{j}-2\\hat{k})N$ এর ক্রিয়ায় বস্তুটির অবস্থান $\\vec{{r}_{1}}=(8\\hat{i}+7\\hat{j}-3\\hat{k})m$ থেকে অপর একটি অবস্থান $\\vec{{r}_{2}}=(12\\hat{i}+2\\hat{j}+7\\hat{k})$ এ স্থানান্তরিত হলো। এতে কৃত কাজ-",
+          "solutionText": "$\\begin{matrix}\\vec{{r}_{2}}-\\vec{{r}_{1}} & =(12\\hat{i}+2\\hat{j}+7\\hat{k})-(8\\hat{i}+7\\hat{j}-3\\hat{k})\\\\ & =4\\hat{i}-5\\hat{j}+10\\hat{k}\\\\ \\omega & =\\vec{F}\\cdot(\\vec{{r}_{2}}-\\vec{{r}_{1}})\\\\ & =(10\\hat{i}+3\\hat{j}-2\\hat{k})\\cdot(4\\hat{i}-5\\hat{j}+10\\hat{k})=40-15-20=5\\text{ }J\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "2J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "3J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "5J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "7J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\hat{\\eta}=\\frac{\\vec{A}\\times\\vec{B}}{|\\vec{A}\\times\\vec{B}|}$ হলে $-\\hat{\\eta}$ সমান কত হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{\\vec{B}\\times\\vec{A}}{|\\vec{A}\\times\\vec{B}|}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\vec{A}\\times\\vec{B}}{|\\vec{B}\\times\\vec{A}|}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{|\\vec{B}\\times\\vec{A}|}{\\vec{A}\\times\\vec{B}}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{|\\vec{A}\\times\\vec{B}|}{\\vec{B}\\times\\vec{A}}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও: \n22.5cm ব্যবধানে অবস্থিত তরঙ্গের দুটি কণার মধ্যে দশা পার্থক্য 3.14 rad। উৎসের কম্পাঙ্ক 420 Hz।\nQ. তরঙ্গের তরঙ্গদৈর্ঘ্য কত?",
+          "solutionText": "$\\begin{matrix} & \\delta=3.14rad=\\pi\\cdotrad\\\\ & \\frac{\\delta}{2\\pi}=\\frac{x}{\\lambda}\\text{ বা, }\\lambda=\\frac{2\\pix}{\\delta}=\\frac{2\\pi\\times22.5\\text{ }cm}{\\pi}\\\\ & ∴\\lambda=45\\text{ }cm=0.45\\text{ }m\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.25 m"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.45 m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.75 m"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "45 m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও: 22.5cm ব্যবধানে অবস্থিত তরঙ্গের দুটি কণার মধ্যে দশা পার্থক্য 3.14 rad। উৎসের কম্পাঙ্ক 420 Hz।\nQ. উদ্দীপক অনুসারে-\ni. তরঙ্গ বেগ 189 ms-1\nii. উৎপন্ন শব্দ শোনা যাবে\niii. পর্যায়কাল হবে 2.38 sec\nনিচের কোনটি সঠিক?",
+          "solutionText": "$\\begin{matrix} & v=f\\lambda=420\\times0.45\\text{ }m{\\text{ }s}^{-1}=189\\text{ }m{\\text{ }s}^{-1}\\\\ & \\text{ }T=\\frac{1}{f}=\\frac{1}{420\\text{ }Hz}=2.38\\times{10}^{-3}\\text{ }s\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-8"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "যদি অভিকর্ষীয় ত্বরণ g ও পর্যায়কাল T হয় তবে কোন লেখচিত্রটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "খাড়া উপরের দিকে নিক্ষিপ্ত বস্তুর আনুভূমিক দূরত্ব R- এর মান কত?",
+          "solutionText": "খাড়া উপরের দিকে নিক্ষিপ্ত বস্তুর কোন আনুভূমিক দুরত্ব থাকে না তাই R = 0"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "R = Rmax"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{v}_{0}}{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{v}_{0}}{g}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "R = 0"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "প্রাসের ক্ষেত্রে-\ni. প্রাসের উপর একমাত্র ক্রিয়াশীল বল অভিকর্ষজ বল\nii. প্রাসের গতির ক্ষেত্রে g এর মান স্থির ধরা হয়\niii. প্রাসের গতিপথ ত্রিমাত্রিক\nনিচের কোনটি সঠিক?",
+          "solutionText": "প্রাসের গতিপথ হচ্ছে দ্বিমাত্রিক । তাই ৩ নং অপশন সঠিক নয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1m লম্বা ও 1mm ব্যাসের তারকে বল প্রয়োগে 0.025cm দৈর্ঘ্য বৃদ্ধি করা হলো। ব্যাস হ্রাস কত? [ σ = 0.1]",
+          "solutionText": "$\\sigma=\\frac{\\frac{d}{D}}{\\frac{l}{\\text{ }L}}=\\frac{dL}{Dl}$\nবা, $d=\\frac{\\sigmaDl}{\\text{ }L}=\\frac{0.1\\times1\\times{10}^{-3}\\text{ }m\\times2.5\\times{10}^{-4}\\text{ }m}{1\\text{ }m}$\n$=2.5\\times{10}^{-8}\\text{ }m=2.5\\times{10}^{-5}\\text{ }mm$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1.5\\times{10}^{5}\\text{ }mm$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$2.5\\times{10}^{-5}\\text{ }mm$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$3.5\\times{10}^{5}\\text{ }mm$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.5 m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বয়েল এর সূত্রানুযায়ী গ্যাসের চাপ $(P)$ ও\nআয়তন $(V)$ হলে নিচের কোনটি সঠিক?",
+          "solutionText": "সঠিক উত্তর: (খ)বয়েলের সূত্রানুসারে, স্থির তাপমাত্রায় নির্দিষ্ট ভরের কোনো গ্যাসের আয়তন $(V)$ তার চাপের $(P)$ ব্যস্তানুপাতিক।$V∝\\frac{1}{P}$বা, $PV=k\\text{ (ধ্রুবক)}$যেহেতু চাপ ( $P$ ) ও আয়তন ( $V$ ) পরস্পরের ব্যস্তানুপাতিক,তাই $X$ -অক্ষে চাপ ( $P$ ) এবং $Y$ -অক্ষে আয়তন ( $V$ ) বসিয়ে লেখচিত্র অঙ্কন করলে তা একটি আয়তাকার অধিবৃত্ত হয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ভেক্টর ক্ষেত্র $\\vec{v}$ অঘূর্ণনশীল হলে নিচের কোনটি সঠিক?",
+          "solutionText": "কোন ভেক্টরের কার্ল ভেক্টর যদি শূন্য হয় তাহলে ঐ ভেক্টরটি অঘূর্ণনশীল এবং সংরক্ষণশীল হবে ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{∇}.\\vec{v}=0$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\vec{∇}⁡×\\vec{v}=0$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{∇}.\\vec{v}\\neq0$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{∇}⁡×\\vec{v}\\neq0$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি ট্রাক vT বেগে C পূর্ব দিকে এবং একটি কার vC বেগে পশ্চিম দিকে গতিশীল হলে ট্রাকের সাপেক্ষে কারের আপেক্ষিক বেগ কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$({V}_{T}+{V}_{C})$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$({V}_{T}-{V}_{C})$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$({V}_{c}+{V}_{T})$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{{v}_{T}}{{v}_{C}}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "jessore-2019-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "1kg ও 4kg ভরের দুটি বস্তু একই গতিশক্তি\nনিয়ে চলছে। এদের রৈখিক ভর বেগের\nঅনুপাত হবে-",
+          "solutionText": "$\\frac{{E}_{{k}_{1}}}{{E}_{{k}_{2}}}=\\frac{\\frac{{P}_{1}^{2}}{2{m}_{1}}}{\\frac{{P}_{2}{}^{2}}{2{m}_{2}}}$ বা, $1=\\frac{{P}_{1}^{2}}{2{m}_{1}}\\times\\frac{2{m}_{2}}{{P}_{2}{}^{2}}$\nবা, ${m}_{2}{P}_{1}{}^{2}={m}_{1}{P}_{2}{}^{2}$ বা, $4{P}_{1}{}^{2}=1{P}_{2}{}^{2}$\nবা, ${P}_{1}{}^{2}=\\frac{1}{4}{P}_{2}{}^{2}∴{P}_{1}:{P}_{2}=1:2$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "4: 1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\sqrt{2:1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "1: 2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "1: 16"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "b8745dfd93dd36578e31994ba065c4f7a0c650967efe2be7118c93974a7aadc9",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Jessore",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    }
+  ]
+}

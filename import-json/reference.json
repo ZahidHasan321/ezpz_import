@@ -1,0 +1,654 @@
+{
+    "formats": [
+        {
+            "code": "cq",
+            "maxCorrect": null,
+            "minChoices": null,
+            "minCorrect": null,
+            "responseKind": "structured"
+        },
+        {
+            "code": "matching",
+            "maxCorrect": null,
+            "minChoices": null,
+            "minCorrect": null,
+            "responseKind": "matching"
+        },
+        {
+            "code": "mcq_multiple",
+            "maxCorrect": null,
+            "minChoices": 2,
+            "minCorrect": 1,
+            "responseKind": "choice"
+        },
+        {
+            "code": "mcq_single",
+            "maxCorrect": 1,
+            "minChoices": 2,
+            "minCorrect": 1,
+            "responseKind": "choice"
+        },
+        {
+            "code": "numeric",
+            "maxCorrect": null,
+            "minChoices": null,
+            "minCorrect": null,
+            "responseKind": "numeric"
+        },
+        {
+            "code": "short_answer",
+            "maxCorrect": null,
+            "minChoices": null,
+            "minCorrect": null,
+            "responseKind": "text"
+        }
+    ],
+    "generatedAt": "2026-09-05",
+    "organizations": [
+        {
+            "code": "agriculture-cluster-admission",
+            "name": "Agriculture Cluster Admission System",
+            "type": "admission_cluster",
+            "aliases": [
+                "Agriculture Cluster Admission System",
+                "Agriculture Cluster"
+            ]
+        },
+        {
+            "code": "ckruet-engineering-admission",
+            "name": "CUET-KUET-RUET Combined Admission Committee",
+            "type": "admission_cluster",
+            "aliases": [
+                "CUET-KUET-RUET Combined Admission Committee",
+                "CKRUET"
+            ]
+        },
+        {
+            "code": "gst-integrated-admission",
+            "name": "GST Universities Integrated Admission System",
+            "type": "admission_cluster",
+            "aliases": [
+                "GST Universities Integrated Admission System",
+                "GST Admission",
+                "General Science and Technology Admission"
+            ]
+        },
+        {
+            "code": "centralized-medical-dental-admission",
+            "name": "Centralized Medical and Dental Admission Authority",
+            "type": "centralized_medical_dental_authority",
+            "aliases": [
+                "Centralized Medical and Dental Admission Authority",
+                "Medical Admission",
+                "MBBS Admission",
+                "Dental Admission",
+                "BDS Admission",
+                "DGME Admission"
+            ]
+        },
+        {
+            "code": "bangladesh-madrasah-education-board",
+            "name": "Bangladesh Madrasah Education Board",
+            "type": "education_board",
+            "aliases": [
+                "Bangladesh Madrasah Education Board",
+                "Madrasah Board"
+            ]
+        },
+        {
+            "code": "bangladesh-technical-education-board",
+            "name": "Bangladesh Technical Education Board",
+            "type": "education_board",
+            "aliases": [
+                "Bangladesh Technical Education Board",
+                "Technical Board"
+            ]
+        },
+        {
+            "code": "barisal-education-board",
+            "name": "Barisal",
+            "type": "education_board",
+            "aliases": [
+                "Barisal",
+                "Barishal",
+                "Barisal Board",
+                "Barishal Board"
+            ]
+        },
+        {
+            "code": "chittagong-education-board",
+            "name": "Chittagong",
+            "type": "education_board",
+            "aliases": [
+                "Chittagong",
+                "Chattogram",
+                "Chittagong Board",
+                "Chattogram Board"
+            ]
+        },
+        {
+            "code": "comilla-education-board",
+            "name": "Comilla",
+            "type": "education_board",
+            "aliases": [
+                "Comilla",
+                "Cumilla",
+                "Comilla Board",
+                "Cumilla Board"
+            ]
+        },
+        {
+            "code": "dhaka-education-board",
+            "name": "Dhaka",
+            "type": "education_board",
+            "aliases": [
+                "Dhaka",
+                "Dhaka Board"
+            ]
+        },
+        {
+            "code": "dinajpur-education-board",
+            "name": "Dinajpur",
+            "type": "education_board",
+            "aliases": [
+                "Dinajpur"
+            ]
+        },
+        {
+            "code": "jessore-education-board",
+            "name": "Jessore",
+            "type": "education_board",
+            "aliases": [
+                "Jessore",
+                "Jashore",
+                "Jessore Board",
+                "Jashore Board"
+            ]
+        },
+        {
+            "code": "mymensingh-education-board",
+            "name": "Mymensingh",
+            "type": "education_board",
+            "aliases": [
+                "Mymensingh"
+            ]
+        },
+        {
+            "code": "rajshahi-education-board",
+            "name": "Rajshahi",
+            "type": "education_board",
+            "aliases": [
+                "Rajshahi",
+                "Rajshahi Board"
+            ]
+        },
+        {
+            "code": "sylhet-education-board",
+            "name": "Sylhet",
+            "type": "education_board",
+            "aliases": [
+                "Sylhet"
+            ]
+        },
+        {
+            "code": "combined-education-boards",
+            "name": "Combined",
+            "type": "education_board_collective",
+            "aliases": [
+                "Combined",
+                "All Boards",
+                "Combined Boards"
+            ]
+        },
+        {
+            "code": "aust",
+            "name": "Ahsanullah University of Science and Technology",
+            "type": "engineering_university",
+            "aliases": [
+                "AUST"
+            ]
+        },
+        {
+            "code": "buet",
+            "name": "Bangladesh University of Engineering and Technology",
+            "type": "engineering_university",
+            "aliases": [
+                "Bangladesh University of Engineering and Technology",
+                "BUET"
+            ]
+        },
+        {
+            "code": "butex",
+            "name": "Bangladesh University of Textiles",
+            "type": "engineering_university",
+            "aliases": [
+                "Bangladesh University of Textiles",
+                "BUTEX"
+            ]
+        },
+        {
+            "code": "cuet",
+            "name": "Chittagong University of Engineering and Technology",
+            "type": "engineering_university",
+            "aliases": [
+                "Chittagong University of Engineering and Technology",
+                "CUET"
+            ]
+        },
+        {
+            "code": "iut",
+            "name": "Islamic University of Technology",
+            "type": "engineering_university",
+            "aliases": [
+                "IUT"
+            ]
+        },
+        {
+            "code": "kuet",
+            "name": "Khulna University of Engineering and Technology",
+            "type": "engineering_university",
+            "aliases": [
+                "Khulna University of Engineering and Technology",
+                "KUET"
+            ]
+        },
+        {
+            "code": "mist",
+            "name": "Military Institute of Science and Technology",
+            "type": "engineering_university",
+            "aliases": [
+                "MIST",
+                "Military Institute of Science & Technology"
+            ]
+        },
+        {
+            "code": "ruet",
+            "name": "Rajshahi University of Engineering and Technology",
+            "type": "engineering_university",
+            "aliases": [
+                "Rajshahi University of Engineering and Technology",
+                "RUET"
+            ]
+        },
+        {
+            "code": "aiub",
+            "name": "American International University-Bangladesh",
+            "type": "university",
+            "aliases": [
+                "AIUB"
+            ]
+        },
+        {
+            "code": "bangladesh-agricultural-university",
+            "name": "Bangladesh Agricultural University",
+            "type": "university",
+            "aliases": [
+                "BAU"
+            ]
+        },
+        {
+            "code": "bangladesh-university-of-professionals",
+            "name": "Bangladesh University of Professionals",
+            "type": "university",
+            "aliases": [
+                "Bangladesh University of Professionals",
+                "BUP"
+            ]
+        },
+        {
+            "code": "begum-rokeya-university",
+            "name": "Begum Rokeya University, Rangpur",
+            "type": "university",
+            "aliases": [
+                "BRUR"
+            ]
+        },
+        {
+            "code": "brac-university",
+            "name": "BRAC University",
+            "type": "university",
+            "aliases": [
+                "BRACU"
+            ]
+        },
+        {
+            "code": "chittagong-veterinary-and-animal-sciences-university",
+            "name": "Chittagong Veterinary and Animal Sciences University",
+            "type": "university",
+            "aliases": [
+                "CVASU"
+            ]
+        },
+        {
+            "code": "comilla-university",
+            "name": "Comilla University",
+            "type": "university",
+            "aliases": [
+                "Cumilla University",
+                "CoU"
+            ]
+        },
+        {
+            "code": "east-west-university",
+            "name": "East West University",
+            "type": "university",
+            "aliases": [
+                "EWU"
+            ]
+        },
+        {
+            "code": "hstu",
+            "name": "Hajee Mohammad Danesh Science and Technology University",
+            "type": "university",
+            "aliases": [
+                "HSTU"
+            ]
+        },
+        {
+            "code": "independent-university-bangladesh",
+            "name": "Independent University, Bangladesh",
+            "type": "university",
+            "aliases": [
+                "IUB",
+                "Independent University Bangladesh"
+            ]
+        },
+        {
+            "code": "islamic-university-bangladesh",
+            "name": "Islamic University, Bangladesh",
+            "type": "university",
+            "aliases": [
+                "Islamic University Kushtia",
+                "IU"
+            ]
+        },
+        {
+            "code": "jagannath-university",
+            "name": "Jagannath University",
+            "type": "university",
+            "aliases": [
+                "Jagannath University",
+                "JnU"
+            ]
+        },
+        {
+            "code": "jahangirnagar-university",
+            "name": "Jahangirnagar University",
+            "type": "university",
+            "aliases": [
+                "Jahangirnagar University",
+                "JU"
+            ]
+        },
+        {
+            "code": "jkkniu",
+            "name": "Jatiya Kabi Kazi Nazrul Islam University",
+            "type": "university",
+            "aliases": [
+                "JKKNIU"
+            ]
+        },
+        {
+            "code": "just",
+            "name": "Jashore University of Science and Technology",
+            "type": "university",
+            "aliases": [
+                "JUST",
+                "Jessore University of Science and Technology"
+            ]
+        },
+        {
+            "code": "khulna-agricultural-university",
+            "name": "Khulna Agricultural University",
+            "type": "university",
+            "aliases": [
+                "KAU"
+            ]
+        },
+        {
+            "code": "khulna-university",
+            "name": "Khulna University",
+            "type": "university",
+            "aliases": [
+                "Khulna University",
+                "KU"
+            ]
+        },
+        {
+            "code": "mbstu",
+            "name": "Mawlana Bhashani Science and Technology University",
+            "type": "university",
+            "aliases": [
+                "MBSTU"
+            ]
+        },
+        {
+            "code": "north-south-university",
+            "name": "North South University",
+            "type": "university",
+            "aliases": [
+                "NSU"
+            ]
+        },
+        {
+            "code": "nstu",
+            "name": "Noakhali Science and Technology University",
+            "type": "university",
+            "aliases": [
+                "NSTU"
+            ]
+        },
+        {
+            "code": "patuakhali-science-and-technology-university",
+            "name": "Patuakhali Science and Technology University",
+            "type": "university",
+            "aliases": [
+                "PSTU"
+            ]
+        },
+        {
+            "code": "pust",
+            "name": "Pabna University of Science and Technology",
+            "type": "university",
+            "aliases": [
+                "PUST"
+            ]
+        },
+        {
+            "code": "rangamati-science-and-technology-university",
+            "name": "Rangamati Science and Technology University",
+            "type": "university",
+            "aliases": [
+                "RMSTU"
+            ]
+        },
+        {
+            "code": "shahjalal-university-of-science-and-technology",
+            "name": "Shahjalal University of Science and Technology",
+            "type": "university",
+            "aliases": [
+                "SUST",
+                "Shahjalal University"
+            ]
+        },
+        {
+            "code": "sher-e-bangla-agricultural-university",
+            "name": "Sher-e-Bangla Agricultural University",
+            "type": "university",
+            "aliases": [
+                "SAU"
+            ]
+        },
+        {
+            "code": "sylhet-agricultural-university",
+            "name": "Sylhet Agricultural University",
+            "type": "university",
+            "aliases": [
+                "SylAU",
+                "SBAU"
+            ]
+        },
+        {
+            "code": "united-international-university",
+            "name": "United International University",
+            "type": "university",
+            "aliases": [
+                "UIU"
+            ]
+        },
+        {
+            "code": "university-of-barisal",
+            "name": "University of Barisal",
+            "type": "university",
+            "aliases": [
+                "BU",
+                "Barisal University"
+            ]
+        },
+        {
+            "code": "university-of-chittagong",
+            "name": "University of Chittagong",
+            "type": "university",
+            "aliases": [
+                "University of Chittagong",
+                "Chittagong University",
+                "University of Chattogram",
+                "CU"
+            ]
+        },
+        {
+            "code": "university-of-dhaka",
+            "name": "University of Dhaka",
+            "type": "university",
+            "aliases": [
+                "University of Dhaka",
+                "Dhaka University",
+                "DU"
+            ]
+        },
+        {
+            "code": "university-of-rajshahi",
+            "name": "University of Rajshahi",
+            "type": "university",
+            "aliases": [
+                "University of Rajshahi",
+                "Rajshahi University",
+                "RU"
+            ]
+        }
+    ],
+    "examCategories": [
+        {
+            "code": "academic",
+            "name": "Academic",
+            "parent": null
+        },
+        {
+            "code": "board",
+            "name": "Board exam",
+            "parent": "academic"
+        },
+        {
+            "code": "admission",
+            "name": "Admission",
+            "parent": null
+        },
+        {
+            "code": "university",
+            "name": "University",
+            "parent": "admission"
+        },
+        {
+            "code": "engineering",
+            "name": "Engineering",
+            "parent": "admission"
+        },
+        {
+            "code": "medical",
+            "name": "Medical",
+            "parent": "admission"
+        },
+        {
+            "code": "dental",
+            "name": "Dental",
+            "parent": "admission"
+        }
+    ],
+    "curriculumPaths": {
+        "hsc/math/1st/chapter-1": "Matrices and Determinants",
+        "hsc/math/1st/chapter-2": "Vectors",
+        "hsc/math/1st/chapter-3": "Straight Lines",
+        "hsc/math/1st/chapter-4": "Circles",
+        "hsc/math/1st/chapter-5": "Permutations and Combinations",
+        "hsc/math/1st/chapter-6": "Trigonometric Ratios",
+        "hsc/math/1st/chapter-7": "Trigonometric Ratios of Associated Angles",
+        "hsc/math/1st/chapter-8": "Functions and Graph of Functions",
+        "hsc/math/1st/chapter-9": "Differentiation",
+        "hsc/math/2nd/chapter-1": "Real Numbers and Inequalities",
+        "hsc/math/2nd/chapter-2": "Linear Programming",
+        "hsc/math/2nd/chapter-3": "Complex Numbers",
+        "hsc/math/2nd/chapter-4": "Polynomials and Polynomial Equations",
+        "hsc/math/2nd/chapter-5": "Binomial Expansion",
+        "hsc/math/2nd/chapter-6": "Conic Sections",
+        "hsc/math/2nd/chapter-7": "Inverse Trig Functions and Equations",
+        "hsc/math/2nd/chapter-8": "Statics",
+        "hsc/math/2nd/chapter-9": "Dynamics of a Particle in a Plane",
+        "hsc/math/1st/chapter-10": "Integration",
+        "hsc/math/2nd/chapter-10": "Measures of Dispersion and Probability",
+        "hsc/biology/1st/chapter-1": "Cell and Its Structure",
+        "hsc/biology/1st/chapter-2": "Cell Division",
+        "hsc/biology/1st/chapter-3": "Cell Chemistry",
+        "hsc/biology/1st/chapter-4": "Microbes",
+        "hsc/biology/1st/chapter-5": "Algae and Fungi",
+        "hsc/biology/1st/chapter-6": "Bryophyta and Pteridophyta",
+        "hsc/biology/1st/chapter-7": "Gymnosperms and Angiosperms",
+        "hsc/biology/1st/chapter-8": "Tissue and Tissue System",
+        "hsc/biology/1st/chapter-9": "Plant Physiology",
+        "hsc/biology/2nd/chapter-1": "Animal Diversity and Classification",
+        "hsc/biology/2nd/chapter-2": "Animal Identity",
+        "hsc/biology/2nd/chapter-3": "Digestion and Absorption",
+        "hsc/biology/2nd/chapter-4": "Blood and Circulation",
+        "hsc/biology/2nd/chapter-5": "Respiratory Process and Respiration",
+        "hsc/biology/2nd/chapter-6": "Excretory Products and Excretion",
+        "hsc/biology/2nd/chapter-7": "Locomotion and Movement",
+        "hsc/biology/2nd/chapter-8": "Coordination and Control",
+        "hsc/biology/2nd/chapter-9": "Continuance of Human Life",
+        "hsc/physics/1st/chapter-1": "Physical World and Measurement",
+        "hsc/physics/1st/chapter-2": "Vectors",
+        "hsc/physics/1st/chapter-3": "Kinematics",
+        "hsc/physics/1st/chapter-4": "Newton's Laws of Motion",
+        "hsc/physics/1st/chapter-5": "Work, Energy and Power",
+        "hsc/physics/1st/chapter-6": "Gravitation",
+        "hsc/physics/1st/chapter-7": "Properties of Matter",
+        "hsc/physics/1st/chapter-8": "Periodic Motion",
+        "hsc/physics/1st/chapter-9": "Waves",
+        "hsc/physics/2nd/chapter-1": "Thermodynamics",
+        "hsc/physics/2nd/chapter-2": "Static Electricity",
+        "hsc/physics/2nd/chapter-3": "Current Electricity",
+        "hsc/physics/2nd/chapter-4": "Magnetic Effect of Current",
+        "hsc/physics/2nd/chapter-5": "Electromagnetic Induction and Alternating Current",
+        "hsc/physics/2nd/chapter-6": "Geometric Optics",
+        "hsc/physics/2nd/chapter-7": "Physical Optics",
+        "hsc/physics/2nd/chapter-8": "Modern Physics",
+        "hsc/physics/2nd/chapter-9": "Atomic Model and Nuclear Physics",
+        "hsc/biology/1st/chapter-10": "Plant Reproduction",
+        "hsc/biology/1st/chapter-11": "Biotechnology",
+        "hsc/biology/1st/chapter-12": "Environment, Distribution and Conservation",
+        "hsc/biology/2nd/chapter-10": "Immunity of the Human Body",
+        "hsc/biology/2nd/chapter-11": "Genetics and Evolution",
+        "hsc/biology/2nd/chapter-12": "Animal Behavior",
+        "hsc/physics/1st/chapter-10": "Ideal Gas & Kinetic Theory",
+        "hsc/physics/2nd/chapter-10": "Semiconductors and Electronics",
+        "hsc/physics/2nd/chapter-11": "Astrophysics",
+        "hsc/chemistry/1st/chapter-1": "Safe Use of Laboratory",
+        "hsc/chemistry/1st/chapter-2": "Qualitative Chemistry",
+        "hsc/chemistry/1st/chapter-3": "Periodic Properties and Chemical Bonding",
+        "hsc/chemistry/1st/chapter-4": "Chemical Changes",
+        "hsc/chemistry/1st/chapter-5": "Applied/Career Chemistry",
+        "hsc/chemistry/2nd/chapter-1": "Environmental Chemistry",
+        "hsc/chemistry/2nd/chapter-2": "Organic Chemistry",
+        "hsc/chemistry/2nd/chapter-3": "Quantitative Chemistry",
+        "hsc/chemistry/2nd/chapter-4": "Electrochemistry",
+        "hsc/chemistry/2nd/chapter-5": "Economic Chemistry"
+    }
+}

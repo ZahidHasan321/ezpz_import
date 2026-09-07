@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "comilla-2025-physics1st-q1",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো ভেক্টরের শীর্ষবিন্দু ও পাদবিন্দু একই হলে ভেক্টরটি হবে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "স্বাধীন ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিপ্রতীপ ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "নাল ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "আয়ত একক ভেক্টর"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q2",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি x-অক্ষের সমান্তরাল?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$(\\hat{i}\\times\\hat{j})\\times\\hat{j}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$(\\hat{i}\\times\\hat{j})\\times\\hat{i}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$(\\hat{i}\\times\\hat{j})\\times\\hat{k}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$(\\hat{k}\\times\\hat{j})\\times\\hat{k}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q3",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কৌণিক ভরবেগের পরিবর্তনের হার-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "জড়তার ভ্রামকের সমান"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "বলের সমান"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "টর্কের সমান"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "কৌণিক ত্বরণের সমান"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q4",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোন অবস্থায় অণুসমূহের মধ্যে আন্তঃআণবিক আকর্ষণ বল সর্বাধিক হয়?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্লাজমা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "তরল"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "কঠিন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বায়বীয়"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q5",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "চিত্রে বিকৃতি বনাম পীড়ন লেখচিত্রের ∆OAB এর ক্ষেত্রফল নির্দেশ করে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "পয়সনের অনুপাত"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "সর্বমোট কৃতকাজ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "একক আয়তনে বিভব শক্তি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ইয়ং এর গুণাঙ্ক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q6",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "টর্কের একক হচ্ছে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "Nm"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "${Nm}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "${N}^{-1}\\text{ }m$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${Nm}^{-2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q7",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:Q. নিরেট চাকতির RS-অক্ষের সাপেক্ষে চক্রগতির ব্যাসার্ধের ভ্রামক-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "r"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{r}{\\sqrt{2}}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{2}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\sqrt{3}}{2}r$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q8",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:Q. PQ অক্ষের সাপেক্ষে চাকতির জড়তার ভ্রামক কত হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{4}{Mr}^{2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "${Mr}^{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{1}{2}{Mr}^{2}$ ."
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\frac{3}{2}M{r}^{2}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q9",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$50\\text{kg}$ ভরের একটি বস্তু $150\\text{m}$ উঁচু দালানের ছাদে উঠানো হলে-\ni. বস্তুটির ওজন $490\\text{N}$\nii. কৃতকাজ হবে $7.35\\times{10}^{4}\\text{ }J$\niii. বলের বিরুদ্ধে কাজ হবেনিচের কোনটি সঠিক?",
+          "solutionText": "সঠিক উত্তরটি হলো: i, ii ও iii\nদেওয়া আছে,\nবস্তুর ভর ( $m$ ) = $50\\text{ kg}$\nউচ্চতা ( $h$ ) = $150\\text{ m}$\nঅভিকর্ষজ ত্বরণ ( $g$ ) = $9.8{\\text{ ms}}^{-2}$i. বস্তুটির ওজন $490\\text{ N}$ (সঠিক):\nআমরা জানি,\nওজন $W=mg$\n$W=50\\times9.8=490\\text{ N}$ii. কৃতকাজ হবে $7.35\\times{10}^{4}\\text{ J}$ (সঠিক):বস্তুকে উপরে তুলতে কৃতকাজ এর বিভব শক্তির সমান হয়।কৃতকাজ, $W=mgh$$W=50\\times9.8\\times150=73500\\text{ J}$iii. বলের বিরুদ্ধে কাজ হবে (সঠিক):যেহেতু বলের প্রয়োগবিন্দু (নিচের দিকে) এবং সরণের দিক (উপরের দিকে) পরস্পর বিপরীতমুখী,তাই এখানে অভিকর্ষ বলের বিরুদ্ধে কাজ সম্পন্ন হয়েছে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q10",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সূর্য হতে একটি গ্রহের গড় দূরত্ব এবং গ্রহের পর্যায়কাল 'T' হলে কেপলারের তৃতীয় সূত্রানুসারে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "${T}^{2}∝{r}^{3}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$T∝{r}^{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$T∝r$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${T}^{2}∝r$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q11",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পৃথিবীর মেরু অঞ্চলে অভিকর্ষজ ত্বরণের মান বেশি, কারণ-\ni. উচ্চতার তারতম্য\nii. অক্ষাংশ 90°\niii. আহ্নিক গতিনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q12",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শিশিরাঙ্ক বলতে বুঝি-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "আর্দ্রতা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "তাপমাত্রা"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "আপেক্ষিক আর্দ্রতা"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q13",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ইয়ং এর গুণাংকের মাত্রা সমীকরণ-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "${MLT}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "${ML}^{-1}{\\text{ }T}^{-2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "${ML}^{-1}{\\text{ }T}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "${MLT}^{3}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q14",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি সরল ছন্দিত স্পন্দন সম্পন্ন কণার সমীকরণ $9\\frac{{d}^{2}x}{d{t}^{2}}+81x=0$ , এটির কৌণিক কম্পাঙ্ক কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "$3{\\text{ }s}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$4{s}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "$9{\\text{ }s}^{-1}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$16{s}^{-1}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q15",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি সরল দোলক পৃথিবীর কেন্দ্রে নিলে ইহার দোলনকাল কত হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "শূন্য"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "অসীম"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভূ-পৃষ্ঠের সমান"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভূ-পৃষ্ঠের কম হবে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q16",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি সরল দোলকের কার্যকরী দৈর্ঘ্য 1m। শাহেদ দোলকটির কার্যকরী দৈর্ঘ্য পরিবর্তন করতে গিয়ে দৈর্ঘ্য 50% বৃদ্ধি করে।উপরোক্ত তথ্যের আলোকে প্রশ্নের উত্তর দাও।Q.কার্যকরী দৈর্ঘ্য বৃদ্ধিপ্রাপ্ত সরল দোলকের দোলনকাল কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "2.46s"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.54s"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "3s"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.12s"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q17",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি সরল দোলকের কার্যকরী দৈর্ঘ্য 1m। শাহেদ দোলকটির কার্যকরী দৈর্ঘ্য পরিবর্তন করতে গিয়ে দৈর্ঘ্য 50% বৃদ্ধি করে।উপরোক্ত তথ্যের আলোকে প্রশ্নের উত্তর দাও।Q. শাহেদের সরল দোলকের-\ni. কম্পাঙ্ক 0.5, Hz\nii. কৌণিক কম্পাঙ্ক 3.14 rad/s\niii. কার্যকরী দৈর্ঘ্য বাড়লে দোলনকাল বৃদ্ধি পায়নিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q18",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "স্প্রিংকে প্রসারিত করলে এর মধ্যে কোন ধরনের শক্তি সঞ্চিত হয়?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপ শক্তি"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "গতি শক্তি"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "বিভব শক্তি"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "রাসায়নিক শক্তি"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q19",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সিক্ত ও শুষ্ক বাল্ব আর্দ্রতামাপক যন্ত্রের দুই থার্মোমিটারের তাপমাত্রার পার্থক্য হঠাৎ বেড়ে গেলে বুঝা যায় ঐ স্থানে-\ni. আপেক্ষিক আর্দ্রতা বৃদ্ধি পেয়েছে\nii. আপেক্ষিক আর্দ্রতা হ্রাস পেয়েছে\niii. ভিজা কাপড় তাড়াতাড়ি শুকাবেনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q20",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নির্দিষ্ট তাপমাত্রায়, একটি গ্যাসের চাপ 5% বৃদ্ধি করলে এর আয়তন হ্রাস পাবে-",
+          "solutionText": "বয়েলের সূত্রানুসারে স্থির তাপমাত্রায়, ${P}_{1}{V}_{1}={P}_{2}{V}_{2}$\nধরিআদি চাপ, ${P}_{1}=P$আদি আয়তন, ${V}_{1}=V$\nচাপ $5%$ বৃদ্ধি পেলে নতুন চাপ${P}_{2}=P+0.05P=1.05P$বা, $P\\timesV=1.05P\\times{V}_{2}$বা, ${V}_{2}=\\frac{V}{1.05}$\nআয়তন হ্রাসের হার:$=\\frac{{V}_{1}-{V}_{2}}{{V}_{1}}\\times100%$$=\\frac{V-\\frac{V}{1.05}}{V}\\times100%$$=(1-\\frac{1}{1.05})\\times100%$$=(\\frac{1.05-1}{1.05})\\times100%$$=\\frac{0.05}{1.05}\\times100%$$=4.76%$ (প্রায়)"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "5.26%"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "5.00%"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "4.76%"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "4.26%"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q21",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি কুয়া থেকে ইঞ্জিনের সাহায্যে প্রতি ঘণ্টায় $25\\times{10}^{6}\\text{ }kg$ পানি $50\\text{m}$ উচ্চতায় উঠানো হয়। $70%$ ক্ষমতা ক্ষয় হলে এর অশ্বক্ষমতা কত হবে?",
+          "solutionText": "এখানেপানির ভর, $m=25\\times{10}^{6}\\text{ kg}$উচ্চতা, $h=50\\text{ m}$সময়, $t=1\\text{ hour}=3600\\text{ s}$কর্মদক্ষতা, $\\eta=100%-70%=30%=0.30$আমরা জানি,ইঞ্জিনের মোট বা প্রদত্ত অশ্বক্ষমতা,\n${P}_{in}=\\frac{mgh}{\\eta\\timest\\times746}$\nবা, ${P}_{in}=\\frac{25\\times{10}^{6}\\times9.8\\times50}{0.30\\times3600\\times746}$\nবা, $P_{in} \\approx 15204.55 \\text{ HP} = 1.52 \\times 10^4 \\text{ HP}$ (প্রায়)"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$6251\\text{HP}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$3649\\text{HP}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$1.5\\times{10}^{4}HP$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$4.8\\times{10}^{6}HP$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q22",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\hat{i}+\\hat{j}$ এবং $\\hat{i}-\\hat{j}$ এর মধ্যবর্তী কোণ কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "60°"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "90°"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "120°"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "180°"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q23",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "অবস্থান ভেক্টর $\\vec{r}=x\\hat{i}+y\\hat{j}$ এর ক্ষেত্রে-\ni. x হচ্ছে $\\vec{r}$ এর অনুভূমিক উপাংশ\nii. y হচ্ছে $\\vec{r}$ এর উল্লম্ব উপাংশ\niii. $r=\\sqrt{{x}^{2}+{y}^{2}}$নিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q24",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:Q. 80 kg ভরের একটি বস্তুকে A থেকে B বিন্দুতে নিয়ে গেলে এর ওজন হবে-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "245 N"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "272 N"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "392 N"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "490 N"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2025-physics1st-q25",
+      "curriculum": {
+        "path": null
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:Q. উদ্দীপকের আলোকে-\ni. A বিন্দুতে মহাকর্ষীয় প্রাবল্য সর্বোচ্চ\nii. B ও C বিন্দুতে বস্তুটির ওজন সমানlii. B বিন্দুতে g এর মান A বিন্দুর অর্ধেকনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "8869fb09da1b37a4dd556cd89bd9542366edec6940277a35fe88b351ca5a2f82",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2025,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

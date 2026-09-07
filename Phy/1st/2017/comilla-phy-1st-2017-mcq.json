@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "comilla-2017-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ঘড়ির মিনিটের কাঁটার দৈর্ঘ্য কমলে —",
+          "solutionText": "রৈখিক বেগ v=wr অর্থাৎ রৈখিক বেগ ঘড়ির কাটার দৈর্ঘ্য বা ব্যাসার্ধের উপর নির্ভর।তাই দৈর্ঘ্য কমলে বেগ ও কমে যাবে।আবার কৌনিক বেগ পর্যায়কালের উপর নির্ভর তাই পর্যায়কাল স্থির থাকবে।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "রৈখিক বেগ বাড়ে, কৌণিক বেগ বাড়ে"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "রৈখিক বেগ কমে, কৌণিক বেগ কমে"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "রৈখিক বেগ স্থির থাকে, কৌণিক বেগ বাড়ে"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "রৈখিক বেগ কমে, কৌণিক বেগ স্থির থাকে"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$T=2\\pi\\sqrt{\\frac{L}{g}}$ সমীকরণ হতে নিচের কোনটি সঠিক?",
+          "solutionText": "এখানে, $T=2\\pi\\sqrt{\\frac{L}{g}}$বা, ${T}^{2}=4\\pi\\frac{L}{g}$বা, ${T}^{2}∝\\frac{1}{g}$অর্থাৎ, অভিকর্ষজ ত্বরণ, দোলনকালের বর্গমূলের ব্যাস্তানুপাতিক।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "2g ভরের একটি বস্তুকে 10 cm একটি সুতার সাহায্যে ঘুরানো হচ্ছে। বস্তুটির জড়তার ভ্রামক কত?",
+          "solutionText": "$I={mr}^{2}=2\\times{10}^{-3}\\times(0.1{)}^{2}=0.00002\\text{ }kg{\\text{ }m}^{2}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.00002kgm2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.02 kgm2"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.2 kgm2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "100 kgm2"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "প্রমাণ তীব্রতার একক কোনটি?",
+          "solutionText": "1000 Hz কম্পাঙ্ক বিশিষ্ট 10-12 Wm-2 তীব্রতাকে প্রমান তীব্রতা বলে ।প্রমাণ তীব্রতার একক Wm-2"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "Wm-1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "Wm-2"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "Bel"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "dB"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "Y = A sin ωt একটি কণার সরণ হলে\nত্বরণ বনাম সময় লেখচিত্র কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "A"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "B"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "C"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "D"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$C{O}_{2}$ গ্যাসের জন্য $\\gamma$ এর মান কত?",
+          "solutionText": "$C{O}_{2}$ (কার্বন ডাইঅক্সাইড) একটি বহুপারমাণবিক (polyatomic) গ্যাস।এর জন্য $\\gamma$ (গামা)-এর মান নিচে দেওয়া হলো:তাত্ত্বিক মান (সাধারণ পাঠ্যবই অনুযায়ী): ১.৩৩পরীক্ষামূলক বা বাস্তব মান (কক্ষতাপমাত্রায়): প্রায় ১.৩০"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1.66$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1.41$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$1.33$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$1.2$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "আদর্শ গ্যাসের জন্য নিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "A"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "B"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "C"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "D"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটির দিক নির্দিষ্ট নয়?",
+          "solutionText": "শূন্য ভেক্টর,বিপরীত ভেক্টর,বিপরীত ভেক্টর দিক নির্দিষ্ট ।কিন্তু শূন্য ভেক্টর দিক নির্দিষ্ট নয়।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "শূন্য ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "সমান ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিপরীত ভেক্টর"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "বিপ্রতীপ ভেক্টর"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি স্কেলার রাশি?",
+          "solutionText": "দৈর্ঘ্য, ভর, দ্রুতি, কাজ, তড়িৎ বিভব ,জড়তার ভ্রামক এগুলো স্কেলার রাশি ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "বলের ভ্রামক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "কৌণিক ভরবেগ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "কেন্দ্রমুখী বল"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "জড়তার ভ্রামক"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\vec{A}=-2\\vec{B}$ হলে $\\vec{A}⁡ও\\vec{B}$ ভেক্টর দুটি-\ni. সদৃশ\nii. বিসদৃশ\niii. সমরেখ\nনিচের কোনটি সঠিক?",
+          "solutionText": "সঠিক উত্তর: ii ও iii (বিসদৃশ ও সমরেখ)\nপ্রদত্ত সমীকরণ: $\\vec{A}=-2\\vec{B}$সদৃশ : ভেক্টর দুটির দিক একই হলে তারা সদৃশ হতো (অর্থাৎ $m$ এর মান ধনাত্মক হলে)। (তাই i ভুল।)বিসদৃশ : যেহেতু ধ্রুবকটি ঋণাত্মক ( $-2$ ), তাই ভেক্টর দুটির দিক পরস্পর বিপরীত। দুটি সমান্তরাল ভেক্টরের দিক বিপরীত হলে তাদেরকে বিসদৃশ ভেক্টর বলা হয়। (সুতরাং, ii সঠিক)সমরেখ : সমীকরণটি $\\vec{A}=m\\vec{B}$ আকারের, যেখানে $m=-2$ (একটি ধ্রুবক)। একটি ভেক্টর অপরটির স্কেলার গুণিতক হলে ভেক্টর দুটি সমরেখ বা সমান্তরাল হয়। (সুতরাং, iii সঠিক)"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কেপলারের সূত্রানুসারে-",
+          "solutionText": "কেপলারের ৩য় সূত্রানুসারে- একটি গ্রহের কক্ষীয় পর্যায়কালের বর্গ তার কক্ষপথের অর্ধ-পরাক্ষের ঘনফলের সমানুপাতিক। যাকে পর্যায়কালের সূত্র বলা হয় । তাই T2 ∝ R3"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "T3 ∝ r3"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "T ∝ r2"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "T ∝ r3"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "T2 ∝ r3"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "G এর মাত্রা কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "L3T-2M2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "L2T-2M-1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "L3T-2M-2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "L3T-2M-1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটির একক অন্য তিনটির একক\nহতে ভিন্ন?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ঘনত্ব X আয়তন X বেগ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভরবেগের পরিবর্তনের হার"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ইয়ং এর স্থিতিস্থাপক গুণাংক x ক্ষেত্রফল"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভর X অভিকর্ষজ ত্বরণ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ভরবেগের ভ্রামকের মাত্রা কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML2T-2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "MLT-2"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ML2T-1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "M0L2T-2"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "“একটি হাতুড়ির ভর 1kg। এটি 10ms-1 বেগে চলে একটি পেরেকের মাথায় আঘাত করল। এতে পেরেকের সরণ হল 2cm”।\nউপরোক্ত তথ্য হতে প্রশ্নের উত্তর দাও: \nQ. কতক্ষণ হাতুড়িটি পেরেকের সংস্পর্শে ছিল?",
+          "solutionText": "আমরা জানি, ${v}^{2}={v}_{0}{}^{2}-2as ∴{v}_{0}{}^{2}=2as$$∴a=\\frac{100}{2\\times0.02}=2500\\text{ }m{\\text{ }s}^{-2}$আবার, v = ${v}_{0}-at$বা, ${v}_{0}=at$\n$∴t=\\frac{{v}_{0}}{a}=\\frac{10\\text{ }m{\\text{ }s}^{-1}}{2500\\text{ }m{\\text{ }s}^{-2}}=4\\times{10}^{-3}\\text{ }s$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "4 x 10-3 sec"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2 x 10-3 sec"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 x 10-3 sec"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.25 x 10-3 sec"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "“একটি হাতুড়ির ভর 1kg। এটি 10ms-1 বেগে চলে একটি পেরেকের মাথায় আঘাত করল। এতে পেরেকের সরণ হল 2cm”।\nউপরোক্ত তথ্য হতে প্রশ্নের উত্তর দাও: \nQ. হাতুড়ি দ্বারা সম্পাদিত কাজ কত?",
+          "solutionText": "$\\omega=F.s=$ mas $=1\\times2500\\times0.02=50\\text{ }J$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "100J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "50J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "10J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.2J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি কণার v-t লেখচিত্র দেখানো হলো।\nউপরের লেখচিত্র প্রকাশ করতে পারে\ni. y = V0 + at \nii. a < 0\niii. F > 0\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "ব্যাসার্ধ ভেক্টর ও প্রযুক্ত বলের ভেক্টর গুণনকে বলে—",
+          "solutionText": "টর্ক হল কোন অক্ষের সাপেক্ষে ঘূর্ননশীল বস্তুর উপর ক্রিয়ারত বল এবং অক্ষ থেকে ঐ বস্তুর দুরত্তের ভেক্টর গুনফল।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "জড়তার ভ্রামক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "টর্ক"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "কৌণিক ভরবেগ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "চক্রগতির ব্যাসার্ধ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "“ 0.3m দৈর্ঘ্যের একটি দোলক একটি অর্ধবৃত্তে দোল দেয়। এর ববের ভর 0.01 kg। ” \nউপরোক্ত তথ্য হতে প্রশ্নের উত্তর দাও: \nQ. সর্বনিম্ন অবস্থানে গতিশক্তি কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.425J"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.0294J"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.0194J"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0J"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "“ 0.3m দৈর্ঘ্যের একটি দোলক একটি অর্ধবৃত্তে দোল দেয়। এর ববের ভর 0.01 kg। ” \nউপরোক্ত তথ্য হতে প্রশ্নের উত্তর দাও: \nQ. সর্বনিম্ন অবস্থানে ববটি ছিড়ে গেলে ববের গতিপথ প্রকাশকারী সমীকরণ কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "y = mx"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "y = c + mx"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "y = bx- cx2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "y = -cx2"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "মেরু অপেক্ষা বিষুবীয় অঞ্চলে অভিকর্ষজ ত্বরণ কতটা কম?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ω2R"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ωR"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "R cosθ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ω 2 R cosθ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো বস্তুর মুক্তিবেগ নির্ভর করে-\ni. গ্রহের ব্যাসার্ধের উপর\nii. অভিকর্ষজ ত্বরণের উপর\niii. বস্তুর ভরের উপর\nনিচের কোনটি সঠিক?",
+          "solutionText": "Ve = √ 2gRঅর্থাৎ, মুক্তিবেগ বস্তুর ভরের উপর নির্ভর করে না ।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": ".MJXc-display {display: inline;}\nPV = $\\frac{1}{3}$ mNC2 সমীকরণে C -",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "গড় বেগ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "গড় বর্গ বেগ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "মূল গড় বর্গবেগ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "আলোর বেগ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি তারে 0.01 দৈর্ঘ্য বিকৃতিতে পার্শ্ব বিকৃতি 0.0024 হলো।”\nউপরোক্ত তথ্য হতে প্রশ্নের উত্তর দাও:\nQ.পয়সনের অনুপাতের মান-",
+          "solutionText": "পয়সনের অনুপাত, σ = পার্শ্ব বিকৃতি / দৈর্ঘ্য বিকৃতি = 0.0024/0.1 = 0.24"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.2"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.24"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2.4"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "comilla-2017-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি তারে 0.01 দৈর্ঘ্য বিকৃতিতে পার্শ্ব বিকৃতি 0.0024 হলো।”\nউপরোক্ত তথ্য হতে প্রশ্নের উত্তর দাও:\nQ. দৈর্ঘ্য বিকৃতি বনাম পার্শ্ব বিকৃতির লেখচিত্রের প্রকৃতি কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "A"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "B"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "C"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "D"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9d9161d24274f14e4367e09a6ab7074976fca1d6fb3a3b9e96ca3a241de0fbe7",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Comilla",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2017,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}

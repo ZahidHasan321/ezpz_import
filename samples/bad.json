@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "bad-example-1",
+      "curriculum": { "path": "hsc/physics/1st/ch02" },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "en": {
+          "questionText": "What is the magnitude of the resultant?",
+          "solutionText": ""
+        }
+      },
+      "choices": [
+        { "ordinal": 1, "key": "A", "isCorrect": true, "body": { "en": "5 N" } },
+        { "ordinal": 2, "key": "B", "isCorrect": true, "body": { "en": "7 N" } }
+      ],
+      "assets": [],
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "medical",
+          "organization": "Dhaka Bord",
+          "year": 2024,
+          "paper": "1st"
+        }
+      ]
+    },
+    {
+      "clientId": "bad-example-2",
+      "curriculum": { "path": "hsc/physics/1st/chapter-2" },
+      "questionNumber": "18",
+      "formatCode": "numeric",
+      "translations": {
+        "bn": {
+          "questionText": "$\\sqrt{৩^২ + ৪^২}$ এর মান কত?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        { "ordinal": 1, "key": "ক", "isCorrect": true, "body": { "bn": "৫" } }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "1c8d2e4f6a0b3c5d7e9f1a2b4c6d8e0f2a4b6c8d0e2f4a6b8c0d2e4f6a8b0c2d",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "claude-opus-5",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 0.6
+      },
+      "sources": [
+        {
+          "source_type": "admission_exam",
+          "exam_category_code": "university",
+          "organization": "University of Dhaka",
+          "exam_name": null,
+          "year": 2023,
+          "session": null,
+          "paper": null,
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": "ezpz-content-import-v2",
+  "items": [
+    {
+      "clientId": "sylhet-2019-physics1st-q1",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "1",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পৃথিবীতে কোনো বস্তুর ওজন 20N হলে চাঁদে কত?",
+          "solutionText": "পৃথিবীতে বস্তুর ভর,\n$m=\\frac{W}{g}=\\frac{20\\text{ }N}{9.8\\text{ }m{\\text{ }s}^{-2}}=2.04\\text{ }kg$\n$∴$ চাঁদ অভিকর্ষজ ত্বরণ, ${g}_{m}=1.625\\text{ }m{\\text{ }s}^{-2}$\n$∴$ চাঁদে বস্তুর ওজন, ${W}_{m}={mg}_{m}$\n$=2.04\\text{ }kg\\times1.625\\text{ }m{\\text{ }s}^{-2}$\n$=3.32\\text{ }N$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "100 N"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "39.2 N"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "20 N"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "3.32 N"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "1"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q2",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "2",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি গুলতির পাথর বা গুটির বেগ নির্ভর করে-\ni. গুলতির ভরের উপর\nii. গুলতির প্রসারণের উপর\niii. গুলতির গুটির ভরের উপর\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "2"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q3",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "3",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিম্নের তথ্যের আলোকে প্রশ্নের উত্তর দাও: একটি কৈশিক নলের ব্যাস 0.4 mm। একে 72 x 10-3 N/m পৃষ্ঠটান এবং 103 kg m-3 ঘনত্বের পানিতে ডুবানো হলা। \nQ. নলের কত উচ্চতায় পানি উঠবে?",
+          "solutionText": "$\\begin{matrix} & r=\\frac{0.4\\text{ }mm}{2}=2\\times{10}^{-4}\\text{ }m\\\\ & \\text{ }T=72\\times{10}^{-3}{Nm}^{-1}\\\\ & P={10}^{3}\\text{ }kg{\\text{ }m}^{-3}\\\\ & \\text{ }g=9.8\\text{ }m{\\text{ }s}^{-2}\\text{ }T=\\frac{rhpg}{2}\\end{matrix}$\nবা, $\\begin{matrix}h=\\frac{2\\text{ }T}{r\\rhog} & =\\frac{2\\times72\\times{10}^{-3}{Nm}^{-1}}{2\\times{10}^{-4}\\text{ }m\\times{10}^{3}\\text{ }kg{\\text{ }m}^{-3}\\times9.8\\text{ }m{\\text{ }s}^{-2}}\\\\ & =0.073469\\text{ }m\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "7.3469 m"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.73469 m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.073469 m"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.00734 m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "3"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q4",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "4",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিম্নের তথ্যের আলোকে প্রশ্নের উত্তর দাও: একটি কৈশিক নলের ব্যাস 0.4 mm। একে 72 x 10-3 N/m পৃষ্ঠটান এবং 103 kg m-3 ঘনত্বের পানিতে ডুবানো হলা। \nQ. ব্যাসার্ধ দ্বিগুণ হলে নলের কত উচ্চতায় পানি উঠবে?",
+          "solutionText": "ব্যাসার্ধ দ্বিগুণ হলে,\n${r}^{′}=2r=2\\times2\\times{10}^{-4}\\text{ }m=4\\times{10}^{-4}\\text{ }m$\n$\\text{ }h=\\frac{2\\text{ }T}{{r}^{′}\\rhog}=\\frac{2\\times72\\times{10}^{-3}{Nm}^{-1}}{4\\times{10}^{-4}\\text{ }m\\times{10}^{3}\\text{ }kg{\\text{ }m}^{-3}\\times9.8\\text{ }m{\\text{ }s}^{-2}}$\n$=0.03673\\text{ }m$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.00367 m"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.03673 m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.3673 m"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "3.6734 m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "4"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q5",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "5",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সান্দ্রতা গুণাঙ্কের মাত্রা কোনটি?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ML-1T-1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "MLT-1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML-1T"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ML-1T-2"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "5"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q6",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "6",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "সরল ছন্দিত স্পন্দন গতি সম্পন্ন একটি কণার সরণের রাশিমালা হলো-\ni. $x=A\\sin⁡2\\pint$\nii. $y=ax-b{x}^{2}$\niii. $x=A\\sin⁡\\omegat$\nনিচের কোনটি সঠিক?",
+          "solutionText": "সঠিক উত্তর হলো: i ও iii।ব্যাখ্যা: সরল ছন্দিত স্পন্দন গতিসম্পন্ন কোনো কণার সরণের সাধারণ সমীকরণ হলো:$x=A\\sin⁡\\omegat$ (যখন আদি দশা $\\delta=0$ )এখানে, $A=$ কণার বিস্তার বা বিস্তৃতি, $\\omega=$ কৌণিক কম্পাঙ্ক এবং $t=$ সময়। সুতরাং iii নং তথ্যটি সঠিক।আবার, আমরা জানি কৌণিক কম্পাঙ্ক ( $\\omega$ ) এবং কম্পাঙ্কের ( $n$ ) মধ্যকার সম্পর্ক হলো:$\\omega=2\\pin$এই $\\omega$ -এর মানটি সরণের সমীকরণে প্রতিস্থাপন করলে আমরা পাই:$x=A\\sin⁡2\\pint$সুতরাং i নং তথ্যটিও সঠিক।ii নং তথ্যটি কেন ভুল:$y=ax-b{x}^{2}$ সমীকরণটি হলো একটি পরাবৃত্তের (Parabola) সমীকরণ। এটি পদার্থবিজ্ঞানের 'গতিবিদ্যা' অধ্যায়ে প্রাস বা প্রক্ষেপকের $(Projectile)$ চলনপথ বা গতিপথের সমীকরণ নির্দেশ করে। সরল ছন্দিত স্পন্দনের সাথে এর কোনো সম্পর্ক নেই।"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "6"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q7",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "7",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি তরঙ্গের বেগ 3.1 ms-1 এবং পর্যায়কাল 0.20s হলে তরঙ্গ দৈর্ঘ্য কত?",
+          "solutionText": "$v=3.1\\text{ }m{\\text{ }s}^{-1},\\text{ }T=0.20\\text{ }s,v=f\\lambda$\nবা, $v=\\frac{1}{\\text{ }T}\\lambda$\nবা, $\\lambda=vt=3.1\\text{ }m{\\text{ }s}^{-1}\\times0.20\\text{ }s=0.62\\text{ }m$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "6.2 m"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.62 m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.062 m"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.0062 m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "7"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q8",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "8",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "একটি সেকেন্ড দোলকের কম্পাংক-",
+          "solutionText": "$\\begin{matrix} & t=2\\text{ }s,N=1\\\\ & f=\\frac{N}{t}=\\frac{1}{2\\text{ }s}=0.5\\text{ }Hz\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.25 Hz"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.5 Hz"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1 Hz"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2 Hz"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "8"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q9",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "9",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: \nQ. তরঙ্গটির বেগ কত?",
+          "solutionText": "$\\begin{matrix} & \\frac{3}{4}\\lambda=0.75\\text{ }m\\\\ & ∴\\lambda=0.75\\times\\frac{4}{3}\\text{ }m=1\\text{ }m\\\\ & f=\\frac{N}{t}=\\frac{1}{2\\text{ }s}=0.5{\\text{ }s}^{-1}\\\\ & v=f\\lambda=0.5{\\text{ }s}^{-1}\\times1\\text{ }m=0.5\\text{ }m{\\text{ }s}^{-1}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "5 ms-1"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.5 ms-1"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "2ms-1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.2 ms-1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "9"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q10",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "10",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: \nQ. তরঙ্গটির P ও Q এর দশা পার্থক্য-",
+          "solutionText": "$\\delta=\\frac{2\\pi}{\\lambda}\\times0.5\\lambda[PQ=\\frac{1}{2}\\lambda=0.5\\lambda]=\\pi$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "0"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\frac{\\pi}{2}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "π"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2π"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "10"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q11",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-10"
+      },
+      "questionNumber": "11",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "শিশিরাংক বলতে আমরা বুঝি-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "আদ্রর্তা"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "পরম আদ্রর্তা"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "তাপমাত্রা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "11"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q12",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-9"
+      },
+      "questionNumber": "12",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বীট কোন ঘটনার ফল?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "অপবর্তন"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "প্রতিফলন"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "উপরিপাতন"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "অনুনাদ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "12"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q13",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "13",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের কোনটি লব্ধ রাশি?",
+          "solutionText": "ভর, তাপমাত্রা এবং সময় হলো মৌলিক রাশি (যেসব রাশি স্বাধীন বা অন্য কোনো রাশির ওপর নির্ভর করে না)।অন্যদিকে, ঘনত্ব একটি লব্ধ রাশি, কারণ এটি মৌলিক রাশি 'ভর' ও 'দৈর্ঘ্য' (আয়তন)-এর ওপর নির্ভরশীল।ঘনত্ব = ভর / আয়তন"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ঘনত্ব"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "ভর"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "তাপমাত্রা"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "সময়"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "13"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q14",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-1"
+      },
+      "questionNumber": "14",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "চিত্র থেকে কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{P}+\\vec{Q}+\\vec{R}=0$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{R}=\\vec{Q}+\\vec{P}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\vec{P}=\\vec{R}+\\vec{Q}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "$\\vec{Q}=\\vec{P}+\\vec{R}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "14"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q15",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "15",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "প্রাসের গতিপথের যে কোনো বিন্দুতে ত্বরণের\nঅনুভূমিক উপাংশ—",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "g"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "-g"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "g/2"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "শূন্য"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "15"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q16",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "16",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের বলগুলোর মধ্যে কোনটি সবচেয়ে\nশক্তিশালী বল?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "দুর্বল নিউক্লীয় বল"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "সবল নিউক্লীয় বল"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "মহাকর্ষ বল"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "তড়িৎ চুম্বকীয় বল"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "16"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q17",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "17",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "কোনো বস্তুর ভরবেগ ও গতিশক্তির পরিবর্তনের লেখ চিত্র হল-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "ক"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "খ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "গ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "ঘ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "17"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q18",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-7"
+      },
+      "questionNumber": "18",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "পানির পৃষ্ঠটান 0.06 Nm হলে তার পৃষ্ঠশক্তি-",
+          "solutionText": "তরলের পৃষ্ঠটান এবং পৃষ্ঠশক্তি একই হয়"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "60N/ m"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "6N/ m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "0.6N/ m"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "0.06N/ m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "18"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q19",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-2"
+      },
+      "questionNumber": "19",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "$\\vec{P}=\\hat{i}-\\hat{j}-\\hat{k}$ হলে, $|\\vec{P}⁡|$ এর মান কত?",
+          "solutionText": "$\\begin{matrix}\\vec{p}-এ\\text{ এর মান, }|\\vec{P}| & =\\sqrt{{1}^{2}+(-1{)}^{2}+(-1{)}^{2}}\\\\ & =\\sqrt{1+1+1}=\\sqrt{3}\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "3"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": true,
+          "body": {
+            "bn": "$\\sqrt{3}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "1"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "-1"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "19"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q20",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "20",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: একটি গাড়ি স্থির অবস্থান থেকে 2ms-2 সমত্বরণে চলতে শুরু করে।Q. 2s পরে এটি কত দূরে যাবে?",
+          "solutionText": "$\\begin{matrix}s=ut+\\frac{1}{2}{at}^{2} & =0\\cdott+\\frac{1}{2}\\cdot2\\text{ }m{\\text{ }s}^{-2}\\cdot(2\\text{ }s{)}^{2}\\\\ & =0+4\\text{ }m=4\\text{ }m\\end{matrix}$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "1m"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "2m"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "4m"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "8m"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "20"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q21",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-3"
+      },
+      "questionNumber": "21",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: একটি গাড়ি স্থির অবস্থান থেকে 2ms-2 সমত্বরণে চলতে শুরু করে।\nQ. 4s পরে তার অতিক্রান্ত দূরত্ব 2s এ অতিক্রান্ত দূরত্বের কত গুণ?",
+          "solutionText": "$\\begin{matrix}{s}_{1}={u}_{1}+\\frac{1}{2}a{t}_{1}{}^{2} & =0\\cdot{t}_{1}+\\frac{1}{2}\\cdot2\\text{ }m{\\text{ }s}^{-2}(4\\text{ }s{)}^{2}\\\\ & =0+16\\text{ }m=16\\text{ }m\\end{matrix}$\n$\\frac{{s}_{1}}{s}=\\frac{16\\text{ }m}{4\\text{ }m}=4$ বা, ${s}_{1}=4\\text{ }s$"
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "16 গুণ"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "8 গুণ"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": true,
+          "body": {
+            "bn": "4 গুণ"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "2 গুণ"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "21"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q22",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-4"
+      },
+      "questionNumber": "22",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "রাস্তার ব্যাংকিং কোণ নির্ভর করে-\ni. গাড়ির বেগের উপর\nii. বাঁকের ব্যাসার্ধের উপর\niii. অভিকর্ষজ ত্বরণের উপর\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": true,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "22"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q23",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-5"
+      },
+      "questionNumber": "23",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "বল ও সরণের মধ্যবর্তী কোণ কত হলে বলের\nদ্বারা কাজ সম্পন্ন হবে?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "45°"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "120°"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "180°"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "200°"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "23"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q24",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "24",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "মুক্তিবেগের সমীকরণ হল-",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "Ve = $\\sqrt{2gR}$"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "Ve = $\\sqrt{GM/R}$"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "Ve = $\\sqrt{2GM/{R}^{2}}$"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "Ve = $\\sqrt{2gh}$"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "24"
+        }
+      ]
+    },
+    {
+      "clientId": "sylhet-2019-physics1st-q25",
+      "curriculum": {
+        "path": "hsc/physics/1st/chapter-6"
+      },
+      "questionNumber": "25",
+      "formatCode": "mcq_single",
+      "translations": {
+        "bn": {
+          "questionText": "g এর মান-\ni. পৃথিবী পৃষ্ঠে বেশি\nii. পৃথিবীর কেন্দ্রে শূন্য হয়\niii. পৃথিবী পৃষ্ঠে ও চাঁদের পৃষ্ঠের অনুপাত 16:81\nনিচের কোনটি সঠিক?",
+          "solutionText": null
+        }
+      },
+      "choices": [
+        {
+          "ordinal": 1,
+          "key": "a",
+          "isCorrect": true,
+          "body": {
+            "bn": "i ও ii"
+          }
+        },
+        {
+          "ordinal": 2,
+          "key": "b",
+          "isCorrect": false,
+          "body": {
+            "bn": "i ও iii"
+          }
+        },
+        {
+          "ordinal": 3,
+          "key": "c",
+          "isCorrect": false,
+          "body": {
+            "bn": "ii ও iii"
+          }
+        },
+        {
+          "ordinal": 4,
+          "key": "d",
+          "isCorrect": false,
+          "body": {
+            "bn": "i, ii ও iii"
+          }
+        }
+      ],
+      "assets": [],
+      "provenance": {
+        "sourceDocumentSha256": "9e19c1d50e3e6c09097d8463caf0a0e73174ccf81705e43d48ef66d890c7b076",
+        "page": 2,
+        "bbox": null,
+        "extractorModel": "human",
+        "promptVersion": "import-json-guide-2026-09",
+        "confidence": 1
+      },
+      "sources": [
+        {
+          "source_type": "board_exam",
+          "exam_category_code": "board",
+          "organization": "Sylhet",
+          "exam_name": "HSC Physics 1st Paper",
+          "year": 2019,
+          "session": null,
+          "paper": "1st",
+          "unit_name": null,
+          "set_name": null,
+          "source_reference": null,
+          "source_item_reference": "25"
+        }
+      ]
+    }
+  ]
+}
