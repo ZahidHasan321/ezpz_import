@@ -8,15 +8,18 @@
     page: Number(params.get('current')) || null,
   };
 
-  async function sha256Hex(text) {
-    const data = new TextEncoder().encode(text);
-    const digest = await crypto.subtle.digest('SHA-256', data);
+  async function sha256HexBytes(bytes) {
+    const digest = await crypto.subtle.digest('SHA-256', bytes);
     return Array.from(new Uint8Array(digest))
       .map((b) => b.toString(16).padStart(2, '0'))
       .join('');
   }
 
-  CONFIG.sourceDocumentSha256 = await sha256Hex(
+  async function sha256HexText(text) {
+    return sha256HexBytes(new TextEncoder().encode(text));
+  }
+
+  CONFIG.sourceDocumentSha256 = await sha256HexText(
     `${CONFIG.board}-${CONFIG.year}-${CONFIG.subjectLabel}-cq`
   );
 
@@ -36,6 +39,10 @@
     '≤': '\\leq', '≥': '\\geq', '≠': '\\neq', '≈': '\\approx', '∞': '\\infty',
     '→': '\\to', '±': '\\pm', '∘': '\\circ', '∫': '\\int', '∑': '\\sum', '∏': '\\prod',
     '{': '\\{', '}': '\\}',
+    '\u2061': '', // invisible function application (e.g. after cos, sin, log)
+    '\u2062': '', // invisible times
+    '\u2063': '', // invisible separator
+    '\u2064': '', // invisible plus
   };
 
   function mapSymbol(text) {
@@ -129,33 +136,154 @@
     }
   }
 
-  // Pulls <img> out of the clone, replaces each with a "[IMG_n]" placeholder in
-  // the text stream, and pushes {index, mimeType, data, altText} into assetsOut.
-  function extractImages(clone, assetsOut) {
+  const MIME_EXT = {
+    'image/svg+xml': 'svg',
+    'image/png': 'png',
+    'image/jpeg': 'jpg',
+    'image/jpg': 'jpg',
+    'image/gif': 'gif',
+    'image/webp': 'webp',
+  };
+
+  function extFromMime(mime) {
+    return MIME_EXT[(mime || '').split(';')[0].trim()] || null;
+  }
+
+  function extFromUrl(url) {
+    const match = (url || '').match(/\.([a-zA-Z0-9]+)(?:\?|#|$)/);
+    return match ? match[1].toLowerCase() : null;
+  }
+
+  // Pulls <img> and inline <svg> out of the clone, replaces each with a
+  // "[IMG_n]" placeholder in the text stream, and pushes a preliminary
+  // descriptor into assetsOut. Bytes/hash are resolved later by finalizeAssets,
+  // since hashing requires an async crypto call.
+  function extractImages(clone, assetsOut, role) {
     clone.querySelectorAll('img').forEach((img) => {
       const src = img.getAttribute('src') || '';
-      const match = src.match(/^data:(image\/[a-zA-Z0-9.+-]+);base64,(.*)$/);
+      const dataMatch = src.match(/^data:(image\/[a-zA-Z0-9.+-]+);base64,(.*)$/);
       const idx = assetsOut.length;
-      if (match) {
+      if (dataMatch) {
         assetsOut.push({
           index: idx,
-          mimeType: match[1],
-          data: match[2],
-          altText: img.getAttribute('alt') || '',
+          role,
+          kind: 'data',
+          mimeType: dataMatch[1],
+          dataB64: dataMatch[2],
         });
       } else {
-        // external / non-data-uri image — keep the URL instead of inlining bytes
-        assetsOut.push({ index: idx, url: src, altText: img.getAttribute('alt') || '' });
+        assetsOut.push({ index: idx, role, kind: 'url', url: src });
       }
       img.replaceWith(document.createTextNode(`[IMG_${idx}]`));
     });
+
+    clone.querySelectorAll('svg').forEach((svg) => {
+      const idx = assetsOut.length;
+      assetsOut.push({ index: idx, role, kind: 'inline-svg', markup: svg.outerHTML });
+      svg.replaceWith(document.createTextNode(`[IMG_${idx}]`));
+    });
   }
 
-  function texify(root, assetsOut) {
+  // Composites a raster image (which may have alpha transparency) onto a
+  // white background and re-encodes it as PNG.
+  function rasterizeWithWhiteBackground(bytes, mimeType) {
+    return new Promise((resolve, reject) => {
+      const blob = new Blob([bytes], { type: mimeType || 'image/png' });
+      const url = URL.createObjectURL(blob);
+      const img = new Image();
+      img.onload = () => {
+        const canvas = document.createElement('canvas');
+        canvas.width = img.naturalWidth || img.width;
+        canvas.height = img.naturalHeight || img.height;
+        const ctx = canvas.getContext('2d');
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.drawImage(img, 0, 0);
+        URL.revokeObjectURL(url);
+        canvas.toBlob((outBlob) => {
+          outBlob.arrayBuffer().then((buf) => resolve(new Uint8Array(buf)));
+        }, 'image/png');
+      };
+      img.onerror = (err) => {
+        URL.revokeObjectURL(url);
+        reject(err);
+      };
+      img.src = url;
+    });
+  }
+
+  // Inserts a white background <rect> as the first child of an SVG's root,
+  // so it no longer renders transparent when viewed outside the page.
+  function addWhiteBackgroundToSvg(markup) {
+    const doc = new DOMParser().parseFromString(markup, 'image/svg+xml');
+    const svgEl = doc.documentElement;
+    const rect = doc.createElementNS('http://www.w3.org/2000/svg', 'rect');
+    rect.setAttribute('x', '0');
+    rect.setAttribute('y', '0');
+    rect.setAttribute('width', '100%');
+    rect.setAttribute('height', '100%');
+    rect.setAttribute('fill', 'white');
+    svgEl.insertBefore(rect, svgEl.firstChild);
+    return new XMLSerializer().serializeToString(svgEl);
+  }
+
+  // Resolves each preliminary descriptor to real bytes, hashes it, stores the
+  // bytes in window.__imageBytes keyed by hash (dedupes identical images),
+  // and rewrites assetsOut entries to the clean {sha256, role, page, bbox}
+  // shape used in the schema. All raster/SVG output gets a white background.
+  async function finalizeAssets(assetsOut) {
+    window.__imageBytes = window.__imageBytes || new Map();
+
+    for (let i = 0; i < assetsOut.length; i++) {
+      const a = assetsOut[i];
+      let bytes;
+      let ext;
+
+      if (a.kind === 'data') {
+        const binary = atob(a.dataB64);
+        const rawBytes = new Uint8Array(binary.length);
+        for (let j = 0; j < binary.length; j++) rawBytes[j] = binary.charCodeAt(j);
+        if (a.mimeType === 'image/svg+xml') {
+          bytes = new TextEncoder().encode(addWhiteBackgroundToSvg(new TextDecoder().decode(rawBytes)));
+          ext = 'svg';
+        } else {
+          bytes = await rasterizeWithWhiteBackground(rawBytes, a.mimeType);
+          ext = 'png';
+        }
+      } else if (a.kind === 'url') {
+        const res = await fetch(a.url, { credentials: 'same-origin' });
+        const buf = await res.arrayBuffer();
+        const rawBytes = new Uint8Array(buf);
+        const detectedExt = extFromMime(res.headers.get('content-type')) || extFromUrl(a.url) || 'bin';
+        if (detectedExt === 'svg') {
+          bytes = new TextEncoder().encode(addWhiteBackgroundToSvg(new TextDecoder().decode(rawBytes)));
+          ext = 'svg';
+        } else {
+          bytes = await rasterizeWithWhiteBackground(rawBytes, res.headers.get('content-type'));
+          ext = 'png';
+        }
+      } else if (a.kind === 'inline-svg') {
+        bytes = new TextEncoder().encode(addWhiteBackgroundToSvg(a.markup));
+        ext = 'svg';
+      } else {
+        bytes = new Uint8Array(0);
+        ext = 'bin';
+      }
+
+      const sha256 = await sha256HexBytes(bytes);
+      if (!window.__imageBytes.has(sha256)) {
+        window.__imageBytes.set(sha256, { bytes, ext });
+      }
+
+      assetsOut[i] = { sha256, role: a.role, page: CONFIG.page, bbox: null };
+    }
+  }
+
+  function texify(root, assetsOut, role) {
     const clone = root.cloneNode(true);
     clone.querySelectorAll('br').forEach((br) => br.replaceWith(document.createTextNode('\n')));
 
-    if (assetsOut) extractImages(clone, assetsOut);
+    if (assetsOut) extractImages(clone, assetsOut, role);
 
     // Space-guard: keep Bangla text and inline math from fusing together when
     // the source has no whitespace between them.
@@ -213,7 +341,6 @@
     if (!btn) return;
 
     btn.click();
-    // wait for accordion expand animation / DOM update
     await new Promise((resolve) => setTimeout(resolve, 250));
   }
 
@@ -226,7 +353,8 @@
 
     const stimulusAssets = [];
     const stimulusEl = card.querySelector('div.noto.font-medium');
-    const stimulusText = stimulusEl ? texify(stimulusEl, stimulusAssets) : '';
+    const stimulusText = stimulusEl ? texify(stimulusEl, stimulusAssets, 'stem') : '';
+    await finalizeAssets(stimulusAssets);
 
     const chapterEl = card.querySelector('p.poppins');
     const chapterMatch = chapterEl ? chapterEl.textContent.match(/Chapter\s*(\d+)/i) : null;
@@ -241,20 +369,20 @@
       const keyEl = partEl.querySelector('button span.rounded-full');
       const key = keyEl ? keyEl.textContent.trim() : null;
 
-      // the question text lives inside the button, before reveal
+      const questionAssets = [];
       const questionEl = partEl.querySelector('button div.noto');
-      const questionText = questionEl ? texify(questionEl) : '';
+      const questionText = questionEl ? texify(questionEl, questionAssets, `part-${key}-question`) : '';
+      await finalizeAssets(questionAssets);
 
       await revealPart(partEl);
 
       const notoDivs = Array.from(partEl.querySelectorAll('div.noto'));
-      // first div.noto is the question itself (inside the button); anything
-      // after that is the revealed answer content
       const answerEls = notoDivs.slice(1);
-      const partAssets = [];
+      const answerAssets = [];
       const answerText = answerEls.length
-        ? answerEls.map((el) => texify(el, partAssets)).join('\n\n')
+        ? answerEls.map((el) => texify(el, answerAssets, `part-${key}-answer`)).join('\n\n')
         : null;
+      await finalizeAssets(answerAssets);
 
       if (!answerText) {
         console.warn(`Part "${key}" of question ${questionNumber} has no revealed answer — click/selector may need adjusting.`);
@@ -264,7 +392,7 @@
         key,
         questionText,
         answerText,
-        assets: partAssets,
+        assets: [...questionAssets, ...answerAssets],
       });
     }
 
@@ -333,15 +461,15 @@
       }
     }
 
-    console.log(`Added ${added}, updated ${updated}. Total: ${window.__scrapedCQItems.length}`);
+    console.log(
+      `Added ${added}, updated ${updated}. Total: ${window.__scrapedCQItems.length}. ` +
+      `Images cached: ${window.__imageBytes ? window.__imageBytes.size : 0}`
+    );
     return window.__scrapedCQItems;
   }
 
-  function downloadJSON(filename) {
-    const output = {
-      schemaVersion: 'ezpz-content-import-v2',
-      items: window.__scrapedCQItems,
-    };
+  function downloadCQJSON(filename) {
+    const output = { schemaVersion: 'ezpz-content-import-v2', items: window.__scrapedCQItems };
     const blob = new Blob([JSON.stringify(output, null, 2)], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
@@ -351,7 +479,121 @@
     URL.revokeObjectURL(url);
   }
 
+  function crc32(data) {
+    let crc = ~0;
+    for (let i = 0; i < data.length; i++) {
+      crc ^= data[i];
+      for (let j = 0; j < 8; j++) {
+        crc = (crc >>> 1) ^ (0xedb88320 & -(crc & 1));
+      }
+    }
+    return ~crc >>> 0;
+  }
+
+  // Minimal ZIP writer, STORE method (no compression). Self-contained so we
+  // don't have to load a third-party library into the page's console context,
+  // which could be blocked by the site's CSP.
+  function buildZip(files) {
+    const encoder = new TextEncoder();
+    let offset = 0;
+    const localParts = [];
+    const centralParts = [];
+
+    for (const file of files) {
+      const nameBytes = encoder.encode(file.name);
+      const data = file.data;
+      const crc = crc32(data);
+      const size = data.length;
+
+      const localHeader = new Uint8Array(30 + nameBytes.length);
+      const lv = new DataView(localHeader.buffer);
+      lv.setUint32(0, 0x04034b50, true);
+      lv.setUint16(4, 20, true);
+      lv.setUint16(6, 0, true);
+      lv.setUint16(8, 0, true);
+      lv.setUint16(10, 0, true);
+      lv.setUint16(12, 0, true);
+      lv.setUint32(14, crc, true);
+      lv.setUint32(18, size, true);
+      lv.setUint32(22, size, true);
+      lv.setUint16(26, nameBytes.length, true);
+      lv.setUint16(28, 0, true);
+      localHeader.set(nameBytes, 30);
+      localParts.push(localHeader, data);
+
+      const centralHeader = new Uint8Array(46 + nameBytes.length);
+      const cv = new DataView(centralHeader.buffer);
+      cv.setUint32(0, 0x02014b50, true);
+      cv.setUint16(4, 20, true);
+      cv.setUint16(6, 20, true);
+      cv.setUint16(8, 0, true);
+      cv.setUint16(10, 0, true);
+      cv.setUint16(12, 0, true);
+      cv.setUint16(14, 0, true);
+      cv.setUint32(16, crc, true);
+      cv.setUint32(20, size, true);
+      cv.setUint32(24, size, true);
+      cv.setUint16(28, nameBytes.length, true);
+      cv.setUint16(30, 0, true);
+      cv.setUint16(32, 0, true);
+      cv.setUint16(34, 0, true);
+      cv.setUint16(36, 0, true);
+      cv.setUint32(38, 0, true);
+      cv.setUint32(42, offset, true);
+      centralHeader.set(nameBytes, 46);
+      centralParts.push(centralHeader);
+
+      offset += localHeader.length + data.length;
+    }
+
+    const centralStart = offset;
+    const centralSize = centralParts.reduce((sum, p) => sum + p.length, 0);
+
+    const endRecord = new Uint8Array(22);
+    const ev = new DataView(endRecord.buffer);
+    ev.setUint32(0, 0x06054b50, true);
+    ev.setUint16(4, 0, true);
+    ev.setUint16(6, 0, true);
+    ev.setUint16(8, files.length, true);
+    ev.setUint16(10, files.length, true);
+    ev.setUint32(12, centralSize, true);
+    ev.setUint32(16, centralStart, true);
+    ev.setUint16(20, 0, true);
+
+    const allParts = [...localParts, ...centralParts, endRecord];
+    const totalLength = allParts.reduce((sum, p) => sum + p.length, 0);
+    const result = new Uint8Array(totalLength);
+    let pos = 0;
+    for (const part of allParts) {
+      result.set(part, pos);
+      pos += part.length;
+    }
+    return result;
+  }
+
+  function downloadCQBundle(baseName) {
+    const name = baseName || 'export';
+    const output = { schemaVersion: 'ezpz-content-import-v2', items: window.__scrapedCQItems };
+    const jsonBytes = new TextEncoder().encode(JSON.stringify(output, null, 2));
+
+    const files = [{ name: `${name}.json`, data: jsonBytes }];
+    const imageBytes = window.__imageBytes || new Map();
+    imageBytes.forEach((val, sha) => {
+      files.push({ name: `assets/${sha}.${val.ext}`, data: val.bytes });
+    });
+
+    const zipBytes = buildZip(files);
+    const blob = new Blob([zipBytes], { type: 'application/zip' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${name}.zip`;
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
   window.scrapeCQPage = scrapePage;
-  window.downloadCQJSON = downloadJSON;
+  window.downloadCQJSON = downloadCQJSON;
+  window.downloadCQBundle = downloadCQBundle;
   await scrapePage();
 })();
